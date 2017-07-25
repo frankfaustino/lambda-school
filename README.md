@@ -15,7 +15,7 @@ Eloquent JavaScript – [Chapter #4:](http://eloquentjavascript.net/04_data.html
 #### Extras:
 Lambda Pro – [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo courses
 ***
-# Month 1 ━ July 2017
+## Month 1 ━ July 2017
 ### Week 01 → Day 001 → Monday, July 7
 **Notes** 📝 
 
@@ -35,4 +35,4 @@ Lambda Pro – [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo
 
 ### Week 01 → Day 002 → Tuesday, July 8
 ***
-# Month 2 ━ August 2017
+## Month 2 ━ August 2017
