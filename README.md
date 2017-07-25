@@ -26,15 +26,23 @@ Eloquent JavaScript – [Chapter #4:](http://eloquentjavascript.net/04_data.html
 Lambda Pro – [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo courses
 ***
 # Month 1 ━ July 2017
-## Week 01 → Day 001
+### Week 01 → Day 001 → Monday, July 7
 **Notes** 📝 
 
+  Link
+
 🗣 **Lectures**
+
   • ES5 and ES6, Arrow Functions, const & let, Callback Functions, Semi-Colons ;;;
+  
   • this, .call() .apply() & .bind()) and CLOSURE
 
 🤔  **Homework**
 
-## Week 01 → Day 002
+  Link
+  
+  Link
+
+### Week 01 → Day 002 → Tuesday, July 8
 ***
 # Month 2 ━ August 2017
