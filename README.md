@@ -3,10 +3,10 @@
 ┗━━Day 000 → [Pre-Course Work](#pre-course)
 
 ┏August  
-┣━━[Week 01](#week01) – [Basic / Advanced JavaScript](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)━━[Day 001](#day001) → Day 002 → Day 003 → Day 004 → Day 005  
-┣━━Week 02 – [Data Structures I & II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project21)  
-┣━━Week 03 – [DOM](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project31) / [React I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project32)  
-┗━━Week 04 – [React II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project41) / [Redux](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project42)  
+┣━━[Week 01](#week01)━━[Basic / Advanced JavaScript](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)━━[Day 001](#day001) → Day 002 → Day 003 → Day 004 → Day 005  
+┣━━Week 02━━[Data Structures I & II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project21)  
+┣━━Week 03━━[DOM](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project31) / [React I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project32)  
+┗━━Week 04━━[React II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project41) / [Redux](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project42)  
 
 ┏September  
 ┣━━Week 05 – [HTTP/AJAX](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project51) / [SPA/Routing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project52)  
