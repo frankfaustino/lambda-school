@@ -5,72 +5,43 @@
 ┎August  
 ┣━━[Week 01](#week01) – [Basic / Advanced JavaScript](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)  
 ┣━━[Day 001](#day001) → Day 002 → Day 003 → Day 004 → Day 005  
-┣━━Week 02 → Data Structures I & II  
-┣━━Day 006 → Day 007 → Day 008 → Day 009 → Day 010  
-┣━━Week 03 →  DOM / React I  
-┣━━Day 011 → Day 012 → Day 013 → Day 014 → Day 015  
-┣━━Week 04 →  React II / Redux  
-┗━━Day 016 → Day 017 → Day 018 → Day 019 → Day 020  
-
-┎August  
-┣━Week 05 – HTTP/AJAX / SPA/Routing  
-┣━━Day 021 → Day 022 → Day 023 → Day 024 → Day 025  
-┣━Week 06 → Client Testing / Node/Express  
-┣━━Day 026 → Day 027 → Day 028 → Day 029 → Day 030  
-┣━Week 07 → MongoDB I & II  
-┣━━Day 031 → Day 032 → Day 033 → Day 034 → Day 035  
-┣━Week 08 → MongoDB III / Auth  
-┗━━Day 036 → Day 037 → Day 038 → Day 039 → Day 040  
+┣━━Week 02 – [Data Structures I & II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project21)  
+┣━━Week 03 – [DOM](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project31) / [React I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project32)  
+┗━━Week 04 – [React II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project41) / [Redux](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project42)  
 
 ┎September  
-┣━Week 09 – Client Auth / Server Testing  
-┣━━Day 041 → Day 042 → Day 043 → Day 044 → Day 045  
-┣━Week 10 → DevOps & Deployment / React Native I  
-┣━━Day 046 → Day 047 → Day 048 → Day 049 → Day 050  
-┣━Week 11 → React Native II & III  
-┣━━Day 051 → Day 052 → Day 053 → Day 054 → Day 055  
-┣━Week 12 → Break Week! Personal Project  
-┗━━Day 056 → Day 057 → Day 058 → Day 059 → Day 060
+┣━━Week 05 – [HTTP/AJAX](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project51) / [SPA/Routing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project52)  
+┣━━Week 06 – [Client Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project61) / [Node/Express](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project62)  
+┣━━Week 07 – [MongoDB I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project71) & [II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project72)  
+┗━━Week 08 – [MongoDB III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project81) / [Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project82)  
 
-┎  
-┣━Week 0 – 
-┣━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
-┣━Week 0 →   
-┣━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
-┣━Week 0 →    
-┣━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
-┣━Week 0 →    
-┗━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
+┎September  
+┣━━Week 09 – Client Auth / Server Testing  
+┣━━Week 10 – DevOps & Deployment / React Native I  
+┣━━Week 11 – React Native II & III    
+┗━━Week 12 – Break Week! Personal Project  
 
-┎  
-┣━Week 0 – 
-┣━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
-┣━Week 0 →   
-┣━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
-┣━Week 0 →    
-┣━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
-┣━Week 0 →    
-┗━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
+┎October  
+┣━━Week 13 – Computer Architecture I & II 
+┣━━Week 14 – Computer Architecture III & C++ I  
+┣━━Week 15 – C++ II & III  
+┗━━Week 16 – Data Structures I & II  
 
-┎  
-┣━Week 0 – 
-┣━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
-┣━Week 0 →   
-┣━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
-┣━Week 0 →    
-┣━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
-┣━Week 0 →    
-┗━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
+┎November  
+┣━━Week 17 – Data Structures III & Algorithms I  
+┣━━Week 18 – Algorithms II & Operating Systems I  
+┣━━Week 19 – Operating Systems II & III  
+┗━━Week 20 – V8 Engine  
 
-┎  
-┣━Week 0 – 
-┣━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
-┣━Week 0 →   
-┣━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
-┣━Week 0 →    
-┣━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
-┣━Week 0 →    
-┗━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
+┎December  
+┣━━Week 21 – Relational DBs I & II  
+┣━━Week 22 – Capstone Project  
+┣━━Week 23 – Capstone Project   
+┗━━Week 24 – Capstone Project
+
+┎January  
+┣━━Week 25 – Capstone Project
+┗━━Week 26 – Interview & Job Search Strategies
 ***
 ### <a name="pre-course"></a>Pre-Course Work – [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 #### Completed:
