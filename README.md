@@ -1,13 +1,13 @@
 # Lambda School – Computer Science Academy [Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
-July →  
-┣──Week 01 →  
-┣────Day 001 → Day 002 → Day 003 → Day 004 → Day 005  
-┣──Week 02 →  
-┣────Day 006 → Day 007 → Day 008 → Day 009 → Day 010  
-┣──Week 03 →  
-┣────Day 011 → Day 012 → Day 013 → Day 014 → Day 015  
-┣──Week 04 →  
-┗────Day 016 → Day 017 → Day 018 → Day 019 → Day 020  
+┎July →  
+┣━Week 01 →  
+┣━━Day 001 → Day 002 → Day 003 → Day 004 → Day 005  
+┣━Week 02 →  
+┣━━Day 006 → Day 007 → Day 008 → Day 009 → Day 010  
+┣━Week 03 →  
+┣━━Day 011 → Day 012 → Day 013 → Day 014 → Day 015  
+┣━Week 04 →  
+┗━━Day 016 → Day 017 → Day 018 → Day 019 → Day 020  
 August
 ### Pre-Course Work – [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 #### Completed:
