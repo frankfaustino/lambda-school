@@ -3,13 +3,13 @@
 ┗━━Day 000 → [Pre-Course Work](#pre-course)
 
 ┎August  
-┣━[Week 01](#week01) – [Basic / Advanced JavaScript](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)  
+┣━━[Week 01](#week01) – [Basic / Advanced JavaScript](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)  
 ┣━━[Day 001](#day001) → Day 002 → Day 003 → Day 004 → Day 005  
-┣━Week 02 → Data Structures I & II  
+┣━━Week 02 → Data Structures I & II  
 ┣━━Day 006 → Day 007 → Day 008 → Day 009 → Day 010  
-┣━Week 03 →  DOM / React I  
+┣━━Week 03 →  DOM / React I  
 ┣━━Day 011 → Day 012 → Day 013 → Day 014 → Day 015  
-┣━Week 04 →  React II / Redux  
+┣━━Week 04 →  React II / Redux  
 ┗━━Day 016 → Day 017 → Day 018 → Day 019 → Day 020  
 
 ┎August  
