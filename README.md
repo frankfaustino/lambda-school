@@ -7,10 +7,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codecademy – [Learn JavaScript](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learn.co – [Git, Command Line](https://learn.co/lefrenk) `(Completed 9/2016)`  
 #### To be completed:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codecademy – [jQuery](https://www.codecademy.com/learn/jquery)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codecademy – [jQuery](https://www.codecademy.com/learn/jquery)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eloquent JavaScript – [Chapter #4:](http://eloquentjavascript.net/04_data.html)
 #### Extras:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lambda Pro – [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo courses
@@ -20,13 +20,13 @@
 **Notes** 📝   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Link]()  
 
-**Lectures** 🗣
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ES5 and ES6, Arrow Functions, const & let, Callback Functions, Semi-Colons ;;;  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;this, .call() .apply() & .bind()) and CLOSURE  
+**Lectures** 🗣  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) Description – Lecturer  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2) this, .call() .apply() & .bind()) and CLOSURE – Ben Nelson]()
 
-**Homework** 🤔
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link  
+**Homework** 🤔  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [Link]()  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [Link]()
 
 ### Week 01 → Day 002 → Tuesday, July 8
 ***
