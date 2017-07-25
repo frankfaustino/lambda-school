@@ -1,7 +1,7 @@
 # Lambda School – Computer Science Academy [Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 ┎July  
 ┣━[Week 01](#week01) – [Basic / Advanced JavaScript](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)  
-┣━━[Day 001][(#day001) → Day 002 → Day 003 → Day 004 → Day 005  
+┣━━[Day 001](#day001) → Day 002 → Day 003 → Day 004 → Day 005  
 ┣━Week 02 → Data Structures I & II  
 ┣━━Day 006 → Day 007 → Day 008 → Day 009 → Day 010  
 ┣━Week 03 →  DOM / React I  
