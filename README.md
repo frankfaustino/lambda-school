@@ -1,7 +1,6 @@
 # Lambda School – Computer Science Academy
 [Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
-## Pre-Course Work
-[Pre-Course Work Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
+### Pre-Course Work – [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 #### Completed:
 Lambda School – [JavaScript Minicamp](https://lambdaschool.com/mini-bootcamp/javascript) [[HW 1](https://github.com/lefrenk/js-minicamp-homework-1), [HW 2](https://github.com/lefrenk/js-minicamp-homework-2), and [HW 3](https://github.com/lefrenk/js-minicamp-homework-3)] `(Completed 7/25/2017)`  
 Codecademy – [Learn HTML & CSS: Part I](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
