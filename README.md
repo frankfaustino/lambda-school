@@ -40,7 +40,7 @@
 ┗━━Week 24 – Capstone Project
 
 ┎January  
-┣━━Week 25 – Capstone Project
+┣━━Week 25 – Capstone Project  
 ┗━━Week 26 – [Interview & Job Search Strategies](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project261)
 ***
 ### <a name="pre-course"></a>Pre-Course Work – [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
