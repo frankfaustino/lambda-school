@@ -17,15 +17,15 @@
 ***
 ## Month 1 ━ July 2017
 ### Week 01 → Day 001 → Monday, July 7
-**Lectures** 🗣  
+#### Lectures 🗣
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Description]() – Lecturer  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [`this`, `.call()`, `.apply()` & `.bind()` and CLOSURE]() – Ben Nelson
 
-**Notes** 📝   
+#### Notes 📝 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Link]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [`this`, `.call()`, `.apply()` & `.bind()` and CLOSURE]()  
 
-**Homework** 🤔  
+#### Homework 🤔
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [Link]()  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [Link]()
 
