@@ -27,11 +27,13 @@ Lambda Pro – [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo
 ***
 # Month 1 ━ July 2017
 ## Week 01 → Day 001
-Notes
+📝  Notes
 
-Lectures
+🗣 Lectures
+  • ES5 and ES6, Arrow Functions, const & let, Callback Functions, Semi-Colons ;;;
+  • this, .call() .apply() & .bind()) and CLOSURE
 
-Homework
+🤔  Homework
 
 ## Week 01 → Day 002
 ***
