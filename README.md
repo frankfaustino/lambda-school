@@ -1,5 +1,8 @@
 # Lambda School – Computer Science Academy [Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 ┎July  
+┗━━Day 000 → [Pre-Course Work](#pre-course)
+
+┎August  
 ┣━[Week 01](#week01) – [Basic / Advanced JavaScript](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)  
 ┣━━[Day 001](#day001) → Day 002 → Day 003 → Day 004 → Day 005  
 ┣━Week 02 → Data Structures I & II  
@@ -68,8 +71,8 @@
 ┣━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
 ┣━Week 0 →    
 ┗━━Day 0 → Day 0 → Day 0 → Day 0 → Day 0  
-
-### Pre-Course Work – [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
+***
+### <a name="pre-course"></a>Pre-Course Work – [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 #### Completed:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lambda School – [JavaScript Minicamp](https://lambdaschool.com/mini-bootcamp/javascript) [[HW 1](https://github.com/lefrenk/js-minicamp-homework-1), [HW 2](https://github.com/lefrenk/js-minicamp-homework-2), and [HW 3](https://github.com/lefrenk/js-minicamp-homework-3)] `(Completed 7/25/2017)`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codecademy – [Learn HTML & CSS: Part I](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
