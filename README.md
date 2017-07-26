@@ -3,7 +3,7 @@
 ┗━━Day 000 → [Pre-Course Work](#pre-course)
 
 ┏August  
-┣━━[Week 01](#week01)━━[Basic / Advanced JavaScript](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)━━[Day 001](#day001) → Day 002 → Day 003 → Day 004 → Day 005  
+┣━━[Week 01](#week01)━━[Basic / Advanced JavaScript](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)━━[Day 001](#day001) → [Day 002](#day002) → [Day 003](#day003) → [Day 004](#day004) → [Day 005](#day005)  
 ┣━━Week 02━━[Data Structures I & II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project21)  
 ┣━━Week 03━━[DOM](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project31) / [React I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project32)  
 ┗━━Week 04━━[React II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project41) / [Redux](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project42)  
@@ -104,12 +104,12 @@
 
 #### Notes 📝  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ Functions  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ Higher-order Functions (Closure & Call-back Functions)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ Higher-order Functions (Closure & Call-back Functions)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₃ Recursion
 
 #### Homework 🤔
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Advanced-JavaScript)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()  
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day005" />Day 005 → Friday, July 11
 #### Lectures 🗣
@@ -117,7 +117,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [Blah, blah, blah]() – Ben Nelson
 
 #### Notes 📝  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ Classes
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ Classes  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ `this`
 
 #### Homework 🤔
