@@ -14,31 +14,31 @@
 ┣━━Week 07 – [MongoDB I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project71) & [II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project72)  
 ┗━━Week 08 – [MongoDB III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project81) / [Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project82)  
 
-┎September  
+┎October  
 ┣━━Week 09 – [Client Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project91) / [Server Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project92)  
 ┣━━Week 10 – [DevOps & Deployment](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project101) / [React Native I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project102)  
 ┣━━Week 11 – [React Native II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project111) & [III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project112)  
 ┗━━Week 12 – Break Week! Personal Project  
 
-┎October  
+┎November  
 ┣━━Week 13 – [Computer Architecture I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project131) & [II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project132)  
 ┣━━Week 14 – [Computer Architecture III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project141) & [C++ I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project142)  
 ┣━━Week 15 – [C++ II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project151) & [III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project152)  
 ┗━━Week 16 – [Data Structures I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project161) & [II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project162)  
 
-┎November  
+┎December  
 ┣━━Week 17 – [Data Structures III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project171) & [Algorithms I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project172)  
 ┣━━Week 18 – [Algorithms II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project181) & [Operating Systems I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project182)  
 ┣━━Week 19 – [Operating Systems II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project191) & [III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project192)  
 ┗━━Week 20 – [V8 Engine](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project201)  
 
-┎December  
+┎January  
 ┣━━Week 21 – [Relational DBs I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project211) & [II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project212)  
 ┣━━Week 22 – [Capstone Project](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project221)  
 ┣━━Week 23 – Capstone Project   
 ┗━━Week 24 – Capstone Project
 
-┎January  
+┎February  
 ┣━━Week 25 – Capstone Project  
 ┗━━Week 26 – [Interview & Job Search Strategies](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project261)
 ***
