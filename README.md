@@ -68,7 +68,7 @@
 
 #### Homework 🤔
 Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
-Homework – [https://github.com/lefrenk/???]()  
+Homework – [https://github.com/lefrenk/???]()  
 ⋯⋯⋯⋯
 ### Week 01 → <a name="day002"></a>Day 002 → Tuesday, July 8
 #### Lectures 🗣
