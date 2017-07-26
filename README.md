@@ -60,15 +60,15 @@
 ## Month 1 ━ July 2017
 ### <a name="week01"></a>Week 01 → <a name="day001"></a>Day 001 → Monday, July 7
 #### Lectures 🗣
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Orientation]() – Lecturer  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [ES6]() – Ben Nelson
+₁ [Orientation]() – Lecturer  
+₂ [ES6]() – Ben Nelson
 
 #### Notes 📝 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [ES6]()  
+₁ [ES6]()  
 
 #### Homework 🤔
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()
+Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
+Homework – [https://github.com/lefrenk/???]()  
 ⋯⋯⋯⋯
 ### Week 01 → <a name="day002"></a>Day 002 → Tuesday, July 8
 #### Lectures 🗣
@@ -82,7 +82,7 @@
 
 #### Homework 🤔
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()  
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → Day 003 → Wednesday, July 9
 #### Lectures 🗣
