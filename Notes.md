@@ -35,3 +35,7 @@ The double-bang is a simple way to Typecast something to Boolean. The Boolean wi
 ```javascript
 !!0 // Return false
 ```
+
+### Arrow Functions `=>`
+
+Arrow functions have an implicit return feature: if the function body consists of a single expression, you can omit the `return` keyword: ```javascript () => 'foo' ``` is a function that takes no parameters, and returns the string, `'foo'`.
