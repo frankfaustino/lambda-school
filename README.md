@@ -60,17 +60,56 @@
 ## Month 1 ━ July 2017
 ### <a name="week01"></a>Week 01 → <a name="day001"></a>Day 001 → Monday, July 7
 #### Lectures 🗣
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Description]() – Lecturer  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [`this`, `.call()`, `.apply()` & `.bind()` and CLOSURE]() – Ben Nelson
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Orientation]() – Lecturer  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [ES6]() – Ben Nelson
 
 #### Notes 📝 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Link]()  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [`this`, `.call()`, `.apply()` & `.bind()` and CLOSURE]()  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [ES6]()  
 
 #### Homework 🤔
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [Link]()  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [Link]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₋Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₋Homework – [https://github.com/lefrenk/???]()
 
 ### Week 01 → Day 002 → Tuesday, July 8
+#### Lectures 🗣
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Blah, blah, blah]() – Lecturer  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [Blah, blah, blah]() – Ben Nelson
+
+#### Notes 📝 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Understanding Linting & the AirBnB Linter]()  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ `if` Statements, Logical Operators, Boolean Values  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₃ `for` Loops  
+
+#### Homework 🤔
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₋Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₋Homework – [https://github.com/lefrenk/???]()
+
+### Week 01 → Day 003 → Tuesday, July 9
+#### Lectures 🗣
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Blah, blah, blah]() – Lecturer  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [Blah, blah, blah]() – Ben Nelson
+
+#### Notes 📝  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ Arrays, Array methods  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ Objects  
+
+#### Homework 🤔
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₋Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₋Homework – [https://github.com/lefrenk/???]()
+
+
+### Week 01 → Day 003 → Tuesday, July 9
+#### Lectures 🗣
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Blah, blah, blah]() – Lecturer  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [Blah, blah, blah]() – Ben Nelson
+
+#### Notes 📝  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ Functions  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ Higher-order Functions (Closure & Call-back Functions)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₃ Recursion
+
+#### Homework 🤔
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₋Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₋Homework – [https://github.com/lefrenk/???]()
 ***
 ## Month 2 ━ August 2017
