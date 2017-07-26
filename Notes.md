@@ -4,11 +4,11 @@
 Everything in JavaScript has an inherent Boolean value, generally known as truthy or falsy.
 #### Falsy values:  
 • false  
-• 0 (zero)  		
-• “” (empty string)  
+• 0 *(zero)*  
+• “” *(empty string)*  
 • null  
 • undefined  
-• NaN (Number value meaning Not-a-Number)  
+• NaN *(Number value meaning Not-a-Number)*  
 
 #### Truthy values:
 • true  
@@ -32,4 +32,6 @@ The double-bang is a simple way to Typecast something to Boolean. The Boolean wi
 
 #### Syntax
 
-`!!0 // Return false`
+```javascript
+!!0 // Return false
+```
