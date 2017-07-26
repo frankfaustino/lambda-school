@@ -94,9 +94,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ Objects  
 
 #### Homework 🤔
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₋Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₋Homework – [https://github.com/lefrenk/???]()
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()
 
 ### Week 01 → Day 003 → Tuesday, July 9
 #### Lectures 🗣
@@ -109,7 +108,32 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₃ Recursion
 
 #### Homework 🤔
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₋Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₋Homework – [https://github.com/lefrenk/???]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Advanced-JavaScript)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()
+**
+### Week 01 → Day 004 → Tuesday, July 10
+#### Lectures 🗣
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Blah, blah, blah]() – Lecturer  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [Blah, blah, blah]() – Ben Nelson
+
+#### Notes 📝  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ Classes
+
+#### Homework 🤔
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Advanced-JavaScript)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()
+**
+### Week 01 → Day 005 → Tuesday, July 11
+#### Lectures 🗣
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Blah, blah, blah]() – Lecturer  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [Blah, blah, blah]() – Ben Nelson
+
+#### Notes 📝  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ `this`
+
+#### Homework 🤔
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Advanced-JavaScript)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()
+
 ***
 ## Month 2 ━ August 2017
