@@ -69,6 +69,7 @@
 #### Homework 🤔
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()  
+
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day002"></a>Day 002 → Tuesday, July 8
 #### Lectures 🗣
@@ -83,6 +84,7 @@
 #### Homework 🤔
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()  
+
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day003"></a>Day 003 → Wednesday, July 9
 #### Lectures 🗣
@@ -96,6 +98,7 @@
 #### Homework 🤔
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()  
+
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day004" />Day 004 → Thursday, July 10
 #### Lectures 🗣
@@ -110,6 +113,7 @@
 #### Homework 🤔
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Advanced-JavaScript](https://github.com/SunJieMing/Advanced-JavaScript)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()  
+
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day005" />Day 005 → Friday, July 11
 #### Lectures 🗣
