@@ -69,7 +69,7 @@
 #### Homework 🤔
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()  
-⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day002"></a>Day 002 → Tuesday, July 8
 #### Lectures 🗣
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Blah, blah, blah]() – Lecturer  
@@ -84,7 +84,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()  
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-### Week 01 → Day 003 → Wednesday, July 9
+### Week 01 → <a name="day003"></a>Day 003 → Wednesday, July 9
 #### Lectures 🗣
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Blah, blah, blah]() – Lecturer  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [Blah, blah, blah]() – Ben Nelson
@@ -96,8 +96,8 @@
 #### Homework 🤔
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-### Week 01 → Day 004 → Thursday, July 10
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+### Week 01 → <a name="day004" />Day 004 → Thursday, July 10
 #### Lectures 🗣
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Blah, blah, blah]() – Lecturer  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [Blah, blah, blah]() – Ben Nelson
@@ -110,8 +110,8 @@
 #### Homework 🤔
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Advanced-JavaScript)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-### Week 01 → Day 005 → Friday, July 11
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+### Week 01 → <a name="day005" />Day 005 → Friday, July 11
 #### Lectures 🗣
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Blah, blah, blah]() – Lecturer  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [Blah, blah, blah]() – Ben Nelson
