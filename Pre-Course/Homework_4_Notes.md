@@ -1,11 +1,11 @@
 # Advanced JavaScript Minicamp – Homework 4
 
 ### Summary
-- Truthy and Falsy
-- !!
-- 
+- [Truthy and Falsy](#1)
+- [!!](#2)
+- [`arguments`](#3)
 
-## Truthy and Falsy Values
+## <a name="1" />Truthy and Falsy Values
 Everything in JavaScript has an inherent Boolean value, generally known as truthy or falsy.
 #### Falsy values:  
 • `false`  
@@ -25,7 +25,7 @@ Everything in JavaScript has an inherent Boolean value, generally known as truth
 ```javascript
 function myFunction(x, y) {
   if (x) return 'error!';    // Returns "error!" if x === true
-  if (!y) return 'error!'';  // Returns "error!" if y === false
+  if (!y) return 'error!';  // Returns "error!" if y === false
 }
 ```
 
@@ -37,7 +37,7 @@ function x(y) {
 x(0)	// ‘0 is falsy’
 ```
 
-## !! (double-bang)
+## <a name="2" />!! (double-bang)
 
 Is double negation. The first negation will convert the data to a Boolean value, the second negation reserves the value again. 
 
@@ -46,7 +46,7 @@ Is double negation. The first negation will convert the data to a Boolean value,
 ```javascript
 !!0 // Return false
 ```
-## `arguments`
+## <a name="3" />`arguments`
 
 `arguments` is a pseudo-array. Allows you to access an unknown number of arguments coming into a function. 
 
