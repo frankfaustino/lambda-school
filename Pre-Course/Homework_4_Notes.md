@@ -40,7 +40,9 @@ x(0)	// ‘0 is falsy’
 
 ## <a name="2" />!! (double-bang)
 
-Is double negation. The first negation will convert the data to a Boolean value, the second negation reserves the value again. 
+Is a double negation. The first negation will convert the data to a Boolean value, the second negation reserves the value again. 
+
+Shortcut way to check a value's truthiness or falsiness.
 
 #### Syntax
 
