@@ -28,7 +28,7 @@ x(0)	// ‘0 is falsy’
 
 ### !! (double-bang)
 
-The double-bang is a simple way to Typecast something to Boolean. The Boolean will cast true for truthy values and false for falsy values.
+Is double negation. The first negation will convert the data to a Boolean value, the second negation reserves the value again. 
 
 #### Syntax
 
