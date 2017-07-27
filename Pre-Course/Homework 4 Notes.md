@@ -4,8 +4,9 @@
 - [Truthy and Falsy](#1)
 - [!!](#2)
 - [`arguments`](#3)
-- [forEach](#4)
+- [forEach()](#4)
 - [Callback Functions](#5)
+- [reduce()](#6)
 
 ## <a name="1" />Truthy and Falsy Values
 Everything in JavaScript has an inherent Boolean value, generally known as truthy or falsy.
@@ -67,7 +68,7 @@ function sumNumbers() {
 
 sumNumbers(1, 2, 3, 4, 5, 6, 7, 8, 9);
 ```
-## <a name="4" />`forEach`
+## <a name="4" />`forEach()`
 
 The forEach() method executes a provided function once for each array element.
 
@@ -168,4 +169,20 @@ function getInput(options, callback) {
 // logStuff is the function that will be called back in getInput
 getInput('{name:'Frank', specialty:'JavaScript'}', logStuff)
 ```
+## <a name="6" />`reduce()`
 
+The reduce() method applies a function against an accumulator and each element in the array (from left to right) to reduce it to a single value.
+
+```javascript
+var arr = [0, 1, 2, 3];
+var total = arr.reduce(function(sum, value) {
+  return sum + value;
+}, 0);
+// total is 6
+```
+```javascript
+var flattened = [[0, 1], [2, 3], [4, 5]].reduce(function(a, b) {
+  return a.concat(b);
+}, []);
+// flattened is [0, 1, 2, 3, 4, 5]
+```
