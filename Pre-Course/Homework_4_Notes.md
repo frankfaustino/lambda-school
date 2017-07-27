@@ -17,7 +17,7 @@ Everything in JavaScript has an inherent Boolean value, generally known as truth
 • `NaN` *(Number value meaning Not-a-Number)*  
 
 #### All other values are Truthy, including:
-• `true` 
+• `true`  
 • `function(){}` *(empty functions)*  
 • `{}` *(empty objects)*  
 • `[]` *(empty arrays)*	
@@ -25,7 +25,7 @@ Everything in JavaScript has an inherent Boolean value, generally known as truth
 #### Common Use Case
 ```javascript
 function myFunction(x, y) {
-  if (x) return 'error!';    // Returns "error!" if x === true
+  if (x) return 'truth!';    // Returns "truth!" if x === true
   if (!y) return 'error!';  // Returns "error!" if y === false
 }
 ```
