@@ -71,7 +71,7 @@ sumNumbers(1, 2, 3, 4, 5, 6, 7, 8, 9);
 
 A Callback function, aka **higher-order function** is a function that is passed as an argument to another function and the callback function is called (or executed) inside the other function.
 
-ref. [Understanding JavaScript Callback Functions](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+*ref. [Understanding JavaScript Callback Functions](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)*
 
 #### Syntax
 
