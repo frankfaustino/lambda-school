@@ -85,13 +85,13 @@ friends.forEach(function(eachName, index) {  // an anonymous function being pass
 
 ### How do Callback Functions work?
 
-When we pass a callback function as an argument to another function, we are only passing the function definition. We are not executing the function in the parameter. In other words, we aren't passing the function with the trailing paor of executing parenthesis `()` like we do when we are executing a function.
+When we pass a callback function as an argument to another function, we are only passing the function definition. We are not executing the function in the parameter. In other words, we aren't passing the function with the trailing pair of executing parenthesis `()` like we do when we are executing a function.
 
 Since the containing function has the callback function in its parameter as a function definition, it can execute the callback anytime.
 
 Note that the callback function is not executed immediately. It is "called back" at some specified point inside the containing function's body.
 
-```jQuery
+```javascript
 $("#btn_1").click(function() {
   alert("Btn 1 Clicked");
   });
