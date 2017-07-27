@@ -82,6 +82,7 @@ arr.forEach(function callback(currentValue, index, array) {
 - **currentValue** The value of the current element being processed in the array.  
 - **index** The index of the current element being processed in the array.  
 - **array** The array that forEach is being applied to.  
+
 **thisArg** *optional* value to use as `this` (i.e. the reference to Object) when executing callback.
 
 ```javascript
