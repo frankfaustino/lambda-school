@@ -1,6 +1,6 @@
 # Advanced JavaScript Minicamp – Homework 4
 
-### Summary
+### Contents
 - [Truthy and Falsy](#1)
 - [`!!`](#2)
 - [`arguments`](#3)
