@@ -2,12 +2,12 @@
 
 ### Summary
 - [Truthy and Falsy](#1)
-- [!!](#2)
+- [`!!`](#2)
 - [`arguments`](#3)
-- [forEach()](#4)
+- [`forEach()`](#4)
 - [Callback Functions](#5)
-- [reduce()](#6)
-- [map()](#7)
+- [`reduce()`](#6)
+- [`map()`](#7)
 
 ## <a name="1" />Truthy and Falsy Values
 Everything in JavaScript has an inherent Boolean value, generally known as truthy or falsy.
