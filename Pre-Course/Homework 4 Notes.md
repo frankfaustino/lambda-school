@@ -4,7 +4,8 @@
 - [Truthy and Falsy](#1)
 - [!!](#2)
 - [`arguments`](#3)
-- [Callback Functions](#4)
+- [forEach](#4)
+- [Callback Functions](#5)
 
 ## <a name="1" />Truthy and Falsy Values
 Everything in JavaScript has an inherent Boolean value, generally known as truthy or falsy.
@@ -66,8 +67,36 @@ function sumNumbers() {
 
 sumNumbers(1, 2, 3, 4, 5, 6, 7, 8, 9);
 ```
+## <a name="4" />`forEach`
 
-## <a name="4" />Callback Function
+The forEach() method executes a provided function once for each array element.
+
+#### Syntax
+
+```javascript
+arr.forEach(function callback(currentValue, index, array) {
+    //your iterator
+}[, thisArg]);
+```
+**callback** Function to execute for each element, taking three arguments:
+-**currentValue** The value of the current element being processed in the array.
+-**index** The index of the current element being processed in the array.
+-**array** The array that forEach is being applied to.
+**thisArg** *optional* value to use as `this` (i.e. the reference to Object) when executing callback.
+
+```javascript
+var a = ['a', 'b', 'c'];
+
+a.forEach(function(element) {
+    console.log(element);
+});
+
+// a
+// b
+// c
+```
+
+## <a name="5" />Callback Function
 
 A Callback function, aka **higher-order function** is a function that is passed as an argument to another function and the callback function is called (or executed) inside the other function.
 
