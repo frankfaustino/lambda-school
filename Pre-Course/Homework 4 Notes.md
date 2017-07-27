@@ -8,6 +8,10 @@
 - [Callback Functions](#5)
 - [`reduce()`](#6)
 - [`map()`](#7)
+- Creating Objects
+  - [Object Literals](#8)
+  - [`new`](#9)
+  - [Object Constructors](#10)
 
 ## <a name="1" />Truthy and Falsy Values
 Everything in JavaScript has an inherent Boolean value, generally known as truthy or falsy.
@@ -208,3 +212,38 @@ var roots = numbers.map(Math.sqrt);
 // roots is now [1, 2, 3]
 // numbers is still [1, 4, 9]
 ```
+
+## Creating Objects
+
+### <a name="8" />Object Literals
+
+```javascript
+var person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+```
+
+### <a name="9" /> `new`
+
+```javascript
+var person = new Object();
+person.firstName = "John";
+person.lastName = "Doe";
+person.age = 50;
+person.eyeColor = "blue";
+```
+
+### <a name="10" /> Object Constructor
+
+The examples above are limited in many situations. They only create a single object.
+
+Sometimes we like to have an "object type" that can be used to create many objects of one type.
+
+The standard way to create an "object type" is to use an object constructor function:
+
+function person(first, last, age, eye) {
+    this.firstName = first;
+    this.lastName = last;
+    this.age = age;
+    this.eyeColor = eye;
+}
+var myFather = new person("John", "Doe", 50, "blue");
+var myMother = new person("Sally", "Rally", 48, "green")
