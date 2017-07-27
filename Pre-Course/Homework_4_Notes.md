@@ -1,4 +1,4 @@
-#Advanced JavaScript Minicamp – Homework 4
+# Advanced JavaScript Minicamp – Homework 4
 
 ## Summary
 - Truthy and Falsy
