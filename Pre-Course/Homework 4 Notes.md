@@ -7,6 +7,7 @@
 - [forEach()](#4)
 - [Callback Functions](#5)
 - [reduce()](#6)
+- [map()](#7)
 
 ## <a name="1" />Truthy and Falsy Values
 Everything in JavaScript has an inherent Boolean value, generally known as truthy or falsy.
@@ -185,4 +186,25 @@ var flattened = [[0, 1], [2, 3], [4, 5]].reduce(function(a, b) {
   return a.concat(b);
 }, []);
 // flattened is [0, 1, 2, 3, 4, 5]
+```
+
+## <a name="7" />`map()`
+
+The map() method creates a new array with the results of calling a provided function on every element in the calling array.
+
+#### Syntax
+
+```javascript
+var numbers = [1, 5, 10, 15];
+var doubles = numbers.map(function(x) {
+   return x * 2;
+});
+// doubles is now [2, 10, 20, 30]
+// numbers is still [1, 5, 10, 15]
+```
+```javascript
+var numbers = [1, 4, 9];
+var roots = numbers.map(Math.sqrt);
+// roots is now [1, 2, 3]
+// numbers is still [1, 4, 9]
 ```
