@@ -239,6 +239,7 @@ Sometimes we like to have an "object type" that can be used to create many objec
 
 The standard way to create an "object type" is to use an object constructor function:
 
+```javascript
 function person(first, last, age, eye) {
     this.firstName = first;
     this.lastName = last;
@@ -247,3 +248,4 @@ function person(first, last, age, eye) {
 }
 var myFather = new person("John", "Doe", 50, "blue");
 var myMother = new person("Sally", "Rally", 48, "green")
+```
