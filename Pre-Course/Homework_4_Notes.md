@@ -4,6 +4,7 @@
 - [Truthy and Falsy](#1)
 - [!!](#2)
 - [`arguments`](#3)
+- [Call-Back Functions](#4)
 
 ## <a name="1" />Truthy and Falsy Values
 Everything in JavaScript has an inherent Boolean value, generally known as truthy or falsy.
@@ -62,4 +63,19 @@ function sumNumbers() {
 }
 
 sumNumbers(1, 2, 3, 4, 5, 6, 7, 8, 9);
+```
+
+## <a name="4" />Call-Back Function
+
+You can pass in functions as arguments into a function.
+
+#### Syntax
+
+```javascript
+var numbers = [1, 2, 3, 4, 5];
+
+numbers.push(6);
+numbers.forEach(function(num) {  // a function being passed as an argument
+  console.log(num);
+});
 ```
