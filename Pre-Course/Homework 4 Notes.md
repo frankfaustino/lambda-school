@@ -249,3 +249,24 @@ function person(first, last, age, eye) {
 var myFather = new person("John", "Doe", 50, "blue");
 var myMother = new person("Sally", "Rally", 48, "green")
 ```
+```javascript
+function encryptPassword(password) {
+  return '$#$87sd' + password;
+}
+
+function User(options) {
+  this.username = options.username;
+  this.password = encryptPassword(options.password);
+}
+
+var frank = new User({
+  username: 'frank',
+  password: 'blah#1998'
+});
+
+var rey = new User({
+  username: 'efozzie',
+  password: 'blah$1999'
+});
+
+console.log(frank, rey);
