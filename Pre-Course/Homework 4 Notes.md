@@ -249,6 +249,8 @@ function person(first, last, age, eye) {
 var myFather = new person("John", "Doe", 50, "blue");
 var myMother = new person("Sally", "Rally", 48, "green")
 ```
+The properties of the object are passed as Strings in the parameter.
+
 ```javascript
 function encryptPassword(password) {
   return '$#$87sd' + password;
@@ -270,3 +272,27 @@ var rey = new User({
 });
 
 console.log(frank, rey);
+```
+The properties of the object are passed as objects.
+```javascript
+function Cat(options) {
+  this.name = options.name;
+  this.age = options.age;
+  this.meow = function() {
+    console.log('meow! My name is ' + this.name);
+  }
+}
+
+var snowballII = new Cat({
+  name: 'Snowball II',
+  age: 5
+});
+
+var snowballIII = new Cat({
+  name: 'Snowball III',
+  age: 1
+});
+
+snowballII.meow();
+snowballIII.meow();
+```
