@@ -14,6 +14,8 @@
   - [Object Constructors](#10)
 - [Object Methods](#11)
 - [Object Prototype](#12)
+- [Closures](#13)
+- [Recursion](#14)
 
 ## <a name="1" />Truthy and Falsy Values
 Everything in JavaScript has an inherent Boolean value, generally known as truthy or falsy.
@@ -345,3 +347,100 @@ function init() {
 init();
 ```
 `init()` creates a local variable called `name` and a function called `displayName()`. The `displayName()` function is an inner function that is defined inside `init()` and is only available within the body of the `init()` function. The `displayName()` function has no local variables of its own. However, because inner functions have access to the variables of outer functions, `displayName()` can access the variable `name` declared in the parent function, `init()`.
+
+The following code illustrates how to use closures to define public functions that can access private functions and variables. Using closures in this way is known as the module pattern:
+```javascript
+var counter = (function() {
+  var privateCounter = 0;
+  function changeBy(val) {
+    privateCounter += val;
+  }
+  return {
+    increment: function() {
+      changeBy(1);
+    },
+    decrement: function() {
+      changeBy(-1);
+    },
+    value: function() {
+      return privateCounter;
+    }
+  };   
+})();
+
+console.log(counter.value()); // logs 0
+counter.increment();
+counter.increment();
+console.log(counter.value()); // logs 2
+counter.decrement();
+console.log(counter.value()); // logs 1
+```
+
+In previous examples, each closure has had its own lexical environment. Here, though, we create a single lexical environment that is shared by three functions: `counter.increment`, `counter.decrement`, and `counter.value`.
+
+The shared lexical environment is created in the body of an anonymous function, which is executed as soon as it has been defined. The lexical environment contains two private items: a variable called `privateCounter` and a function called `changeBy`. Neither of these private items can be accessed directly from outside the anonymous function. Instead, they must be accessed by the three public functions that are returned from the anonymous wrapper.
+
+Those three public functions are closures that share the same environment. Thanks to JavaScript's lexical scoping, they each have access to the `privateCounter` variable and `changeBy` function.
+
+You'll notice we're defining an anonymous function that creates a counter, and then we call it immediately and assign the result to the counter variable. We could store this function in a separate variable `makeCounter` and use it to create several counters.
+```javascript
+var makeCounter = function() {
+  var privateCounter = 0;
+  function changeBy(val) {
+    privateCounter += val;
+  }
+  return {
+    increment: function() {
+      changeBy(1);
+    },
+    decrement: function() {
+      changeBy(-1);
+    },
+    value: function() {
+      return privateCounter;
+    }
+  }  
+};
+
+var counter1 = makeCounter();
+var counter2 = makeCounter();
+alert(counter1.value()); /* Alerts 0 */
+counter1.increment();
+counter1.increment();
+alert(counter1.value()); /* Alerts 2 */
+counter1.decrement();
+alert(counter1.value()); /* Alerts 1 */
+alert(counter2.value()); /* Alerts 0 */
+```
+Notice how each of the two counters, `counter1` and `counter2`, maintains its independence from the other. Each closure references a different version of the `privateCounter` variable through its own closure. Each time one of the counters is called, its lexical environment changes by changing the value of this variable; however changes to the variable value in one closure do not affect the value in the other closure.
+
+Using closures in this way provides a number of benefits that are normally associated with object oriented programming -- in particular, data hiding and encapsulation.
+
+## <a name="14" />Recursions
+
+Recursion is when a function calls itself.
+
+```javascript
+function nFibonacci(n) {
+  if (n < 3) return 1; // base case so the recursion doesn't continue forever
+  return nFibonacci(n - 2) + nFibonacci(n - 1); // recursion
+}
+console.log(nFibonacci(6)); // 8
+```
+ 
+```javascript
+function factorial(n) {
+  if(n < 0) {  // if the number is less than o, reject it
+    return -1;
+  } else if(n === 0) {  // if the number is 0, its factorial is 1
+    return 1;
+  } else  // otherwise, call this recursive procedure again
+    return (n * factorial(n - 1)); 
+}
+
+console.log(factorial(5));
+// 5 * 4 = 20
+// 20 * 3 = 60
+// 60 * 2 = 120
+// 120 * 1 = 120
+```
