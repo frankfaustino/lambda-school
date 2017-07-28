@@ -12,6 +12,7 @@
   - [Object Literals](#8)
   - [`new`](#9)
   - [Object Constructors](#10)
+- [Object Methods](#11)
 
 ## <a name="1" />Truthy and Falsy Values
 Everything in JavaScript has an inherent Boolean value, generally known as truthy or falsy.
@@ -231,7 +232,7 @@ person.age = 50;
 person.eyeColor = "blue";
 ```
 
-### <a name="10" /> Object Constructor
+### <a name="10" /> Object Constructor Function
 
 The examples above are limited in many situations. They only create a single object.
 
@@ -249,7 +250,7 @@ function person(first, last, age, eye) {
 var myFather = new person("John", "Doe", 50, "blue");
 var myMother = new person("Sally", "Rally", 48, "green")
 ```
-The properties of the object are passed as Strings in the parameter.
+
 
 ```javascript
 function encryptPassword(password) {
@@ -273,12 +274,15 @@ var rey = new User({
 
 console.log(frank, rey);
 ```
-The properties of the object are passed as objects.
+## <a name="11" />Object Methods
+
+A method is a property containing a function definition.
+
 ```javascript
 function Cat(options) {
   this.name = options.name;
   this.age = options.age;
-  this.meow = function() {
+  this.meow = function() {  // ← method defined in constructor function
     console.log('meow! My name is ' + this.name);
   }
 }
@@ -293,6 +297,6 @@ var snowballIII = new Cat({
   age: 1
 });
 
-snowballII.meow();
-snowballIII.meow();
+snowballII.meow();  // ← method being accessed
+snowballIII.meow();  // ← method being accessed
 ```
