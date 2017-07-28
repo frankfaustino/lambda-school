@@ -13,6 +13,7 @@
   - [`new`](#9)
   - [Object Constructors](#10)
 - [Object Methods](#11)
+- [Object Prototype](#12)
 
 ## <a name="1" />Truthy and Falsy Values
 Everything in JavaScript has an inherent Boolean value, generally known as truthy or falsy.
@@ -300,3 +301,47 @@ var snowballIII = new Cat({
 snowballII.meow();  // ← method being accessed
 snowballIII.meow();  // ← method being accessed
 ```
+
+## <a name="12" />Object Prototype
+
+Every object has a prototype. The prototype is also an object.
+
+All JavaScript objects inherit their properties and methods from their prototype.
+
+Objects created using an object literal, or with new Object(), inherit from a prototype called Object.prototype.
+
+The Object.prototype is on the top of the prototype chain.
+
+#### Using the `prototype` Property
+
+The prototype property allows you to add new properties to an existing prototype:
+```javascript
+Cat.prototype.breed = 'American Shorthair';
+
+console.log(snowballII.name + ' is an ' + snowballII.breed);  // "Snowball II is an American Shorthair"
+```
+
+It is best practice to put an object method in a separate `prototype` property:
+
+```javascript
+Cat.prototype.meow = function() {  
+    console.log('meow! My name is ' + this.name);
+}
+```
+
+Now all objects made with the Cat Constructor Function can use the `.meow` object method.
+
+## <a name="13" />Closure
+
+A ***closure*** is the combination of a function and the lexical environment within which that function was declared. This environment consists of any local variables that were in-scope at the time that the closure was created.
+```javascript
+function init() {
+  var name = 'Mozilla'; // name is a local variable created by init
+  function displayName() { // displayName() is the inner function, a closure
+    alert(name); // use variable declared in the parent function    
+  }
+  displayName();    
+}
+init();
+```
+`init()` creates a local variable called `name` and a function called `displayName()`. The `displayName()` function is an inner function that is defined inside `init()` and is only available within the body of the `init()` function. The `displayName()` function has no local variables of its own. However, because inner functions have access to the variables of outer functions, `displayName()` can access the variable `name` declared in the parent function, `init()`.
