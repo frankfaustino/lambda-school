@@ -182,6 +182,12 @@ getInput('{name:'Frank', specialty:'JavaScript'}', logStuff)
 
 The reduce() method applies a function against an accumulator and each element in the array (from left to right) to reduce it to a single value.
 
+#### Syntax
+```javascript
+arr.reduce(callback[, initialValue])
+```
+
+#### Common Use Cases
 ```javascript
 var arr = [0, 1, 2, 3];
 var total = arr.reduce(function(sum, value) {
@@ -201,6 +207,14 @@ var flattened = [[0, 1], [2, 3], [4, 5]].reduce(function(a, b) {
 The map() method creates a new array with the results of calling a provided function on every element in the calling array.
 
 #### Syntax
+
+```javascript
+var new_array = arr.map(function callback(currentValue, index, array) {
+    // Return element for new_array
+}[, thisArg])
+```
+
+#### Common Use Cases
 
 ```javascript
 var numbers = [1, 5, 10, 15];
