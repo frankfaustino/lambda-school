@@ -63,7 +63,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lambda Pro – [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo courses
 ***
 ## Month 1 ━ August 2017
-### <a name="week01"></a>Week 01━<a name="day001"></a>Day 001 → Mon → 8/7
+### <a name="week01"></a>Week 01━<a name="day001"></a>Day 001 → Mon → Aug 7
 #### Lectures 🗣
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Orientation]() – Lecturer  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [ES6]() – Ben Nelson
