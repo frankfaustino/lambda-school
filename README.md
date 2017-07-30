@@ -63,7 +63,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lambda Pro – [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo courses
 ***
 ## Month 1 ━ August 2017
-### <a name="week01"></a>Week 01━<a name="day001"></a>Day 001━Mon, August 7
+### <a name="week01"></a>Week 01━<a name="day001"></a>Day 001━Mon━August 7
 #### Lectures 🗣
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Orientation]() – Lecturer  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [ES6]() – Ben Nelson
@@ -72,8 +72,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [ES6]()  
 
 #### Homework 🤔
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Assignment](https://github.com/SunJieMing/Basic-JavaScript)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Homework]()  
 
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01━<a name="day002"></a>Day 002━Tues━8/8
