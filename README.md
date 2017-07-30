@@ -63,7 +63,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lambda Pro – [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo courses
 ***
 ## Month 1 ━ July 2017
-### <a name="week01"></a>Week 01 → <a name="day001"></a>Day 001 → Monday, July 7
+### <a name="week01"></a>Week 01 → <a name="day001"></a>Day 001 → Mon, 7/7
 #### Lectures 🗣
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [Orientation]() – Lecturer  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [ES6]() – Ben Nelson
@@ -76,12 +76,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()  
 
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-### Week 01 → <a name="day002"></a>Day 002 → Tuesday, July 8
+### Week 01 → <a name="day002"></a>Day 002 → Tues, 7/8
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-### Week 01 → <a name="day003"></a>Day 003 → Wednesday, July 9 
+### Week 01 → <a name="day003"></a>Day 003 → Wed, 7/9 
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-### Week 01 → <a name="day004" />Day 004 → Thursday, July 10 
+### Week 01 → <a name="day004" />Day 004 → Thur, 7/10 
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-### Week 01 → <a name="day005" />Day 005 → Friday, July 11
+### Week 01 → <a name="day005" />Day 005 → Fri, 7/11
 ***
 ## Month 2 ━ August 2017
