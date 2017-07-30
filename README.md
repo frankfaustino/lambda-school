@@ -78,9 +78,9 @@
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day002"></a>Day 002 → Tues → 8/8
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-### Week 01 → <a name="day003"></a>Day 003━Wed → 8/9 
+### Week 01 → <a name="day003"></a>Day 003 → Wed → 8/9 
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-### Week 01 → <a name="day004" />Day 004━Thur → Aug 10 
+### Week 01 → <a name="day004" />Day 004 → Thur → Aug 10 
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day005" />Day 005 → Fri, 8/11
 ***
