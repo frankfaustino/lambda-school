@@ -69,7 +69,7 @@
 #### Homework 🤔
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment – [https://github.com/SunJieMing/Basic-JavaScript](https://github.com/SunJieMing/Basic-JavaScript)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homework – [https://github.com/lefrenk/???]()  
-⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day002"></a>Day 002 → Tuesday, July 8
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day003"></a>Day 003 → Wednesday, July 9 
