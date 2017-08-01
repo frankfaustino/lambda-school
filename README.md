@@ -65,12 +65,12 @@
 ## Month 1 ━ August 2017
 ### <a name="week01"></a>Week 01 → <a name="day001"></a>Day 001 → Mon → 8/7
 #### Lectures 🗣
-₁ [ES6, Arrow Functions, `const` & `let`, Callback Funcs, Semi-colons]() – Ben Nelson  
-₂ [`this`, `.call()`, `.apply()`, & `.bind()`, Closure]() – Ben Nelson  
-₃ [Constructor Functions, `for` loops, `do while` loops, Recursion]()
+₁₎ [ES6, Arrow Functions, `const` & `let`, Callback Funcs, Semi-colons]() – Ben Nelson  
+₂₎ [`this`, `.call()`, `.apply()`, & `.bind()`, Closure]() – Ben Nelson  
+₃₎ [Constructor Functions, `for` loops, `do while` loops, Recursion]()
 
 #### Notes 📝 
-₁ [ES6]()  
+₁₎ [ES6]()  
 
 #### Homework 🤔
 [Assignment](https://github.com/SunJieMing/Basic-JavaScript)  
