@@ -1,4 +1,4 @@
-# Lambda School – Computer Science Academy [Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
+# λ Lambda School – Computer Science Academy [Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 ┏July  
 ┗━━Day 000 → [Pre-Course Work](#pre-course)
 
@@ -49,18 +49,21 @@
 ***
 ### <a name="pre-course"></a>Pre-Course Work – [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 #### Completed:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lambda School – [JavaScript Minicamp](https://lambdaschool.com/mini-bootcamp/javascript) [[HW 1](https://github.com/lefrenk/js-minicamp-homework-1), [HW 2](https://github.com/lefrenk/js-minicamp-homework-2), [HW 3](https://github.com/lefrenk/js-minicamp-homework-3) and [HW 4](https://github.com/lefrenk/js-minicamp-homework-4)] `(Completed 7/25/2017)`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codecademy – [Learn HTML & CSS: Part I](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codecademy – [Learn JavaScript](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learn.co – [Git, Command Line](https://learn.co/lefrenk) `(Completed 9/2016)`  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  [`(Completed 7/31)`](https://prod-cert-bucket.s3.amazonaws.com/downloads/60024d901d564fe6ae8ee29019363711/Statement.pdf)  
+₁₎ Lambda School – [JavaScript Minicamp](https://lambdaschool.com/mini-bootcamp/javascript) [[HW 1](https://github.com/lefrenk/js-minicamp-homework-1), [HW 2](https://github.com/lefrenk/js-minicamp-homework-2), [HW 3](https://github.com/lefrenk/js-minicamp-homework-3) and [HW 4](https://github.com/lefrenk/js-minicamp-homework-4)] `(Completed 7/25/2017)`  
+₂₎ Codecademy – [Learn HTML & CSS: Part I](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
+₃₎ Codecademy – [Learn JavaScript](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
+₄₎ Learn.co – [Git, Command Line](https://learn.co/lefrenk) `(Completed 9/2016)`  
+₅₎ Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  [`(Completed 7/31)`](https://prod-cert-bucket.s3.amazonaws.com/downloads/60024d901d564fe6ae8ee29019363711/Statement.pdf)  
 #### To be completed:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codecademy – [jQuery](https://www.codecademy.com/learn/jquery)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eloquent JavaScript – [Chapter #4:](http://eloquentjavascript.net/04_data.html)
+₆₎ Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
+₇₎ Codecademy – [jQuery](https://www.codecademy.com/learn/jquery)  
+₈₎ Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)  
+₉₎ Eloquent JavaScript – [Chapter #4:](http://eloquentjavascript.net/04_data.html)
 #### Extras:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lambda Pro – [React](https://lambdaschool.com/pro/react), Node, ES6, and Mongo courses
+₁₀₎ Lambda Pro – [React](https://lambdaschool.com/pro/react),
+₁₁₎ Node
+₁₂₎ ES6
+₁₃₎ Mongo courses
 ***
 ## Month 1 ━ August 2017
 ### <a name="week01"></a>Week 01 → <a name="day001"></a>Day 001 → Mon → 8/7
