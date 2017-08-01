@@ -58,11 +58,11 @@
 ₆₎ Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
 ₇₎ Codecademy – [jQuery](https://www.codecademy.com/learn/jquery)  
 ₈₎ Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)  
-₉₎ Eloquent JavaScript – [Chapter #4:](http://eloquentjavascript.net/04_data.html)
+₉₎ Eloquent JavaScript – [Chapter #4:](http://eloquentjavascript.net/04_data.html)  
 #### Extras:
-₁₀₎ Lambda Pro – [React](https://lambdaschool.com/pro/react),
-₁₁₎ Node
-₁₂₎ ES6
+₁₀₎ Lambda Pro – [React](https://lambdaschool.com/pro/react)  
+₁₁₎ Node  
+₁₂₎ ES6  
 ₁₃₎ Mongo courses
 ***
 ## Month 1 ━ August 2017
