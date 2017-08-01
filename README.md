@@ -49,31 +49,31 @@
 ***
 ### <a name="pre-course"></a>Pre-Course Work – [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 #### Completed:
-¹⁾ Lambda School – [JavaScript Minicamp](https://lambdaschool.com/mini-bootcamp/javascript) [[HW 1](https://github.com/lefrenk/js-minicamp-homework-1), [HW 2](https://github.com/lefrenk/js-minicamp-homework-2), [HW 3](https://github.com/lefrenk/js-minicamp-homework-3) and [HW 4](https://github.com/lefrenk/js-minicamp-homework-4)] `(Completed 7/25/2017)`  
-²⁾ Codecademy – [Learn HTML & CSS: Part I](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
-³⁾ Codecademy – [Learn JavaScript](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
-⁴⁾ Learn.co – [Git, Command Line](https://learn.co/lefrenk) `(Completed 9/2016)`  
-⁵⁾ Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  [`(Completed 7/31)`](https://prod-cert-bucket.s3.amazonaws.com/downloads/60024d901d564fe6ae8ee29019363711/Statement.pdf)  
+▹ Lambda School – [JavaScript Minicamp](https://lambdaschool.com/mini-bootcamp/javascript) [[HW 1](https://github.com/lefrenk/js-minicamp-homework-1), [HW 2](https://github.com/lefrenk/js-minicamp-homework-2), [HW 3](https://github.com/lefrenk/js-minicamp-homework-3) and [HW 4](https://github.com/lefrenk/js-minicamp-homework-4)] `(Completed 7/25/2017)`  
+▹ Codecademy – [Learn HTML & CSS: Part I](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
+▹ Codecademy – [Learn JavaScript](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
+▹ Learn.co – [Git, Command Line](https://learn.co/lefrenk) `(Completed 9/2016)`  
+▹ Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  [`(Completed 7/31)`](https://prod-cert-bucket.s3.amazonaws.com/downloads/60024d901d564fe6ae8ee29019363711/Statement.pdf)  
 #### To be completed:
-⁶⁾ Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
-⁷⁾ Codecademy – [jQuery](https://www.codecademy.com/learn/jquery)  
-⁸⁾ Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)  
-⁹⁾ Eloquent JavaScript – [Chapter #4:](http://eloquentjavascript.net/04_data.html)  
+▹ Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
+▹ Codecademy – [jQuery](https://www.codecademy.com/learn/jquery)  
+▹ Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)  
+▹ Eloquent JavaScript – [Chapter #4:](http://eloquentjavascript.net/04_data.html)  
 #### Extras:
-¹⁰⁾ Lambda Pro – [React](https://lambdaschool.com/pro/react)  
-¹¹⁾ Node  
-¹²⁾ ES6  
-¹³⁾ Mongo courses
+▹ Lambda Pro – [React](https://lambdaschool.com/pro/react)  
+▹ Node  
+▹ ES6  
+▹ Mongo courses
 ***
 ## Month 1 ━ August 2017
 ### <a name="week01"></a>Week 01 → <a name="day001"></a>Day 001 → Mon → 8/7
 #### Lectures 🗣
-₁₎ [ES6, Arrow Functions, `const` & `let`, Callback Funcs, Semi-colons]() – Ben Nelson  
-₂₎ [`this`, `.call()`, `.apply()`, & `.bind()`, Closure]() – Ben Nelson  
-₃₎ [Constructor Functions, `for` loops, `do while` loops, Recursion]()
+▹ [ES6, Arrow Functions, `const` & `let`, Callback Funcs, Semi-colons]() – Ben Nelson  
+▹ [`this`, `.call()`, `.apply()`, & `.bind()`, Closure]() – Ben Nelson  
+▹ [Constructor Functions, `for` loops, `do while` loops, Recursion]()
 
 #### Notes 📝 
-₁₎ [ES6]()  
+▹ [ES6]()  
 
 #### Homework 🤔
 [Assignment](https://github.com/SunJieMing/Basic-JavaScript)  
