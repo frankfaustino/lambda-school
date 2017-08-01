@@ -66,7 +66,7 @@
 ### <a name="week01"></a>Week 01 → <a name="day001"></a>Day 001 → Mon → 8/7
 #### Lectures 🗣
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [ES6, Arrow Functions, `const` & `let`, Callback Funcs, Semi-colons]() – Ben Nelson  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [`this`, `.call()`, `.apply()`, & `.bind()`, Closure]() – Ben Nelson
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [`this`, `.call()`, `.apply()`, & `.bind()`, Closure]() – Ben Nelson  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₃ [Constructor Functions, `for` loops, `do while` loops, Recursion]()
 
 #### Notes 📝 
