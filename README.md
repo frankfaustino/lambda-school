@@ -65,16 +65,16 @@
 ## Month 1 ━ August 2017
 ### <a name="week01"></a>Week 01 → <a name="day001"></a>Day 001 → Mon → 8/7
 #### Lectures 🗣
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [ES6, Arrow Functions, `const` & `let`, Callback Funcs, Semi-colons]() – Ben Nelson  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₂ [`this`, `.call()`, `.apply()`, & `.bind()`, Closure]() – Ben Nelson  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₃ [Constructor Functions, `for` loops, `do while` loops, Recursion]()
+₁ [ES6, Arrow Functions, `const` & `let`, Callback Funcs, Semi-colons]() – Ben Nelson  
+₂ [`this`, `.call()`, `.apply()`, & `.bind()`, Closure]() – Ben Nelson  
+₃ [Constructor Functions, `for` loops, `do while` loops, Recursion]()
 
 #### Notes 📝 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₁ [ES6]()  
+₁ [ES6]()  
 
 #### Homework 🤔
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Assignment](https://github.com/SunJieMing/Basic-JavaScript)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Homework]()  
+[Assignment](https://github.com/SunJieMing/Basic-JavaScript)  
+[Homework]()  
 
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day002"></a>Day 002 → Tues → 8/8
