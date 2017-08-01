@@ -53,8 +53,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codecademy – [Learn HTML & CSS: Part I](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codecademy – [Learn JavaScript](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learn.co – [Git, Command Line](https://learn.co/lefrenk) `(Completed 9/2016)`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  [`(Completed 7/31)`](https://prod-cert-bucket.s3.amazonaws.com/downloads/60024d901d564fe6ae8ee29019363711/Statement.pdf)  
 #### To be completed:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  [`(Completed 7/31)`](https://prod-cert-bucket.s3.amazonaws.com/downloads/60024d901d564fe6ae8ee29019363711/Statement.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Codecademy – [jQuery](https://www.codecademy.com/learn/jquery)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)  
