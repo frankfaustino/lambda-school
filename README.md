@@ -3,7 +3,7 @@
 ┗━━Day 000 → [Pre-Course Work](#pre-course)
 
 ┏August  
-┣━━<details><summary>[Week 01](#week01) → [Basic / Advanced JS](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)  </summary></details>
+┣━━[Week 01](#week01) → [Basic / Advanced JS](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)  
 ┣━━━━[Day 001](#day001) →  
 ┣━━━━[Day 002](#day002) →  
 ┣━━━━[Day 003](#day003) →  
