@@ -53,10 +53,10 @@
 ₂₎ Codecademy – [Learn HTML & CSS: Part I](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
 ₃₎ Codecademy – [Learn JavaScript](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
 ₄₎ Learn.co – [Git, Command Line](https://learn.co/lefrenk) `(Completed 9/2016)`  
-₅₎ Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  [`(Completed 7/31)`](https://prod-cert-bucket.s3.amazonaws.com/downloads/60024d901d564fe6ae8ee29019363711/Statement.pdf)  
+₅₎ Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  `(Completed 7/31)` `[certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/60024d901d564fe6ae8ee29019363711/Statement.pdf)`  
+₆₎ Codecademy – [jQuery](https://www.codecademy.com/learn/jquery) `(Completed 8/2)`
 #### To be completed:
-₆₎ Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
-₇₎ Codecademy – [jQuery](https://www.codecademy.com/learn/jquery)  
+₇₎ Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
 ₈₎ Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)  
 ₉₎ Eloquent JavaScript – [Chapter #4:](http://eloquentjavascript.net/04_data.html)  
 #### Extras:
