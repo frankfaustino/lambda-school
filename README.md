@@ -1,4 +1,4 @@
-# λ Lambda School – Computer Science Academy [Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
+# <a name='#λ' /a>λ Lambda School – Computer Science Academy [Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 ┏July  
 ┗━━Day 000 → [Pre-Course Work](#pre-course)
 
@@ -82,8 +82,8 @@
 #### Homework 🤔
 [Assignment](https://github.com/SunJieMing/Basic-JavaScript)  
 [Homework]()  
-↑  
-┗━⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+  
+[↑](#λ)⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day002"></a>Day 002 → Tues → 8/8
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day003"></a>Day 003 → Wed → 8/9 
