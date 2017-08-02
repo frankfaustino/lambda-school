@@ -50,15 +50,15 @@
 ### <a name="pre-course"></a>Pre-Course Work – [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 #### Completed:
 ₁₎ Lambda School – [JavaScript Minicamp](https://lambdaschool.com/mini-bootcamp/javascript)  
-&nbsp;&nbsp;┣━━[HW 1](https://github.com/lefrenk/js-minicamp-homework-1) `(Completed 7/23/2017)`  
-&nbsp;&nbsp;┣━━[HW 2](https://github.com/lefrenk/js-minicamp-homework-2) `(Completed 7/23/2017)`  
-&nbsp;&nbsp;┣━━[HW 3](https://github.com/lefrenk/js-minicamp-homework-3) `(Completed 7/23/2017)`  
-&nbsp;&nbsp;┗━━[HW 4](https://github.com/lefrenk/js-minicamp-homework-4) → [Notes](https://github.com/lefrenk/Lambda-School/blob/master/Pre-Course/Homework%204%20Notes.md) `(Completed 7/25/2017)`  
-₂₎ Codecademy – [Learn HTML & CSS: Part I](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
-₃₎ Codecademy – [Learn JavaScript](https://www.codecademy.com/frenk#completed) `(Completed 10/2016)`  
-₄₎ Learn.co – [Git, Command Line](https://learn.co/lefrenk) `(Completed 9/2016)`  
-₅₎ Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  `(Completed 7/31)` [`certificate`](https://prod-cert-bucket.s3.amazonaws.com/downloads/60024d901d564fe6ae8ee29019363711/Statement.pdf)  
-₆₎ Codecademy – [jQuery](https://www.codecademy.com/learn/jquery) `(Completed 8/2)`
+&nbsp;&nbsp;┣━━[HW 1](https://github.com/lefrenk/js-minicamp-homework-1) `(7/23/17)`  
+&nbsp;&nbsp;┣━━[HW 2](https://github.com/lefrenk/js-minicamp-homework-2) `(7/23/17)`  
+&nbsp;&nbsp;┣━━[HW 3](https://github.com/lefrenk/js-minicamp-homework-3) `(7/23/17)`  
+&nbsp;&nbsp;┗━━[HW 4](https://github.com/lefrenk/js-minicamp-homework-4) → [Notes](https://github.com/lefrenk/Lambda-School/blob/master/Pre-Course/Homework%204%20Notes.md) `(7/25/17)`  
+₂₎ Codecademy – [Learn HTML & CSS: Part I](https://www.codecademy.com/frenk#completed) `(10/16)`  
+₃₎ Codecademy – [Learn JavaScript](https://www.codecademy.com/frenk#completed) `(10/16)`  
+₄₎ Learn.co – [Git, Command Line](https://learn.co/lefrenk) `(9/16)`  
+₅₎ Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  `(7/31/17)[certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/60024d901d564fe6ae8ee29019363711/Statement.pdf))`  
+₆₎ Codecademy – [jQuery](https://www.codecademy.com/learn/jquery) `(8/2/17)`
 #### To be completed:
 ₇₎ Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
 ₈₎ Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)  
