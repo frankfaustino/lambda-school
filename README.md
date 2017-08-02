@@ -50,10 +50,10 @@
 ### <a name="pre-course"></a>Pre-Course Work – [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 #### Completed:
 ₁₎ Lambda School – [JavaScript Minicamp](https://lambdaschool.com/mini-bootcamp/javascript)  
-&nbsp;&nbsp;┣━━[HW 1](https://github.com/lefrenk/js-minicamp-homework-1) `(7/23/17)`  
-&nbsp;&nbsp;┣━━[HW 2](https://github.com/lefrenk/js-minicamp-homework-2) `(7/23/17)`  
-&nbsp;&nbsp;┣━━[HW 3](https://github.com/lefrenk/js-minicamp-homework-3) `(7/23/17)`  
-&nbsp;&nbsp;┗━━[HW 4](https://github.com/lefrenk/js-minicamp-homework-4) → [Notes](https://github.com/lefrenk/Lambda-School/blob/master/Pre-Course/Homework%204%20Notes.md) `(7/25/17)`  
+&nbsp;&nbsp;┣━[HW 1](https://github.com/lefrenk/js-minicamp-homework-1) `(7/23/17)`  
+&nbsp;&nbsp;┣━[HW 2](https://github.com/lefrenk/js-minicamp-homework-2) `(7/23/17)`  
+&nbsp;&nbsp;┣━[HW 3](https://github.com/lefrenk/js-minicamp-homework-3) `(7/23/17)`  
+&nbsp;&nbsp;┗━[HW 4](https://github.com/lefrenk/js-minicamp-homework-4) → [Notes](https://github.com/lefrenk/Lambda-School/blob/master/Pre-Course/Homework%204%20Notes.md) `(7/25/17)`  
 ₂₎ Codecademy – [Learn HTML & CSS: Part I](https://www.codecademy.com/frenk#completed) `(10/16)`  
 ₃₎ Codecademy – [Learn JavaScript](https://www.codecademy.com/frenk#completed) `(10/16)`  
 ₄₎ Learn.co – [Git, Command Line](https://learn.co/lefrenk) `(9/16)`  
