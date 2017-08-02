@@ -1,4 +1,4 @@
-# <a name='#λ' /a>λ Lambda School – Computer Science Academy [Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
+# <a name="#λ"></a>λ Lambda School – Computer Science Academy [Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 ┏July  
 ┗━━Day 000 → [Pre-Course Work](#pre-course)
 
