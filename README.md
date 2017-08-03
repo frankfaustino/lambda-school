@@ -65,7 +65,7 @@
 ₈₎ Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)  
 ₉₎ Eloquent JavaScript – [Chapter #4:](http://eloquentjavascript.net/04_data.html)  
 #### Extras:
-₁₀₎ Lambda Pro – React
+₁₀₎ Lambda Pro – React  
 &nbsp;&nbsp;┣━ [Lecture](https://youtu.be/7QwRtGtluJk) → [HW 1](https://github.com/SunJieMing/LS-Pro-React-I)  
 &nbsp;&nbsp;┣━ [Lecture](https://youtu.be/FQPowZglpJA) → [HW 2](https://github.com/SunJieMing/LS-Pro-React-II)  
 &nbsp;&nbsp;┣━ [Lecture](https://youtu.be/ULx7gruIh20) → [HW 3](https://github.com/SunJieMing/LS-Pro-React-III)  
