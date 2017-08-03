@@ -59,7 +59,7 @@
 ₄₎ Learn.co – [Git, Command Line](https://learn.co/lefrenk) `(9/16)`  
 ₅₎ Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  `(7/31/17)`[`certificate`](https://prod-cert-bucket.s3.amazonaws.com/downloads/60024d901d564fe6ae8ee29019363711/Statement.pdf)  
 ₆₎ Codecademy – [jQuery](https://www.codecademy.com/learn/jquery) `(8/2/17)`
-˟₎ Codecademy – [React 101](https://www.codecademy.com/courses/react-101)
+₀₎ Codecademy – [React 101](https://www.codecademy.com/courses/react-101)
 #### To be completed:
 ₇₎ Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
 ₈₎ Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)  
