@@ -1,5 +1,5 @@
 # <a name="0"></a>λ Lambda School – Computer Science Academy [Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
-┏July  Testing
+┏July  
 ┣━━Day 000 → [Resources](#resources)  
 ┗━━Day 000 → [Pre-Course Work](#pre-course)
 
