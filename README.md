@@ -1,5 +1,6 @@
 # <a name="0"></a>λ Lambda School – Computer Science Academy [Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
 ┏July  
+┣━━Day 000 → [Resources](#resources)  
 ┗━━Day 000 → [Pre-Course Work](#pre-course)
 
 ┏August  
@@ -46,6 +47,13 @@
 ┏February  
 ┣━━[Week 25](#week25) → Capstone Project  
 ┗━━[Week 26](#week26) → [Interview & Job Search Strategies](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project261)
+***
+### <a name="resources"></a>Resources / Notes
+┣━━[Git Commands Cheat Sheet](https://lefrenk.gitbooks.io/cli-git-cheatsheet/content/git-commands.html)  
+┣━━[GitHub Cheat Sheet](https://github.com/lefrenk/Lambda-School/blob/master/Notes/github-git-cheat-sheet.pdf)  
+┣━━[CLI Cheat Sheet](https://lefrenk.gitbooks.io/cli-git-cheatsheet/content/CLI.html)  
+┣━━[JavaScript Notes](https://lefrenk.gitbooks.io/javascript/content/)  
+┗━━[React Notes](https://lefrenk.gitbooks.io/react/content/)
 ***
 ### <a name="pre-course"></a>Pre-Course Work – [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 #### Completed:
