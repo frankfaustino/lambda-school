@@ -1,28 +1,28 @@
 # <a name="0"></a>λ Lambda School – Computer Science Academy 
 ┏July  
-┣━━Day 000 → [Resources / Notes](#resources)  
+┣━━Day 000 → [Resources](#resources) ⋰ [Notes](#resources)  
 ┗━━Day 000 → [Pre-Course Work](#pre-course)
 
 ┏August  
-┣━━[Week 01](#week01) → [Basic / Advanced JS](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)  
+┣━━[Week 01](#week01) → [Basic ⋰ Advanced JS](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)  
 ┣━━━━[Day 001](#day001) →  
 ┣━━━━[Day 002](#day002) →  
 ┣━━━━[Day 003](#day003) →  
 ┣━━━━[Day 004](#day004) →  
 ┣━━━━[Day 005](#day005) →  
 ┣━━[Week 02](#week02) → [Data Structures I & II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project21)  
-┣━━[Week 03](#week03) → [DOM](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project31) / [React I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project32)  
-┗━━[Week 04](#week04) → [React II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project41) / [Redux](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project42)  
+┣━━[Week 03](#week03) → [DOM](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project31) ⋰ [React I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project32)  
+┗━━[Week 04](#week04) → [React II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project41) ⋰ [Redux](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project42)  
 
 ┏September  
-┣━━[Week 05](#week05) → [HTTP/AJAX](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project51) / [SPA/Routing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project52)  
-┣━━[Week 06](#week06) → [Client Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project61) / [Node/Express](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project62)  
+┣━━[Week 05](#week05) → [HTTP/AJAX](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project51) ⋰ [SPA/Routing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project52)  
+┣━━[Week 06](#week06) → [Client Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project61) ⋰ [Node/Express](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project62)  
 ┣━━[Week 07](#week07) → [MongoDB I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project71) & [II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project72)  
-┗━━[Week 08](#week08) → [MongoDB III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project81) / [Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project82)  
+┗━━[Week 08](#week08) → [MongoDB III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project81) ⋰ [Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project82)  
 
 ┏October  
-┣━━[Week 09](#week09) → [Client Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project91) / [Server Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project92)  
-┣━━[Week 10](#week10) → [DevOps](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project101) / [React Native I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project102)  
+┣━━[Week 09](#week09) → [Client Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project91) ⋰ [Server Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project92)  
+┣━━[Week 10](#week10) → [DevOps](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project101) ⋰ [React Native I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project102)  
 ┣━━[Week 11](#week11) → [React Native II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project111) & [III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project112)  
 ┗━━[Week 12](#week12) → Break Week! Personal Project  
 
@@ -48,13 +48,12 @@
 ┣━━[Week 25](#week25) → Capstone Project  
 ┗━━[Week 26](#week26) → [Interview & Job Search Strategies](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project261)
 ***
-### <a name="resources"></a>Resources / Notes
+### <a name="resources"></a>Resources ⋰ Notes
 ┣━━[Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)  
 ┣━━[Git Commands Cheat Sheet](https://lefrenk.gitbooks.io/cli-git-cheatsheet/content/git-commands.html)  
 ┣━━[GitHub Cheat Sheet](https://github.com/lefrenk/Lambda-School/blob/master/Notes/github-git-cheat-sheet.pdf)  
 ┣━━[CLI Cheat Sheet](https://lefrenk.gitbooks.io/cli-git-cheatsheet/content/CLI.html)  
-┣━━[JavaScript Notes](https://lefrenk.gitbooks.io/javascript/content/)  
-┗━━[React Notes](https://lefrenk.gitbooks.io/react/content/)
+┗━━[JavaScript Notes](https://lefrenk.gitbooks.io/javascript/content/)  
 ***
 ### <a name="pre-course"></a>Pre-Course Work – [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 #### Completed:
@@ -68,26 +67,25 @@
 ₄₎ Learn.co – [Git, Command Line](https://learn.co/lefrenk) `(9/16)`  
 ₅₎ Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  `(7/31/17)`[`certificate`](https://prod-cert-bucket.s3.amazonaws.com/downloads/60024d901d564fe6ae8ee29019363711/Statement.pdf)  
 ₆₎ Codecademy – [jQuery](https://www.codecademy.com/learn/jquery) `(8/2/17)`  
-₀₎ Codecademy – [React 101](https://www.codecademy.com/courses/react-101)
+₇₎ Codecademy – [React 101](https://www.codecademy.com/frenk) → [Notes](https://lefrenk.gitbooks.io/react/content/) `(8/4/17)`  
 #### To be completed:
-₇₎ Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
 ₈₎ Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)  
 ₉₎ Eloquent JavaScript – [Chapter #4:](http://eloquentjavascript.net/04_data.html)  
-#### Extras:
-₁₀₎ Lambda Pro – React  
+₁₀₎ Codecademy – [React 102](https://www.codecademy.com/learn/react-102)  
+₁₁₎ Lambda Pro – React  
 &nbsp;&nbsp;┣━ [Lecture](https://youtu.be/7QwRtGtluJk) → [HW 1](https://github.com/SunJieMing/LS-Pro-React-I)  
 &nbsp;&nbsp;┣━ [Lecture](https://youtu.be/FQPowZglpJA) → [HW 2](https://github.com/SunJieMing/LS-Pro-React-II)  
 &nbsp;&nbsp;┣━ [Lecture](https://youtu.be/ULx7gruIh20) → [HW 3](https://github.com/SunJieMing/LS-Pro-React-III)  
 &nbsp;&nbsp;┣━ [Lecture](https://youtu.be/vi8oJD5EcX8) → [HW 4](https://github.com/SunJieMing/LS-Pro-React-IV)  
 &nbsp;&nbsp;┗━ [Lecture](https://youtu.be/Mnfo3aCnri8) → [HW 5](https://github.com/SunJieMing/LS-Pro-React-V)
-
-    
-₁₁₎ Node  
-₁₂₎ ES6  
-₁₃₎ Mongo courses
+#### Extras:   
+₁₂₎ Node  
+₁₃₎ ES6  
+₁₃₎ Mongo
+₁₄₎ Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
 ***
 ## Month 1 ━ August 2017
-### <a name="week01"></a>Week 01 → <a name="day001"></a>Day 001 → Mon → 8/7
+### <a name="week01" />Week 01 → <a name="day001" />Day 001 → Mon → 8/7
 #### Lectures 🗣
 ₁₎ [ES6, Arrow Functions, `const` & `let`, Callback Funcs, Semi-colons]() – Ben Nelson  
 ₂₎ [`this`, `.call()`, `.apply()`, & `.bind()`, Closure]() – Ben Nelson  
@@ -101,9 +99,9 @@
 [Homework]()  
   
 [↑](#0)⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-### Week 01 → <a name="day002"></a>Day 002 → Tues → 8/8
+### Week 01 → <a name="day002" />Day 002 → Tues → 8/8
 [↑](#0)⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-### Week 01 → <a name="day003"></a>Day 003 → Wed → 8/9 
+### Week 01 → <a name="day003" />Day 003 → Wed → 8/9 
 [↑](#0)⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day004" />Day 004 → Thur → 8/10 
 [↑](#0)⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
