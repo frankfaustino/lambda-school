@@ -86,17 +86,12 @@
 ***
 ## Month 1 ━ August 2017
 ### <a name="week01" />Week 01 → <a name="day001" />Day 001 → Mon → 8/7
-#### Lectures 🗣
-₁₎ [ES6, Arrow Functions, `const` & `let`, Callback Funcs, Semi-colons]() – Ben Nelson  
-₂₎ [`this`, `.call()`, `.apply()`, & `.bind()`, Closure]() – Ben Nelson  
-₃₎ [Constructor Functions, `for` loops, `do while` loops, Recursion]()
-
-#### Notes 📝 
-₁₎ [ES6]()  
-
-#### Homework 🤔
-[Assignment](https://github.com/SunJieMing/Basic-JavaScript)  
-[Homework]()  
+### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day001-basic-javascript.html#week-01-→-day-001-→-mon-→-august-7-2017) 📝
+### Lectures 🗣
+₁₎ [ES6 ⋰ Arrow Functions⇒ ⋰ `const` & `let` ⋰ Callback Functions ⋰ Semicolons]()  
+₂₎ [`this` ⋰ `.call()` ⋰ `.apply()` ⋰ `.bind()` ⋰ Closure]()  
+₃₎ [Constructor Functions ⋰ `for` loops ⋰ `do while` loops ⋰ Recursion]()   
+### [Homework 🤔](https://github.com/SunJieMing/Basic-JavaScript) 
   
 [↑](#0)⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day002" />Day 002 → Tues → 8/8
