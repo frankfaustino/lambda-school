@@ -81,7 +81,7 @@
 #### Extras:   
 ₁₂₎ Node  
 ₁₃₎ ES6  
-₁₃₎ Mongo
+₁₃₎ Mongo  
 ₁₄₎ Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
 ***
 ## Month 1 ━ August 2017
