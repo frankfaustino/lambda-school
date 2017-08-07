@@ -68,12 +68,13 @@
 ₅₎ Stanford Online – [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced)  `(7/31/17)`[`certificate`](https://prod-cert-bucket.s3.amazonaws.com/downloads/60024d901d564fe6ae8ee29019363711/Statement.pdf)  
 ₆₎ Codecademy – [jQuery](https://www.codecademy.com/learn/jquery) `(8/2/17)`  
 ₇₎ Codecademy – [React 101](https://www.codecademy.com/frenk) → [Notes](https://lefrenk.gitbooks.io/react/content/) `(8/4/17)`  
+₁₁₎ Lambda Pro – React  
+&nbsp;&nbsp;┗━ [Lecture](https://youtu.be/7QwRtGtluJk) → [HW 1](https://github.com/SunJieMing/LS-Pro-React-I) → [Notes](https://lefrenk.gitbooks.io/react/content/lambda-lesson-1-lecture-notes.html)
 #### To be completed:
 ₈₎ Eloquent JavaScript – [Chapter #3:](http://eloquentjavascript.net/03_functions.html)  
 ₉₎ Eloquent JavaScript – [Chapter #4:](http://eloquentjavascript.net/04_data.html)  
 ₁₀₎ Codecademy – [React 102](https://www.codecademy.com/learn/react-102)  
-₁₁₎ Lambda Pro – React  
-&nbsp;&nbsp;┣━ [Lecture](https://youtu.be/7QwRtGtluJk) → [HW 1](https://github.com/SunJieMing/LS-Pro-React-I)  
+₁₁₎ Lambda Pro – React    
 &nbsp;&nbsp;┣━ [Lecture](https://youtu.be/FQPowZglpJA) → [HW 2](https://github.com/SunJieMing/LS-Pro-React-II)  
 &nbsp;&nbsp;┣━ [Lecture](https://youtu.be/ULx7gruIh20) → [HW 3](https://github.com/SunJieMing/LS-Pro-React-III)  
 &nbsp;&nbsp;┣━ [Lecture](https://youtu.be/vi8oJD5EcX8) → [HW 4](https://github.com/SunJieMing/LS-Pro-React-IV)  
