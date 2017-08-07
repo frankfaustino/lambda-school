@@ -89,7 +89,7 @@
 ### <a name="week01" />Week 01 → <a name="day001" />Day 001 → Mon → 8/7
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day001-basic-javascript.html#week-01-→-day-001-→-mon-→-august-7-2017) 📝
 ### Lectures 🗣
-₁₎ [ES6 ⋰ Arrow Functions⇒ ⋰ `const` & `let` ⋰ Semicolons](https://youtu.be/vJGIFw755_k)  
+₁₎ [ES6 ⋰ Scope ⋰ const & let⋰ Arrow Functions ⇒ ⋰ Semicolons ⋰ Template Literals](https://youtu.be/vJGIFw755_k)  
 ┗━[Review](https://youtu.be/h8ivtUEFIbw)  
 ₂₎ [`this` ⋰ `.call()` ⋰ `.apply()` ⋰ `.bind()` ⋰ Closure]()  
 ₃₎ [Constructor Functions ⋰ `for` loops ⋰ `do while` loops ⋰ Recursion]()   
