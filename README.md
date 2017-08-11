@@ -108,7 +108,7 @@
 ### Week 01 → <a name="day003" />Day 003 → Wed → 8/9 
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day003-advanced-javascript.html) 📝
 ### Lectures 🗣
-₁₎ [Coding Challenge #1 Review ⋰ `longestString` Review ⋰ `for` loop ⋰ `forEach()` ⋰ `sort()`](https://www.youtube.com/watch?v=TLAYnDw7PpM)  
+₁₎ [Coding Challenge #1 `longestString` Review ⋰ `for` loop ⋰ `forEach()` ⋰ `sort()`](https://www.youtube.com/watch?v=TLAYnDw7PpM)  
 ₂₎ [Basic JS Review ⋰ Course survey & feedback](https://youtu.be/ZMCXX1VfsgA)  
 ₃₎ [`this` ⋰ `new` ⋰ `call()` ⋰ `apply()` ⋰ Closures ⋰ `class` ⋰ `extends` ⋰ `getter` ⋰ Callbacks](https://www.youtube.com/watch?v=tkauGGGxK_0)
 ### Homework 🤔
@@ -118,7 +118,7 @@
 ### Week 01 → <a name="day004" />Day 004 → Thur → 8/10 
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day004-advanced-javascript.html) 📝
 ### Lectures 🗣
-₁₎ [Coding Challenge #2 Review ⋰ `reverseCase.js` Review](https://youtu.be/oSaaI5GrLac)  
+₁₎ [Coding Challenge #2 `reverseCase.js` Review](https://youtu.be/oSaaI5GrLac)  
 ₂₎ [Brown Bag — VS Code ⋰ Quokka — Ryan Hamblin]()  
 ₃₎ [Advanced JS Review](https://youtu.be/4r6QcOyf4SI)
 ### Homework 🤔
