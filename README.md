@@ -127,8 +127,8 @@
 ### Week 01 → <a name="day005" />Day 005 → Fri → 8/11
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day005-advanced-javascript.html) 📝
 ### Lectures 🗣
-₁₎ [Coding Challenge #2 Review ⋰ `reverseCase.js` Review](https://youtu.be/oSaaI5GrLac)  
-₂₎ [Brown Bag — VS Code ⋰ Quokka — Ryan Hamblin]()  
+₁₎ [isUnique.js Review ⋰ Big O Notation ⋰ nested for loops ⋰ new Set()](https://youtu.be/oSaaI5GrLac)  
+₂₎ [Brown Bag — Machine Learning — Darren Ames]()  
 ₃₎ [Advanced JS Review](https://youtu.be/4r6QcOyf4SI)
 ### Homework 🤔
 ₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)
