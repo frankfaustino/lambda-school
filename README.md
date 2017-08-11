@@ -127,9 +127,9 @@
 ### Week 01 → <a name="day005" />Day 005 → Fri → 8/11
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day005-advanced-javascript.html) 📝
 ### Lectures 🗣
-₁₎ [isUnique.js Review ⋰ Big O Notation ⋰ nested for loops ⋰ new Set()](https://youtu.be/oSaaI5GrLac)  
+₁₎ [isUnique.js Review ⋰ Big O Notation ⋰ nested for loops ⋰ new Set()]()  
 ₂₎ [Brown Bag — Machine Learning — Darren Ames]()  
-₃₎ [Advanced JS Review](https://youtu.be/4r6QcOyf4SI)
+₃₎ [Advanced JS Review]()
 ### Homework 🤔
 ₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)
 ***
