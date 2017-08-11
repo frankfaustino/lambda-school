@@ -91,18 +91,47 @@
 ### Lectures 🗣
 ₁₎ [ES6 ⋰ Scope ⋰ `const` & `let`⋰ Arrow Functions ⇒ ⋰ Semicolons ⋰ Template Literals](https://youtu.be/vJGIFw755_k)  
 ┗━[Review](https://youtu.be/h8ivtUEFIbw)  
-₂₎ [`this` ⋰ `.call()` ⋰ `.apply()` ⋰ `.bind()` ⋰ Closure]()  
-₃₎ [Constructor Functions ⋰ `for` loops ⋰ `do while` loops ⋰ Recursion]()   
-### [Homework 🤔](https://github.com/lefrenk/Basic-JavaScript-Mini) 
+### Homework 🤔
+₁₎ [Basic-JavaScript Mini Sprint](https://github.com/lefrenk/Basic-JavaScript-Mini) 
   
 [↑](#0)⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day002" />Day 002 → Tues → 8/8
+### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day002-advanced-javascript.html) 📝
+### Lectures 🗣
+₁₎ [Anonymous & Callback Functions ⋰ `map()` ⋰ Iterating Over Arrays & Array of Objects](https://youtu.be/X_k4XLHyRQM)  
+₂₎ [How to Solve a Problem ⋰ Basic JS Review ⋰ Advanced JS/arrays.js Overview ⋰ `reduce()`](https://www.youtube.com/watch?v=mgotovfUK_I&feature=youtu.be)   
+₃₎ [Brown Bag — Slack Overview — Ryan Hamblin](https://www.youtube.com/watch?v=h1t8e-aEWcE&feature=youtu.be)
+### Homework 🤔
+₁₎ [Basic-JavaScript Sprint](https://github.com/lefrenk/basic-javascript)
+
 [↑](#0)⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day003" />Day 003 → Wed → 8/9 
+### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day003-advanced-javascript.html) 📝
+### Lectures 🗣
+₁₎ [Coding Challenge #1 Review ⋰ `longestString` Review ⋰ `for` loop ⋰ `forEach()` ⋰ `sort()`](https://www.youtube.com/watch?v=TLAYnDw7PpM)  
+₂₎ [Basic JS Review ⋰ Course survey & feedback](https://youtu.be/ZMCXX1VfsgA)  
+₃₎ [`this` ⋰ `new` ⋰ `call()` ⋰ `apply()` ⋰ Closures ⋰ `class` ⋰ `extends` ⋰ `getter` ⋰ Callbacks](https://www.youtube.com/watch?v=tkauGGGxK_0)
+### Homework 🤔
+₁₎ [Advanced-JavaScript Mini Sprint](https://github.com/lefrenk/advanced-javascript-mini)
+
 [↑](#0)⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day004" />Day 004 → Thur → 8/10 
+### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day004-advanced-javascript.html) 📝
+### Lectures 🗣
+₁₎ [Coding Challenge #2 Review ⋰ `reverseCase.js` Review](https://youtu.be/oSaaI5GrLac)  
+₂₎ [Brown Bag — VS Code ⋰ Quokka — Ryan Hamblin]()  
+₃₎ [Advanced JS Review](https://youtu.be/4r6QcOyf4SI)
+### Homework 🤔
+₁₎ [Advanced-JavaScript Sprint](https://github.com/lefrenk/advanced-javascript)
 [↑](#0)⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day005" />Day 005 → Fri → 8/11
+### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day005-advanced-javascript.html) 📝
+### Lectures 🗣
+₁₎ [Coding Challenge #2 Review ⋰ `reverseCase.js` Review](https://youtu.be/oSaaI5GrLac)  
+₂₎ [Brown Bag — VS Code ⋰ Quokka — Ryan Hamblin]()  
+₃₎ [Advanced JS Review](https://youtu.be/4r6QcOyf4SI)
+### Homework 🤔
+₁₎ [Advanced-JavaScript Sprint](https://github.com/lefrenk/advanced-javascript)
 ***
 ## Month 2 ━ September 2017
 ***
