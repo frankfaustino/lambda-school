@@ -122,7 +122,7 @@
 ₂₎ [Brown Bag — VS Code ⋰ Quokka — Ryan Hamblin]()  
 ₃₎ [Advanced JS Review](https://youtu.be/4r6QcOyf4SI)
 ### Homework 🤔
-₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)
+₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)  
 [↑](#0)⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 ### Week 01 → <a name="day005" />Day 005 → Fri → 8/11
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day005-advanced-javascript.html) 📝
