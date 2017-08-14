@@ -131,7 +131,12 @@
 ₂₎ [Brown Bag — Machine Learning — Darren Ames]()  
 ₃₎ [Advanced JS Review]()
 ### Homework 🤔
-₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)
+₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)  
+[↑](#0)⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+### Week 02 → <a name="day006" />Day 006 → Mon → 8/14
+### [Notes]()
+### Lectures 🗣
+### Homework 🤔
 ***
 ## Month 2 ━ September 2017
 ***
