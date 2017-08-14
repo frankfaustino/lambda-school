@@ -94,7 +94,8 @@
 ### Homework 🤔
 ₁₎ [Basic JavaScript Mini](https://github.com/lefrenk/Basic-JavaScript-Mini) 
   
-[↑](#0)***
+[↑](#0)
+***
 ### Week 01 → <a name="day002" />Day 002 → Tues → 8/8
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day002-advanced-javascript.html) 📝
 ### Lectures 🗣
@@ -114,7 +115,8 @@
 ### Homework 🤔
 ₁₎ [Advanced JavaScript Mini](https://github.com/lefrenk/advanced-javascript-mini)
 
-[↑](#0)***
+[↑](#0)
+***
 ### Week 01 → <a name="day004" />Day 004 → Thur → 8/10 
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day004-advanced-javascript.html) 📝
 ### Lectures 🗣
@@ -123,7 +125,8 @@
 ₃₎ [Advanced JS Review](https://youtu.be/4r6QcOyf4SI)
 ### Homework 🤔
 ₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)  
-[↑](#0)***
+[↑](#0)
+***
 ### Week 01 → <a name="day005" />Day 005 → Fri → 8/11
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day005-advanced-javascript.html) 📝
 ### Lectures 🗣
@@ -132,7 +135,8 @@
 ₃₎ [Advanced JS Review]()
 ### Homework 🤔
 ₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)  
-[↑](#0)***
+[↑](#0)
+***
 ### <a name="week02" />Week 02 → <a name="day006" />Day 006 → Mon → 8/14
 ### [Notes]()
 ### Lectures 🗣
