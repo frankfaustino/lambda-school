@@ -142,6 +142,26 @@
 ### Lectures 🗣
 ### Homework 🤔
 ***
+### Week 02 → <a name="day007" />Day 007 → Tue → 8/15
+### [Notes]()
+### Lectures 🗣
+### Homework 🤔
+***
+### Week 02 → <a name="day008" />Day 008 → Wed → 8/16
+### [Notes]()
+### Lectures 🗣
+### Homework 🤔
+***
+### Week 02 → <a name="day009" />Day 009 → Thur → 8/17
+### [Notes]()
+### Lectures 🗣
+### Homework 🤔
+***
+### Week 02 → <a name="day010" />Day 010 → Fri → 8/18
+### [Notes]()
+### Lectures 🗣
+### Homework 🤔
+***
 ## Month 2 ━ September 2017
 ***
 ## Month 3 ━ October 2017
