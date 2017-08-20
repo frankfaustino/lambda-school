@@ -141,26 +141,39 @@
 ### [Notes]()
 ### Lectures 🗣
 ### Homework 🤔
+₁₎ [Data Structures I Mini Sprint](https://github.com/lefrenk/Data-Structures-I-Mini-Sprint)  
+₂₎ [Coding Challenge #5 `removeDuplicates.js`](https://github.com/lefrenk/CS2-Code-Challenges/tree/master/removeDuplicates)
 ***
 ### Week 02 → <a name="day007" />Day 007 → Tue → 8/15
 ### [Notes]()
 ### Lectures 🗣
 ### Homework 🤔
+₁₎ [Data Structures I Sprint](https://github.com/lefrenk/LS-Data-Structures-I)  
+₂₎ [Coding Challenge #6 `waterJugs.md`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/brainTeasers/waterJugs.md)
 ***
 ### Week 02 → <a name="day008" />Day 008 → Wed → 8/16
 ### [Notes]()
 ### Lectures 🗣
 ### Homework 🤔
+₁₎ [Data Structures II Mini Sprint](https://github.com/lefrenk/Data-Structures-II-Mini-Sprint)  
+₂₎ [Coding Challenge #7 `forLoopTimeout.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/forLoopTimeout/forLoopTimeout.js)
 ***
 ### Week 02 → <a name="day009" />Day 009 → Thur → 8/17
 ### [Notes]()
 ### Lectures 🗣
 ### Homework 🤔
+₁₎ [Data Structures II Sprint](https://github.com/lefrenk/LS-Data-Structures-II)  
+₂₎ [Coding Challenge #8 `largestPrimePalindrome.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/largestPrimePalindrome/largestPrimePalindrome.js)
 ***
 ### Week 02 → <a name="day010" />Day 010 → Fri → 8/18
 ### [Notes]()
 ### Lectures 🗣
+₁₎ [Coding Challenge Review – `largestPrimePalindrome.js`](https://youtu.be/31XhwPSQb84)  
+₂₎ [Brown Bag – Modern JS Tools – Kent C. Dodds](https://www.youtube.com/watch?v=M0v4Iizcw6c&index=1&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)  
+₃₎ [Data Structures II Q&A ⋰ Heaps](https://www.youtube.com/watch?v=Z8f8gLFDEXU&feature=youtu.be)
 ### Homework 🤔
+₁₎ [Data Structures II Sprint](https://github.com/lefrenk/LS-Data-Structures-II)  
+[↑](#0)
 ***
 ## Month 2 ━ September 2017
 ***
