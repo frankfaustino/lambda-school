@@ -136,7 +136,6 @@
 
 [↑](#0)
 ***
-***
 ## <a name="week02" />Week 02
 ## <a name="day006" />Day 006 → Mon → 8/14
 ### [Notes](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/week02day006-data-structures.md?_k=8bwed3)
@@ -197,7 +196,6 @@
 
 [↑](#0)
 ***
-******
 ## <a name="week03" />Week 03 
 ## <a name="day011" />Day 011 → Mon → 8/21
 ### Notes
