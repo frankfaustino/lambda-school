@@ -80,8 +80,9 @@
 ₁₃₎ Mongo  
 ₁₄₎ Khan Academy – [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
 ***
-## Month 1 ━ August 2017
-### <a name="week01" />Week 01 → <a name="day001" />Day 001 → Mon → 8/7
+# Month 1 ━ August 2017
+## <a name="week01" />Week 01 
+## <a name="day001" />Day 001 → Mon → 8/7
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day001-basic-javascript.html#week-01-→-day-001-→-mon-→-august-7-2017)  
 ### Lectures  
 ₁₎ [ES6 ⋰ Scope ⋰ `const` & `let`⋰ Arrow Functions ⇒ ⋰ Semicolons ⋰ Template Literals](https://youtu.be/vJGIFw755_k)  
@@ -91,7 +92,7 @@
 
 [↑](#0)
 ***
-### Week 01 → <a name="day002" />Day 002 → Tues → 8/8
+## <a name="day002" />Day 002 → Tues → 8/8
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day002-advanced-javascript.html)  
 ### Lectures  
 ₁₎ [Anonymous & Callback Functions ⋰ `map()` ⋰ Iterating Over Arrays & Array of Objects](https://youtu.be/X_k4XLHyRQM)  
@@ -102,7 +103,7 @@
 
 [↑](#0)
 ***
-### Week 01 → <a name="day003" />Day 003 → Wed → 8/9 
+## <a name="day003" />Day 003 → Wed → 8/9 
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day003-advanced-javascript.html)  
 ### Lectures  
 ₁₎ [Coding Challenge #1 `longestString` Review ⋰ `for` loop ⋰ `forEach()` ⋰ `sort()`](https://www.youtube.com/watch?v=TLAYnDw7PpM)  
@@ -113,7 +114,7 @@
 
 [↑](#0)
 ***
-### Week 01 → <a name="day004" />Day 004 → Thur → 8/10 
+## <a name="day004" />Day 004 → Thur → 8/10 
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day004-advanced-javascript.html)  
 ### Lectures  
 ₁₎ [Coding Challenge #2 `reverseCase.js` Review](https://youtu.be/oSaaI5GrLac)  
@@ -124,7 +125,7 @@
 
 [↑](#0)
 ***
-### Week 01 → <a name="day005" />Day 005 → Fri → 8/11
+## <a name="day005" />Day 005 → Fri → 8/11
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day005-advanced-javascript.html)  
 ### Lectures  
 ₁₎ [isUnique.js Review ⋰ Big O Notation ⋰ nested for loops ⋰ new Set()]()  
@@ -136,7 +137,8 @@
 [↑](#0)
 ***
 ***
-### <a name="week02" />Week 02 → <a name="day006" />Day 006 → Mon → 8/14
+## <a name="week02" />Week 02
+## <a name="day006" />Day 006 → Mon → 8/14
 ### [Notes](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/week02day006-data-structures.md?_k=8bwed3)
 ### Lectures  
 ₁₎ Coding Challenge Review – `callBackPractice.js`  
@@ -147,7 +149,7 @@
 
 [↑](#0)
 ***
-### Week 02 → <a name="day007" />Day 007 → Tue → 8/15
+## <a name="day007" />Day 007 → Tue → 8/15
 ### [Notes](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/02007-data-structures.md?_k=7pwgq2)
 ### Lectures  
 ₁₎ [Coding Challenge Review – `removeDuplicates.js`](https://www.youtube.com/watch?v=2Ccp_r1zTOk&feature=youtu.be)  
@@ -159,7 +161,7 @@
 
 [↑](#0)
 ***
-### Week 02 → <a name="day008" />Day 008 → Wed → 8/16
+## <a name="day008" />Day 008 → Wed → 8/16
 ### [Notes](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/week02day008-data-structures.md?_k=cpgb22)
 ### Lectures  
 ₁₎ [Coding Challenge Review - `waterJugs.js`](https://youtu.be/gs0JCjzgVmM)  
@@ -171,7 +173,7 @@
  
 [↑](#0)
 ***
-### Week 02 → <a name="day009" />Day 009 → Thur → 8/17
+## <a name="day009" />Day 009 → Thur → 8/17
 ### [Notes](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/02007-data-structures-ii.md?_k=plghp3)
 ### Lectures  
 ₁₎ [Coding Challenge Review – `forLoopTimeout.js`](https://www.youtube.com/watch?v=7-PuNWglB8U&feature=youtu.be)  
@@ -183,7 +185,7 @@
  
 [↑](#0)
 ***
-### Week 02 → <a name="day010" />Day 010 → Fri → 8/18
+## <a name="day010" />Day 010 → Fri → 8/18
 ### [Notes ⋰ Resources](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/02010-data-structures-ii.md?_k=nmd71n)
 ### Lectures  
 ₁₎ [Coding Challenge Review – `largestPrimePalindrome.js`](https://youtu.be/31XhwPSQb84)  
@@ -196,7 +198,8 @@
 [↑](#0)
 ***
 ******
-### <a name="week03" />Week 03 → <a name="day011" />Day 011 → Mon → 8/21
+## <a name="week03" />Week 03 
+## <a name="day011" />Day 011 → Mon → 8/21
 ### Notes
 ### Lectures  
 ₁₎  
@@ -208,7 +211,7 @@
 
 [↑](#0)
 ***
-### <a name="week03" />Week 03 → <a name="day012" />Day 012 → Tues → 8/22
+## <a name="day012" />Day 012 → Tues → 8/22
 ### Notes
 ### Lectures  
 ₁₎  
@@ -220,7 +223,7 @@
 
 [↑](#0)
 ***
-### <a name="week03" />Week 03 → <a name="day013" />Day 013 → Wed → 8/23
+## <a name="day013" />Day 013 → Wed → 8/23
 ### Notes
 ### Lectures  
 ₁₎  
@@ -232,7 +235,7 @@
 
 [↑](#0)
 ***
-### <a name="week03" />Week 03 → <a name="day014" />Day 014 → Thur → 8/24
+##  <a name="day014" />Day 014 → Thur → 8/24
 ### Notes
 ### Lectures  
 ₁₎  
@@ -244,7 +247,7 @@
 
 [↑](#0)
 ***
-### <a name="week03" />Week 03 → <a name="day015" />Day 015 → Fri → 8/25
+## <a name="day015" />Day 015 → Fri → 8/25
 ### Notes
 ### Lectures  
 ₁₎  
