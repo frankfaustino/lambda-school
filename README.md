@@ -82,106 +82,129 @@
 ***
 ## Month 1 ━ August 2017
 ### <a name="week01" />Week 01 → <a name="day001" />Day 001 → Mon → 8/7
-### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day001-basic-javascript.html#week-01-→-day-001-→-mon-→-august-7-2017) 📝
-### Lectures 🗣
+### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day001-basic-javascript.html#week-01-→-day-001-→-mon-→-august-7-2017)  
+### Lectures  
 ₁₎ [ES6 ⋰ Scope ⋰ `const` & `let`⋰ Arrow Functions ⇒ ⋰ Semicolons ⋰ Template Literals](https://youtu.be/vJGIFw755_k)  
 ₂₎ [Basic JavaScript Mini Review](https://youtu.be/h8ivtUEFIbw)  
-### Homework 🤔
+### Homework  
 ₁₎ [Basic JavaScript Mini](https://github.com/lefrenk/Basic-JavaScript-Mini)  
 
 [↑](#0)
 ***
 ### Week 01 → <a name="day002" />Day 002 → Tues → 8/8
-### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day002-advanced-javascript.html) 📝
-### Lectures 🗣
+### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day002-advanced-javascript.html)  
+### Lectures  
 ₁₎ [Anonymous & Callback Functions ⋰ `map()` ⋰ Iterating Over Arrays & Array of Objects](https://youtu.be/X_k4XLHyRQM)  
 ₂₎ [How to Solve a Problem ⋰ Basic JS Review ⋰ Advanced JS/arrays.js Overview ⋰ `reduce()`](https://www.youtube.com/watch?v=mgotovfUK_I&feature=youtu.be)   
 ₃₎ [Brown Bag — Slack Overview — Ryan Hamblin](https://www.youtube.com/watch?v=h1t8e-aEWcE&feature=youtu.be)
-### Homework 🤔
+### Homework  
 ₁₎ [Basic JavaScript](https://github.com/lefrenk/basic-javascript)  
 
 [↑](#0)
 ***
 ### Week 01 → <a name="day003" />Day 003 → Wed → 8/9 
-### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day003-advanced-javascript.html) 📝
-### Lectures 🗣
+### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day003-advanced-javascript.html)  
+### Lectures  
 ₁₎ [Coding Challenge #1 `longestString` Review ⋰ `for` loop ⋰ `forEach()` ⋰ `sort()`](https://www.youtube.com/watch?v=TLAYnDw7PpM)  
 ₂₎ [Basic JS Review ⋰ Course survey & feedback](https://youtu.be/ZMCXX1VfsgA)  
 ₃₎ [`this` ⋰ `new` ⋰ `call()` ⋰ `apply()` ⋰ Closures ⋰ `class` ⋰ `extends` ⋰ `getter` ⋰ Callbacks](https://www.youtube.com/watch?v=tkauGGGxK_0)
-### Homework 🤔
+### Homework  
 ₁₎ [Advanced JavaScript Mini](https://github.com/lefrenk/advanced-javascript-mini)
 
 [↑](#0)
 ***
 ### Week 01 → <a name="day004" />Day 004 → Thur → 8/10 
-### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day004-advanced-javascript.html) 📝
-### Lectures 🗣
+### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day004-advanced-javascript.html)  
+### Lectures  
 ₁₎ [Coding Challenge #2 `reverseCase.js` Review](https://youtu.be/oSaaI5GrLac)  
 ₂₎ [Brown Bag — VS Code ⋰ Quokka — Ryan Hamblin]()  
 ₃₎ [Advanced JS Review](https://youtu.be/4r6QcOyf4SI)
-### Homework 🤔
+### Homework  
 ₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)  
 
 [↑](#0)
 ***
 ### Week 01 → <a name="day005" />Day 005 → Fri → 8/11
-### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day005-advanced-javascript.html) 📝
-### Lectures 🗣
+### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day005-advanced-javascript.html)  
+### Lectures  
 ₁₎ [isUnique.js Review ⋰ Big O Notation ⋰ nested for loops ⋰ new Set()]()  
 ₂₎ [Brown Bag — Machine Learning — Darren Ames]()  
 ₃₎ [Advanced JS Review]()
-### Homework 🤔
+### Homework  
 ₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)  
 
 [↑](#0)
 ***
 ### <a name="week02" />Week 02 → <a name="day006" />Day 006 → Mon → 8/14
-### [Notes]()
-### Lectures 🗣
-### Homework 🤔
+### [Notes](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/week02day006-data-structures.md?_k=8bwed3)
+### Lectures  
+₁₎ Coding Challenge Review – `callBackPractice.js`  
+₂₎ [Data Structures I ⋰ Linear Time O(n) Complexity ⋰ Constant Time O(1) Complexity ⋰ Quadratic Time O(n²) Complextiy ⋰ Linked Lists ⋰ Stacks ⋰ Queues ⋰ Hash Tables ⋰ Hash Function Examples ⋰ Hash Table Insertion ⋰ Hash Table Collisions](https://www.youtube.com/watch?v=hCOJeCA8-MI)
+### Homework  
 ₁₎ [Data Structures I Mini Sprint](https://github.com/lefrenk/Data-Structures-I-Mini-Sprint)  
 ₂₎ [Coding Challenge #5 `removeDuplicates.js`](https://github.com/lefrenk/CS2-Code-Challenges/tree/master/removeDuplicates)  
 
 [↑](#0)
 ***
 ### Week 02 → <a name="day007" />Day 007 → Tue → 8/15
-### [Notes]()
-### Lectures 🗣
-### Homework 🤔
+### [Notes](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/02007-data-structures.md?_k=7pwgq2)
+### Lectures  
+₁₎ [Coding Challenge Review – `removeDuplicates.js`](https://www.youtube.com/watch?v=2Ccp_r1zTOk&feature=youtu.be)  
+₂₎ Brown Bag – Vim – Sean Chen
+₃₎ [Data Structures I Q&A ⋰ getter & setter ⋰ limited Arrays ⋰ hash functions ⋰ Objects stored in memory ⋰ Linked Lists](https://www.youtube.com/watch?v=pddJrBdLyY4&feature=youtu.be)
+### Homework  
 ₁₎ [Data Structures I Sprint](https://github.com/lefrenk/LS-Data-Structures-I)  
 ₂₎ [Coding Challenge #6 `waterJugs.md`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/brainTeasers/waterJugs.md)   
 
 [↑](#0)
 ***
 ### Week 02 → <a name="day008" />Day 008 → Wed → 8/16
-### [Notes]()
-### Lectures 🗣
-### Homework 🤔
-₁₎ [Data Structures II Mini Sprint](https://github.com/lefrenk/Data-Structures-II-Mini-Sprint)  
+### [Notes](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/week02day008-data-structures.md?_k=cpgb22)
+### Lectures  
+₁₎ [Coding Challenge Review - `waterJugs.js`](https://youtu.be/gs0JCjzgVmM)  
+₂₎ [Data Structures I – Solutions](https://youtu.be/_VBQe1T7rrM)  
+₃₎ [Data Structures II Mini Sprint ⋰ Trees ⋰ Binary Search Trees ⋰ Graphs](https://youtu.be/FBlxViiYm9A)  
+### Homework  
+₁₎ [Data Structures II Sprint](https://github.com/lefrenk/LS-Data-Structures-II)  
 ₂₎ [Coding Challenge #7 `forLoopTimeout.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/forLoopTimeout/forLoopTimeout.js)  
  
 [↑](#0)
 ***
 ### Week 02 → <a name="day009" />Day 009 → Thur → 8/17
-### [Notes]()
-### Lectures 🗣
-### Homework 🤔
+### [Notes](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/02007-data-structures-ii.md?_k=plghp3)
+### Lectures  
+₁₎ [Coding Challenge Review – `forLoopTimeout.js`](https://www.youtube.com/watch?v=7-PuNWglB8U&feature=youtu.be)  
+₂₎ [Brown Bag - HTTP ⋰ IPC ⋰ Protocol ⋰ Node ⋰ Express - Thomas Comer](https://youtu.be/d2YYm0qEszo)  
+₃₎ [Data Structures II ⋰ Breadth First Search using a Queue](https://www.youtube.com/watch?v=TiJFptZzLTk&feature=youtu.be)  
+### Homework  
 ₁₎ [Data Structures II Sprint](https://github.com/lefrenk/LS-Data-Structures-II)  
 ₂₎ [Coding Challenge #8 `largestPrimePalindrome.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/largestPrimePalindrome/largestPrimePalindrome.js)  
  
 [↑](#0)
 ***
 ### Week 02 → <a name="day010" />Day 010 → Fri → 8/18
-### [Notes]()
-### Lectures 🗣
+### [Notes ⋰ Resources](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/02010-data-structures-ii.md?_k=nmd71n)
+### Lectures  
 ₁₎ [Coding Challenge Review – `largestPrimePalindrome.js`](https://youtu.be/31XhwPSQb84)  
 ₂₎ [Brown Bag – Modern JS Tools – Kent C. Dodds](https://www.youtube.com/watch?v=M0v4Iizcw6c&index=1&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)  
 ₃₎ [Data Structures II Q&A ⋰ Heaps](https://www.youtube.com/watch?v=Z8f8gLFDEXU&feature=youtu.be)
-### Homework 🤔
+### Homework  
 ₁₎ [Data Structures II Sprint](https://github.com/lefrenk/LS-Data-Structures-II)  
+₂₎ [Coding Challenge #10 – constructors.js](https://github.com/LambdaSchool/CS2-Code-Challenges/blob/master/constructors/constructors.js)
 
 [↑](#0)
 ***
+### <a name="week03" />Week 02 → <a name="day010" />Day 011 → Mon → 8/21
+### Notes
+### Lectures  
+₁₎  
+₂₎    
+₃₎  
+### Homework  
+₁₎   
+₂₎ 
+
+[↑](#0)
 ## Month 2 ━ September 2017
 ***
 ## Month 3 ━ October 2017
