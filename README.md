@@ -256,12 +256,12 @@
 ₂₎ 
 
 [↑](#0)
-## Month 2 ━ September 2017
+# Month 2 ━ September 2017
 ***
-## Month 3 ━ October 2017
+# Month 3 ━ October 2017
 ***
-## Month 4 ━ November 2017
+# Month 4 ━ November 2017
 ***
-## Month 5 ━ December 2017
+# Month 5 ━ December 2017
 ***
-## Month 6 ━ January 2018
+# Month 6 ━ January 2018
