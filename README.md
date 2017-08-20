@@ -87,7 +87,8 @@
 ₁₎ [ES6 ⋰ Scope ⋰ `const` & `let`⋰ Arrow Functions ⇒ ⋰ Semicolons ⋰ Template Literals](https://youtu.be/vJGIFw755_k)  
 ₂₎ [Basic JavaScript Mini Review](https://youtu.be/h8ivtUEFIbw)  
 ### Homework 🤔
-₁₎ [Basic JavaScript Mini](https://github.com/lefrenk/Basic-JavaScript-Mini) 
+₁₎ [Basic JavaScript Mini](https://github.com/lefrenk/Basic-JavaScript-Mini)  
+
 [↑](#0)
 ***
 ### Week 01 → <a name="day002" />Day 002 → Tues → 8/8
@@ -97,7 +98,8 @@
 ₂₎ [How to Solve a Problem ⋰ Basic JS Review ⋰ Advanced JS/arrays.js Overview ⋰ `reduce()`](https://www.youtube.com/watch?v=mgotovfUK_I&feature=youtu.be)   
 ₃₎ [Brown Bag — Slack Overview — Ryan Hamblin](https://www.youtube.com/watch?v=h1t8e-aEWcE&feature=youtu.be)
 ### Homework 🤔
-₁₎ [Basic JavaScript](https://github.com/lefrenk/basic-javascript) 
+₁₎ [Basic JavaScript](https://github.com/lefrenk/basic-javascript)  
+
 [↑](#0)
 ***
 ### Week 01 → <a name="day003" />Day 003 → Wed → 8/9 
@@ -118,7 +120,8 @@
 ₂₎ [Brown Bag — VS Code ⋰ Quokka — Ryan Hamblin]()  
 ₃₎ [Advanced JS Review](https://youtu.be/4r6QcOyf4SI)
 ### Homework 🤔
-₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript) 
+₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)  
+
 [↑](#0)
 ***
 ### Week 01 → <a name="day005" />Day 005 → Fri → 8/11
@@ -128,7 +131,8 @@
 ₂₎ [Brown Bag — Machine Learning — Darren Ames]()  
 ₃₎ [Advanced JS Review]()
 ### Homework 🤔
-₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript) 
+₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)  
+
 [↑](#0)
 ***
 ### <a name="week02" />Week 02 → <a name="day006" />Day 006 → Mon → 8/14
