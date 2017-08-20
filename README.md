@@ -5,11 +5,6 @@
 
 ┏August  
 ┣━━[Week 01](#week01) → [Basic ⋰ Advanced JS](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)  
-┣━━━━[Day 001](#day001) →  
-┣━━━━[Day 002](#day002) →  
-┣━━━━[Day 003](#day003) →  
-┣━━━━[Day 004](#day004) →  
-┣━━━━[Day 005](#day005) →  
 ┣━━[Week 02](#week02) → [Data Structures I & II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project21)  
 ┣━━[Week 03](#week03) → [DOM](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project31) ⋰ [React I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project32)  
 ┗━━[Week 04](#week04) → [React II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project41) ⋰ [Redux](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project42)  
@@ -93,7 +88,6 @@
 ₂₎ [Basic JavaScript Mini Review](https://youtu.be/h8ivtUEFIbw)  
 ### Homework 🤔
 ₁₎ [Basic JavaScript Mini](https://github.com/lefrenk/Basic-JavaScript-Mini) 
-  
 [↑](#0)
 ***
 ### Week 01 → <a name="day002" />Day 002 → Tues → 8/8
@@ -103,9 +97,9 @@
 ₂₎ [How to Solve a Problem ⋰ Basic JS Review ⋰ Advanced JS/arrays.js Overview ⋰ `reduce()`](https://www.youtube.com/watch?v=mgotovfUK_I&feature=youtu.be)   
 ₃₎ [Brown Bag — Slack Overview — Ryan Hamblin](https://www.youtube.com/watch?v=h1t8e-aEWcE&feature=youtu.be)
 ### Homework 🤔
-₁₎ [Basic JavaScript](https://github.com/lefrenk/basic-javascript)
-
-[↑](#0)***
+₁₎ [Basic JavaScript](https://github.com/lefrenk/basic-javascript) 
+[↑](#0)
+***
 ### Week 01 → <a name="day003" />Day 003 → Wed → 8/9 
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day003-advanced-javascript.html) 📝
 ### Lectures 🗣
@@ -124,7 +118,7 @@
 ₂₎ [Brown Bag — VS Code ⋰ Quokka — Ryan Hamblin]()  
 ₃₎ [Advanced JS Review](https://youtu.be/4r6QcOyf4SI)
 ### Homework 🤔
-₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)  
+₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript) 
 [↑](#0)
 ***
 ### Week 01 → <a name="day005" />Day 005 → Fri → 8/11
@@ -134,7 +128,7 @@
 ₂₎ [Brown Bag — Machine Learning — Darren Ames]()  
 ₃₎ [Advanced JS Review]()
 ### Homework 🤔
-₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)  
+₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript) 
 [↑](#0)
 ***
 ### <a name="week02" />Week 02 → <a name="day006" />Day 006 → Mon → 8/14
@@ -142,28 +136,36 @@
 ### Lectures 🗣
 ### Homework 🤔
 ₁₎ [Data Structures I Mini Sprint](https://github.com/lefrenk/Data-Structures-I-Mini-Sprint)  
-₂₎ [Coding Challenge #5 `removeDuplicates.js`](https://github.com/lefrenk/CS2-Code-Challenges/tree/master/removeDuplicates)
+₂₎ [Coding Challenge #5 `removeDuplicates.js`](https://github.com/lefrenk/CS2-Code-Challenges/tree/master/removeDuplicates)  
+
+[↑](#0)
 ***
 ### Week 02 → <a name="day007" />Day 007 → Tue → 8/15
 ### [Notes]()
 ### Lectures 🗣
 ### Homework 🤔
 ₁₎ [Data Structures I Sprint](https://github.com/lefrenk/LS-Data-Structures-I)  
-₂₎ [Coding Challenge #6 `waterJugs.md`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/brainTeasers/waterJugs.md)
+₂₎ [Coding Challenge #6 `waterJugs.md`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/brainTeasers/waterJugs.md)   
+
+[↑](#0)
 ***
 ### Week 02 → <a name="day008" />Day 008 → Wed → 8/16
 ### [Notes]()
 ### Lectures 🗣
 ### Homework 🤔
 ₁₎ [Data Structures II Mini Sprint](https://github.com/lefrenk/Data-Structures-II-Mini-Sprint)  
-₂₎ [Coding Challenge #7 `forLoopTimeout.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/forLoopTimeout/forLoopTimeout.js)
+₂₎ [Coding Challenge #7 `forLoopTimeout.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/forLoopTimeout/forLoopTimeout.js)  
+ 
+[↑](#0)
 ***
 ### Week 02 → <a name="day009" />Day 009 → Thur → 8/17
 ### [Notes]()
 ### Lectures 🗣
 ### Homework 🤔
 ₁₎ [Data Structures II Sprint](https://github.com/lefrenk/LS-Data-Structures-II)  
-₂₎ [Coding Challenge #8 `largestPrimePalindrome.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/largestPrimePalindrome/largestPrimePalindrome.js)
+₂₎ [Coding Challenge #8 `largestPrimePalindrome.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/largestPrimePalindrome/largestPrimePalindrome.js)  
+ 
+[↑](#0)
 ***
 ### Week 02 → <a name="day010" />Day 010 → Fri → 8/18
 ### [Notes]()
@@ -173,6 +175,7 @@
 ₃₎ [Data Structures II Q&A ⋰ Heaps](https://www.youtube.com/watch?v=Z8f8gLFDEXU&feature=youtu.be)
 ### Homework 🤔
 ₁₎ [Data Structures II Sprint](https://github.com/lefrenk/LS-Data-Structures-II)  
+
 [↑](#0)
 ***
 ## Month 2 ━ September 2017
