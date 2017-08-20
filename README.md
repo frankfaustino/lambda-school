@@ -150,7 +150,7 @@
 ### [Notes](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/02007-data-structures.md?_k=7pwgq2)
 ### Lectures  
 ₁₎ [Coding Challenge Review – `removeDuplicates.js`](https://www.youtube.com/watch?v=2Ccp_r1zTOk&feature=youtu.be)  
-₂₎ Brown Bag – Vim – Sean Chen
+₂₎ Brown Bag – Vim – Sean Chen  
 ₃₎ [Data Structures I Q&A ⋰ getter & setter ⋰ limited Arrays ⋰ hash functions ⋰ Objects stored in memory ⋰ Linked Lists](https://www.youtube.com/watch?v=pddJrBdLyY4&feature=youtu.be)
 ### Homework  
 ₁₎ [Data Structures I Sprint](https://github.com/lefrenk/LS-Data-Structures-I)  
