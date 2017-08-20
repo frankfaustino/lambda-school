@@ -135,6 +135,7 @@
 
 [↑](#0)
 ***
+***
 ### <a name="week02" />Week 02 → <a name="day006" />Day 006 → Mon → 8/14
 ### [Notes](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/week02day006-data-structures.md?_k=8bwed3)
 ### Lectures  
@@ -194,7 +195,56 @@
 
 [↑](#0)
 ***
-### <a name="week03" />Week 02 → <a name="day010" />Day 011 → Mon → 8/21
+******
+### <a name="week03" />Week 03 → <a name="day011" />Day 011 → Mon → 8/21
+### Notes
+### Lectures  
+₁₎  
+₂₎    
+₃₎  
+### Homework  
+₁₎   
+₂₎ 
+
+[↑](#0)
+***
+### <a name="week03" />Week 03 → <a name="day012" />Day 012 → Tues → 8/22
+### Notes
+### Lectures  
+₁₎  
+₂₎    
+₃₎  
+### Homework  
+₁₎   
+₂₎ 
+
+[↑](#0)
+***
+### <a name="week03" />Week 03 → <a name="day013" />Day 013 → Wed → 8/23
+### Notes
+### Lectures  
+₁₎  
+₂₎    
+₃₎  
+### Homework  
+₁₎   
+₂₎ 
+
+[↑](#0)
+***
+### <a name="week03" />Week 03 → <a name="day014" />Day 014 → Thur → 8/24
+### Notes
+### Lectures  
+₁₎  
+₂₎    
+₃₎  
+### Homework  
+₁₎   
+₂₎ 
+
+[↑](#0)
+***
+### <a name="week03" />Week 03 → <a name="day015" />Day 015 → Fri → 8/25
 ### Notes
 ### Lectures  
 ₁₎  
