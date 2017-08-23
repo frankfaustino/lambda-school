@@ -200,36 +200,40 @@
 ## <a name="day011" />Day 011 → Mon → 8/21
 ### Notes
 ### Lectures  
-₁₎  
-₂₎    
-₃₎  
+₁₎ Coding Challenge – `constructors.js`  
+₂₎ Week 2 Feedback Session   
+₃₎ Data Structures II – Solution Lecture  
+₄₎ [DOM ⋰ HTML & CSS](https://www.youtube.com/watch?v=BV83yPgDXBQ)  
+₅₎ [DOM ⋰ HTML & CSS](https://youtu.be/oYlfSTzhZjg)
 ### Homework  
-₁₎   
-₂₎ 
+₁₎ [Coding Challenge – `commonCharacters.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/commonCharacters/commonCharacters.js)  
+₂₎ [DOM ⋰ HTML & CSS](https://github.com/lefrenk/LS-DOM)  
 
 [↑](#0)
 ***
 ## <a name="day012" />Day 012 → Tues → 8/22
 ### Notes
 ### Lectures  
-₁₎  
-₂₎    
-₃₎  
+₁₎ [Coding Challenge – `commonCharacters.js`](https://youtu.be/scMNT8OIkzA)  
+₂₎ [Brown Bag – Oh My ZSH!](https://www.youtube.com/watch?v=Yo9d6XyRVb8)   
+₃₎ [DOM ⋰ HTML & CSS Q&A](https://www.youtube.com/watch?v=leewz5phD6Y&feature=youtu.be)
 ### Homework  
-₁₎   
-₂₎ 
+₁₎ [Coding Challenge – `evenOccurrences.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/evenOccurences/evenOccurences.js)  
+₂₎ [DOM ⋰ HTML & CSS](https://github.com/lefrenk/LS-DOM)  
+₃₎ Completed DOM Project
 
 [↑](#0)
 ***
 ## <a name="day013" />Day 013 → Wed → 8/23
 ### Notes
 ### Lectures  
-₁₎  
-₂₎    
-₃₎  
+₁₎ [Coding Challenge Review – `evenOccurrences.js`](https://youtu.be/gdnP6CixG4U)  
+₂₎ DOM Solution Lecture  
+₃₎ DOM Review Session ⋰ Q&A  
+₄₎ [React I – Mini Sprint](https://www.youtube.com/watch?v=exFWxA8mGLo)
 ### Homework  
-₁₎   
-₂₎ 
+₁₎ [Coding Challenge – `stringCompression.js`]()   
+₂₎ [React I – Mini Sprint](https://github.com/LambdaSchool/React-I-Mini-Sprint)
 
 [↑](#0)
 ***
