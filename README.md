@@ -198,7 +198,6 @@
 ***
 ## <a name="week03" />Week 03 
 ## <a name="day011" />Day 011 → Mon → 8/21
-### Notes
 ### Lectures  
 ₁₎ Coding Challenge – `constructors.js`  
 ₂₎ Week 2 Feedback Session   
@@ -212,7 +211,6 @@
 [↑](#0)
 ***
 ## <a name="day012" />Day 012 → Tues → 8/22
-### Notes
 ### Lectures  
 ₁₎ [Coding Challenge – `commonCharacters.js`](https://youtu.be/scMNT8OIkzA)  
 ₂₎ [Brown Bag – Oh My ZSH!](https://www.youtube.com/watch?v=Yo9d6XyRVb8)   
@@ -225,7 +223,6 @@
 [↑](#0)
 ***
 ## <a name="day013" />Day 013 → Wed → 8/23
-### Notes
 ### Lectures  
 ₁₎ [Coding Challenge Review – `evenOccurrences.js`](https://youtu.be/gdnP6CixG4U)  
 ₂₎ DOM Solution Lecture  
@@ -238,14 +235,13 @@
 [↑](#0)
 ***
 ##  <a name="day014" />Day 014 → Thur → 8/24
-### Notes
 ### Lectures  
-₁₎  
-₂₎    
-₃₎  
+₁₎ [Code Challenge – `stringCompression.js`](https://youtu.be/ub26bySRo1k)  
+₂₎ [Brown Bag – Binary](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/how-to-count-to-1000-on-two-hands)  
+₃₎ React I Q&A
 ### Homework  
-₁₎   
-₂₎ 
+₁₎ [Code Challenge – `vowelCount.js`](https://github.com/lefrenk/CS2-Code-Challenges/tree/master/vowelCount)  
+₂₎ [React I Sprint](https://github.com/lefrenk/LS-React-1)
 
 [↑](#0)
 ***
