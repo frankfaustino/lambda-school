@@ -246,14 +246,12 @@
 [↑](#0)
 ***
 ## <a name="day015" />Day 015 → Fri → 8/25
-### Notes
 ### Lectures  
-₁₎  
-₂₎    
-₃₎  
+₁₎ [Code Challenge – `vowelCount.js`](https://youtu.be/D1Tsa_44U1M)  
+₂₎ [Brown Bag – Tech in Real Estate](https://www.youtube.com/watch?v=DupWGPOfazk)  
+₃₎ React I Q&A  
 ### Homework  
-₁₎   
-₂₎ 
+₁₎ [Code Challenge – `meanMedianMode.js`](https://www.youtube.com/watch?v=DupWGPOfazk)  
 
 [↑](#0)
 # Month 2 ━ September 2017
