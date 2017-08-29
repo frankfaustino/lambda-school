@@ -255,6 +255,7 @@
 
 [↑](#0)
 ***
+## <a name="week04" />Week 04 
 ## <a name="day016" />Day 016 → Mon → 8/28
 ### Lectures  
 ₁₎ [Code Challenge – `meanMedianMode.js`](https://youtu.be/soujN64-9PA)  
