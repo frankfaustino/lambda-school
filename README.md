@@ -264,7 +264,7 @@
 ₄₎ [React II – Mini Sprint Review](https://www.youtube.com/watch?v=phdGADfdSfc&feature=youtu.be)  
 ₅₎ [React II Sprint](https://www.youtube.com/watch?v=joKeQKBXIDY&feature=youtu.be)  
 ### Homework  
-₁₎ [Code Challenge – `sumDigits.js`](https://www.youtube.com/watch?v=DupWGPOfazk)  
+₁₎ [Code Challenge – `sumDigits.js`](https://repl.it/student/submissions/1448135)  
 ₂₎ [React II – Mini Sprint](https://github.com/lefrenk/React-II-Mini-Sprint)  
 ₃₎ [React II – Sprint](https://github.com/lefrenk/LS-React-II)  
 
