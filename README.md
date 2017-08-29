@@ -254,6 +254,35 @@
 ₁₎ [Code Challenge – `meanMedianMode.js`](https://www.youtube.com/watch?v=DupWGPOfazk)  
 
 [↑](#0)
+***
+## <a name="day016" />Day 016 → Mon → 8/28
+### Lectures  
+₁₎ [Code Challenge – `meanMedianMode.js`](https://youtu.be/soujN64-9PA)  
+₂₎ React I Sprint Review  
+₃₎ [React II – Mini Sprint](https://www.youtube.com/watch?v=0Jtr6SUtJUQ)  
+₄₎ [React II – Mini Sprint Review](https://www.youtube.com/watch?v=phdGADfdSfc&feature=youtu.be)  
+₅₎ [React II Sprint](https://www.youtube.com/watch?v=joKeQKBXIDY&feature=youtu.be)  
+### Homework  
+₁₎ [Code Challenge – `sumDigits.js`](https://www.youtube.com/watch?v=DupWGPOfazk)  
+₂₎ [React II – Mini Sprint](https://github.com/lefrenk/React-II-Mini-Sprint)  
+₃₎ [React II – Sprint](https://github.com/lefrenk/LS-React-II)  
+
+[↑](#0)
+***
+## <a name="day017" />Day 017 → Tue → 8/29
+### Lectures  
+₁₎  
+₂₎  
+₃₎  
+₄₎  
+₅₎  
+### Homework  
+₁₎  
+₂₎  
+₃₎  
+
+[↑](#0)
+***
 # Month 2 ━ September 2017
 ***
 # Month 3 ━ October 2017
