@@ -272,6 +272,17 @@
 ***
 ## <a name="day017" />Day 017 → Tue → 8/29
 ### Lectures  
+₁₎ Code Challenge – `sumDigits`  
+₂₎ [Brown Bag – Bullet Journaling](https://youtu.be/Kg3MN6XDh8U)  
+₃₎ React II – Review 
+### Homework  
+₁₎ [Code Challenge – `armstrongNumbers`](https://repl.it/student/submissions/1454756)  
+₂₎ [React II – Sprint](https://github.com/lefrenk/LS-React-II)  
+
+[↑](#0)
+***
+## <a name="day018" />Day 018 → Wed → 8/30
+### Lectures  
 ₁₎  
 ₂₎  
 ₃₎  
