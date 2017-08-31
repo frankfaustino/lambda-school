@@ -296,7 +296,7 @@
 ***
 ## <a name="day019" />Day 019 → Thur → 8/31
 ### Lectures  
-₁₎ [Code Challenge – `reverseNumber`](https://youtu.be/XuCUwyMjqSk) 
+₁₎ [Code Challenge – `reverseNumber`](https://youtu.be/XuCUwyMjqSk)  
 ₂₎  
 ₃₎  
 ₄₎  
