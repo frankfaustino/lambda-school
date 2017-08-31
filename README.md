@@ -283,6 +283,33 @@
 ***
 ## <a name="day018" />Day 018 → Wed → 8/30
 ### Lectures  
+₁₎ [Code Challenge – `armstrongNumbers`](https://www.youtube.com/watch?v=nVh8UGU8e4I)  
+₂₎ [React II – Solution Lecture](https://www.youtube.com/watch?v=XtGjjB2S_Fg)  
+₃₎ [Redux Intro Lecture](https://www.youtube.com/watch?v=Ozx4FH4iKWc)  
+₄₎ [Redux – Mini Sprint](https://youtu.be/m2hLtAwhcc4)  
+₅₎ [Redux – Mini Sprint Solution](https://youtu.be/PvQ8N5LK4fM)  
+### Homework  
+₁₎ [Code Challenge – `reverseNumber`]()  
+₂₎ [Redux Mini Sprint]()  
+
+[↑](#0)
+***
+## <a name="day019" />Day 019 → Thur → 8/31
+### Lectures  
+₁₎ [Code Challenge – `reverseNumber`](https://youtu.be/XuCUwyMjqSk) 
+₂₎  
+₃₎  
+₄₎  
+₅₎  
+### Homework  
+₁₎ [Code Challenge – `sortString`](https://repl.it/student/submissions/1467199)  
+₂₎ [Redux Sprint](https://github.com/lefrenk/LS-Redux)  
+₃₎  
+
+[↑](#0)
+***
+## <a name="day020" />Day 020 → Fri → 9/1
+### Lectures  
 ₁₎  
 ₂₎  
 ₃₎  
