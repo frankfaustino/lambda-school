@@ -297,28 +297,22 @@
 ## <a name="day019" />Day 019 → Thur → 8/31
 ### Lectures  
 ₁₎ [Code Challenge – `reverseNumber`](https://youtu.be/XuCUwyMjqSk)  
-₂₎  
-₃₎  
-₄₎  
-₅₎  
+₂₎ Brown Bag – Piazza  
+₃₎ Redux Sprint Q&A
 ### Homework  
 ₁₎ [Code Challenge – `sortString`](https://repl.it/student/submissions/1467199)  
 ₂₎ [Redux Sprint](https://github.com/lefrenk/LS-Redux)  
-₃₎  
 
 [↑](#0)
 ***
 ## <a name="day020" />Day 020 → Fri → 9/1
 ### Lectures  
-₁₎  
-₂₎  
-₃₎  
-₄₎  
-₅₎  
+₁₎ [Code Challenge – `sortString`]()  
+₂₎ [Code Challenge – `commonCharacters`]()  
+₃₎ Brown Bag – What Comes After Coding Bootcamp? 
+₄₎ Redux Sprint Review & Q&A
 ### Homework  
-₁₎  
-₂₎  
-₃₎  
+₁₎ [Redux Sprint](https://github.com/lefrenk/LS-Redux)  
 
 [↑](#0)
 ***
