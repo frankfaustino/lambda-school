@@ -317,6 +317,18 @@
 [↑](#0)
 ***
 # Month 2 ━ September 2017
+## <a name="week05" />Week 05  
+## <a name="day021" />Day 021 → Tue → 9/5
+### Lectures  
+₁₎  
+₂₎  
+₃₎  
+₄₎  
+₅₎  
+### Homework  
+₁₎  
+₂₎  
+₃₎  
 ***
 # Month 3 ━ October 2017
 ***
