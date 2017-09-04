@@ -92,7 +92,7 @@
 
 [↑](#0)
 ***
-## <a name="day002" />Day 002 → Tues → 8/8
+## <a name="day002" />Day 002 → Tue → 8/8
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day002-advanced-javascript.html)  
 ### Lectures  
 ₁₎ [Anonymous & Callback Functions ⋰ `map()` ⋰ Iterating Over Arrays & Array of Objects](https://youtu.be/X_k4XLHyRQM)  
@@ -114,7 +114,7 @@
 
 [↑](#0)
 ***
-## <a name="day004" />Day 004 → Thur → 8/10 
+## <a name="day004" />Day 004 → Thu → 8/10 
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day004-advanced-javascript.html)  
 ### Lectures  
 ₁₎ [Coding Challenge #2 `reverseCase.js` Review](https://youtu.be/oSaaI5GrLac)  
@@ -172,7 +172,7 @@
  
 [↑](#0)
 ***
-## <a name="day009" />Day 009 → Thur → 8/17
+## <a name="day009" />Day 009 → Thu → 8/17
 ### [Notes](https://www.gitbook.com/book/lefrenk/lambda-school-computer-science/edit#/edit/master/02007-data-structures-ii.md?_k=plghp3)
 ### Lectures  
 ₁₎ [Coding Challenge Review – `forLoopTimeout.js`](https://www.youtube.com/watch?v=7-PuNWglB8U&feature=youtu.be)  
@@ -210,7 +210,7 @@
 
 [↑](#0)
 ***
-## <a name="day012" />Day 012 → Tues → 8/22
+## <a name="day012" />Day 012 → Tue → 8/22
 ### Lectures  
 ₁₎ [Coding Challenge – `commonCharacters.js`](https://youtu.be/scMNT8OIkzA)  
 ₂₎ [Brown Bag – Oh My ZSH!](https://www.youtube.com/watch?v=Yo9d6XyRVb8)   
@@ -234,7 +234,7 @@
 
 [↑](#0)
 ***
-##  <a name="day014" />Day 014 → Thur → 8/24
+##  <a name="day014" />Day 014 → Thu → 8/24
 ### Lectures  
 ₁₎ [Code Challenge – `stringCompression.js`](https://youtu.be/ub26bySRo1k)  
 ₂₎ [Brown Bag – Binary](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/how-to-count-to-1000-on-two-hands)  
@@ -294,7 +294,7 @@
 
 [↑](#0)
 ***
-## <a name="day019" />Day 019 → Thur → 8/31
+## <a name="day019" />Day 019 → Thu → 8/31
 ### Lectures  
 ₁₎ [Code Challenge – `reverseNumber`](https://youtu.be/XuCUwyMjqSk)  
 ₂₎ Brown Bag – Piazza  
@@ -319,6 +319,42 @@
 # Month 2 ━ September 2017
 ## <a name="week05" />Week 05  
 ## <a name="day021" />Day 021 → Tue → 9/5
+### Lectures  
+₁₎  
+₂₎  
+₃₎  
+₄₎  
+₅₎  
+### Homework  
+₁₎  
+₂₎  
+₃₎  
+***
+## <a name="day022" />Day 022 → Wed → 9/6
+### Lectures  
+₁₎  
+₂₎  
+₃₎  
+₄₎  
+₅₎  
+### Homework  
+₁₎  
+₂₎  
+₃₎  
+***
+## <a name="day023" />Day 023 → Thu → 9/7
+### Lectures  
+₁₎  
+₂₎  
+₃₎  
+₄₎  
+₅₎  
+### Homework  
+₁₎  
+₂₎  
+₃₎  
+***
+## <a name="day024 />Day 024 → Fri → 9/8
 ### Lectures  
 ₁₎  
 ₂₎  
