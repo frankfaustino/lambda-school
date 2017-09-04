@@ -309,7 +309,7 @@
 ### Lectures  
 ₁₎ [Code Challenge – `sortString`]()  
 ₂₎ [Code Challenge – `commonCharacters`]()  
-₃₎ Brown Bag – What Comes After Coding Bootcamp? 
+₃₎ Brown Bag – What Comes After Coding Bootcamp?  
 ₄₎ Redux Sprint Review & Q&A
 ### Homework  
 ₁₎ [Redux Sprint](https://github.com/lefrenk/LS-Redux)  
