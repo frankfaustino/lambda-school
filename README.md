@@ -344,15 +344,15 @@
 ***
 ## <a name="day023" />Day 023 → Thu → 9/7
 ### Lectures  
-₁₎  
-₂₎  
-₃₎  
-₄₎  
-₅₎  
+₁₎ Code Challenge – `sumAndProduct`  
+₂₎ [HTTP/AJAX Solution Lecture](https://youtu.be/OZufMadOl5c)  
+₃₎ HTTP/AJAX Feedback Session  
+₄₎ [React Router Lecture](https://youtu.be/5eGGI4diNrU)  
+₅₎ React Router Mini Sprint  
 ### Homework  
-₁₎  
-₂₎  
-₃₎  
+₁₎ [Code Challenge – `sumAndProduct`](https://repl.it/student/submissions/1510379)  
+₂₎ [React Router – Mini Sprint](https://github.com/lefrenk/LS-React-Router-Mini)  
+₃₎ [React Router – Sprint](https://github.com/lefrenk/Routing)  
 
 [↑](#0)
 ***
