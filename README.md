@@ -307,9 +307,9 @@
 ***
 ## <a name="day020" />Day 020 → Fri → 9/1
 ### Lectures  
-₁₎ [Code Challenge – `sortString`]()  
-₂₎ [Code Challenge – `commonCharacters`]()  
-₃₎ Brown Bag – What Comes After Coding Bootcamp?  
+₁₎ [Code Challenge – `sortString`](https://youtu.be/m9MPJLbu-uE)  
+₂₎ [Code Challenge – `commonCharacters`](https://youtu.be/IoLB9VIwHLU)  
+₃₎ [Brown Bag – What Comes After Coding Bootcamp?](https://www.youtube.com/watch?v=txbhRoCIPxs)  
 ₄₎ Redux Sprint Review & Q&A
 ### Homework  
 ₁₎ [Redux Sprint](https://github.com/lefrenk/LS-Redux)  
@@ -320,29 +320,25 @@
 ## <a name="week05" />Week 05  
 ## <a name="day021" />Day 021 → Tue → 9/5
 ### Lectures  
-₁₎  
-₂₎  
-₃₎  
-₄₎  
-₅₎  
+₁₎ Code Challenge – `nextPalindrome`  
+₂₎ Redux Feedback Session / Solution Lecture  
+₃₎ [HTTP/AJAX Lecture](https://www.youtube.com/watch?v=ENNS0YeCLA0)  
+₄₎ HTTP Mini Sprint Review  
+₅₎ HTTP/AJAX Sprint Q&A  
 ### Homework  
-₁₎  
-₂₎  
-₃₎  
+₁₎ [Code Challenge – `nextPalindrome`](https://repl.it/student/submissions/1489542)  
+₂₎ [HTTP/AJAX Mini Sprint](https://github.com/lefrenk/HTTP-Mini-Sprint)  
 
 [↑](#0)
 ***
 ## <a name="day022" />Day 022 → Wed → 9/6
 ### Lectures  
-₁₎  
-₂₎  
-₃₎  
-₄₎  
-₅₎  
+₁₎ [Code Challenge – `collatzSequence`](https://youtu.be/YALl_WirKgg)  
+₂₎ Brown Bag – Combating Imposter Syndrome  
+₃₎ HTTP/AJAX Sprint Q&A  
 ### Homework  
-₁₎  
-₂₎  
-₃₎  
+₁₎ [Code Challenge – `collatzSequence`](https://repl.it/student/submissions/1498854)  
+₂₎ [HTTP/AJAX Sprint](https://github.com/lefrenk/HTTP-AJAX)  
 
 [↑](#0)
 ***
