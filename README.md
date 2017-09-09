@@ -358,15 +358,12 @@
 ***
 ## <a name="day024" />Day 024 → Fri → 9/8
 ### Lectures  
-₁₎  
-₂₎  
-₃₎  
-₄₎  
-₅₎  
+₁₎ Code Challenge – `Logic Gates`  
+₂₎ Brown Bag – Coffee's Origins  
+₃₎ React Router Sprint Q&A  
 ### Homework  
-₁₎  
-₂₎  
-₃₎  
+₁₎ [Code Challenge – `Logic Gates`](https://repl.it/student/submissions/1521748)  
+₂₎ [React Router – Sprint](https://github.com/lefrenk/Routing)  
 
 [↑](#0)
 ***
