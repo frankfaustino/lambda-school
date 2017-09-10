@@ -367,6 +367,72 @@
 
 [↑](#0)
 ***
+## <a name="week06" />Week 06  
+## <a name="day025" />Day 025 → Mon → 9/11
+### Lectures  
+₁₎ Code Challenge –  
+₂₎ Client Testing  
+₃₎   
+₄₎   
+₅₎   
+### Homework  
+₁₎ [Code Challenge – ]()  
+₂₎ Client Testing  
+
+[↑](#0)
+***
+## <a name="day026" />Day 026 → Tue → 9/12
+### Lectures  
+₁₎ Code Challenge –  
+₂₎ Brown Bag  
+₃₎   
+₄₎   
+₅₎   
+### Homework  
+₁₎ [Code Challenge – ]()  
+₂₎   
+
+[↑](#0)
+***
+## <a name="day027" />Day 027 → Wed → 9/13
+### Lectures  
+₁₎ Code Challenge –  
+₂₎ Node/Express  
+₃₎   
+₄₎   
+₅₎   
+### Homework  
+₁₎ [Code Challenge – ]()  
+₂₎ Node/Express  
+
+[↑](#0)
+***
+## <a name="day028" />Day 028 → Thu → 9/14
+### Lectures  
+₁₎ Code Challenge –  
+₂₎ Node/Express  
+₃₎ Brown Bag  
+₄₎   
+₅₎   
+### Homework  
+₁₎ [Code Challenge – ]()  
+₂₎ Node/Express  
+
+[↑](#0)
+***
+## <a name="day029" />Day 029 → Fri → 9/15
+### Lectures  
+₁₎ Code Challenge –  
+₂₎ Node/Express  
+₃₎ Brown Bag  
+₄₎   
+₅₎   
+### Homework  
+₁₎ [Code Challenge – ]()  
+₂₎ Node/Express  
+
+[↑](#0)
+***
 # Month 3 ━ October 2017
 ***
 # Month 4 ━ November 2017
