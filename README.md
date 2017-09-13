@@ -370,27 +370,25 @@
 ## <a name="week06" />Week 06  
 ## <a name="day025" />Day 025 → Mon → 9/11
 ### Lectures  
-₁₎ Code Challenge –  
-₂₎ Client Testing  
-₃₎   
-₄₎   
-₅₎   
+₁₎ [Code Challenge – `Reverse Linked List`](https://youtu.be/rFjwphUTR4c)  
+₂₎ [React Router – Solution Lecture](https://www.youtube.com/watch?v=CxGSAQmdBMM)  
+₃₎ [Client Testing](https://www.youtube.com/watch?v=nTRxvncdyHY)  
+₄₎ [Client Testing – Mini Sprint Lecture](https://youtu.be/_iIVYKIIoos)  
+₅₎ Client Testing - Q&A  
 ### Homework  
-₁₎ [Code Challenge – ]()  
-₂₎ Client Testing  
+₁₎ [Code Challenge – `Reverse Linked List`](https://repl.it/student/submissions/1538364)  
+₂₎ [Client Testing – Mini Sprint](https://github.com/lefrenk/LS-Testing-Mini)  
 
 [↑](#0)
 ***
 ## <a name="day026" />Day 026 → Tue → 9/12
 ### Lectures  
-₁₎ Code Challenge –  
-₂₎ Brown Bag  
-₃₎   
-₄₎   
-₅₎   
+₁₎ [Code Challenge – Breadth First Search](https://youtu.be/PN__x49PwxY)  
+₂₎ Brown Bag – Reason (Jaren Forsyth)  
+₃₎ Client Testing - Q&A  
 ### Homework  
-₁₎ [Code Challenge – ]()  
-₂₎   
+₁₎ [Code Challenge – Breadth First Search](https://repl.it/student/submissions/1549541)  
+₂₎ [Client Testing – Sprint](https://github.com/lefrenk/Testing)  
 
 [↑](#0)
 ***
