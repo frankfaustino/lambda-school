@@ -384,7 +384,7 @@
 ## <a name="day026" />Day 026 → Tue → 9/12
 ### Lectures  
 ₁₎ [Code Challenge – Breadth First Search](https://youtu.be/PN__x49PwxY)  
-₂₎ Brown Bag – Reason (Jaren Forsyth)  
+₂₎ Brown Bag – Reason (Jared Forsyth)  
 ₃₎ Client Testing - Q&A  
 ### Homework  
 ₁₎ [Code Challenge – Breadth First Search](https://repl.it/student/submissions/1549541)  
@@ -394,14 +394,12 @@
 ***
 ## <a name="day027" />Day 027 → Wed → 9/13
 ### Lectures  
-₁₎ Code Challenge –  
-₂₎ Node/Express  
-₃₎   
-₄₎   
-₅₎   
+₁₎ Code Challenge – `Deep Equality`  
+₂₎ [Node/Express – Lecture](https://youtu.be/K1RkG_irE9I)  
 ### Homework  
-₁₎ [Code Challenge – ]()  
-₂₎ Node/Express  
+₁₎ [Code Challenge – `Deep Equals`](https://repl.it/student/submissions/1559991)  
+₂₎ [Node/Express – Mini Sprint](https://github.com/lefrenk/node-express-mini)  
+₃₎ [Node/Express – Sprint](https://github.com/lefrenk/Node-Express)  
 
 [↑](#0)
 ***
@@ -414,7 +412,7 @@
 ₅₎   
 ### Homework  
 ₁₎ [Code Challenge – ]()  
-₂₎ Node/Express  
+₂₎ [Node/Express – Sprint](https://github.com/lefrenk/Node-Express)  
 
 [↑](#0)
 ***
