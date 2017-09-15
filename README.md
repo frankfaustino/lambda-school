@@ -383,11 +383,11 @@
 ***
 ## <a name="day026" />Day 026 → Tue → 9/12
 ### Lectures  
-₁₎ [Code Challenge – Breadth First Search](https://youtu.be/PN__x49PwxY)  
+₁₎ [Code Challenge – `Breadth First Search`](https://youtu.be/PN__x49PwxY)  
 ₂₎ Brown Bag – Reason (Jared Forsyth)  
 ₃₎ Client Testing - Q&A  
 ### Homework  
-₁₎ [Code Challenge – Breadth First Search](https://repl.it/student/submissions/1549541)  
+₁₎ [Code Challenge – `Breadth First Search`](https://repl.it/student/submissions/1549541)  
 ₂₎ [Client Testing – Sprint](https://github.com/lefrenk/Testing)  
 
 [↑](#0)
@@ -395,34 +395,97 @@
 ## <a name="day027" />Day 027 → Wed → 9/13
 ### Lectures  
 ₁₎ Code Challenge – `Deep Equality`  
-₂₎ [Node/Express – Lecture](https://youtu.be/K1RkG_irE9I)  
+₂₎ [Node.js & Express – Lecture](https://youtu.be/K1RkG_irE9I)  
 ### Homework  
 ₁₎ [Code Challenge – `Deep Equals`](https://repl.it/student/submissions/1559991)  
-₂₎ [Node/Express – Mini Sprint](https://github.com/lefrenk/node-express-mini)  
-₃₎ [Node/Express – Sprint](https://github.com/lefrenk/Node-Express)  
+₂₎ [Node.js & Express – Mini Sprint](https://github.com/lefrenk/node-express-mini)  
+₃₎ [Node.js & Express – Sprint](https://github.com/lefrenk/node-express-lab)  
 
 [↑](#0)
 ***
 ## <a name="day028" />Day 028 → Thu → 9/14
 ### Lectures  
-₁₎ Code Challenge –  
-₂₎ Node/Express  
-₃₎ Brown Bag  
-₄₎   
-₅₎   
+₁₎ [Code Challenge – `Roman Numerals Encoder`](https://youtu.be/up8034Zv3zQ)  
+₂₎ Brown Bag – Startups ⋰ VC Funding ⋰ Lambda School Q&A  
+₃₎ Node.js & Express – Q&A  
 ### Homework  
-₁₎ [Code Challenge – ]()  
-₂₎ [Node/Express – Sprint](https://github.com/lefrenk/Node-Express)  
+₁₎ [Code Challenge – `Roman Numerals Encoder`](https://repl.it/student/submissions/1570954)  
+₂₎ [Node.js & Express – Sprint](https://github.com/lefrenk/node-express-lab)  
 
 [↑](#0)
 ***
 ## <a name="day029" />Day 029 → Fri → 9/15
 ### Lectures  
 ₁₎ Code Challenge –  
-₂₎ Node/Express  
+₂₎  
 ₃₎ Brown Bag  
-₄₎   
-₅₎   
+₄₎  
+₅₎  
+### Homework  
+₁₎ [Code Challenge – ]()  
+₂₎  
+
+[↑](#0)
+***
+## <a name="day030" />Day 030 → Mon → 9/18
+### Lectures  
+₁₎ Code Challenge –  
+₂₎  
+₃₎  
+₄₎  
+₅₎  
+### Homework  
+₁₎ [Code Challenge – ]()  
+₂₎  
+
+[↑](#0)
+***
+## <a name="day031" />Day 031 → Tue → 9/19
+### Lectures  
+₁₎ Code Challenge –  
+₂₎ Brown Bag  
+₃₎  
+₄₎  
+₅₎  
+### Homework  
+₁₎ [Code Challenge – ]()  
+₂₎  
+
+[↑](#0)
+***
+## <a name="day032" />Day 032 → Wed → 9/20
+### Lectures  
+₁₎ Code Challenge –  
+₂₎  
+₃₎  
+₄₎  
+₅₎  
+### Homework  
+₁₎ [Code Challenge – ]()  
+₂₎  
+
+[↑](#0)
+***
+## <a name="day033" />Day 033 → Thu → 9/21
+### Lectures  
+₁₎ Code Challenge –  
+₂₎  
+₃₎ Brown Bag  
+₄₎  
+₅₎  
+### Homework  
+₁₎ [Code Challenge – ]()  
+₂₎  
+
+[↑](#0)
+***
+## <a name="day034" />Day 034 → Fri → 9/22
+### Lectures  
+₁₎ Code Challenge –  
+₂₎  
+₃₎ Brown Bag  
+₄₎  
+₅₎  
 ### Homework  
 ₁₎ [Code Challenge – ]()  
 ₂₎ Node/Express  
