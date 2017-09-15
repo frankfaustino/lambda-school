@@ -427,6 +427,7 @@
 
 [↑](#0)
 ***
+## <a name="week07" />Week 07  
 ## <a name="day030" />Day 030 → Mon → 9/18
 ### Lectures  
 ₁₎ Code Challenge –  
