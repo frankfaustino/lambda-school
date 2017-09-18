@@ -394,7 +394,7 @@
 ***
 ## <a name="day027" />Day 027 → Wed → 9/13
 ### Lectures  
-₁₎ Code Challenge – `Deep Equality`  
+₁₎ Code Challenge – `Deep Equals`  
 ₂₎ [Node.js & Express – Lecture](https://youtu.be/K1RkG_irE9I)  
 ### Homework  
 ₁₎ [Code Challenge – `Deep Equals`](https://repl.it/student/submissions/1559991)  
@@ -416,14 +416,10 @@
 ***
 ## <a name="day029" />Day 029 → Fri → 9/15
 ### Lectures  
-₁₎ Code Challenge –  
-₂₎  
-₃₎ Brown Bag  
-₄₎  
-₅₎  
+₁₎ Code Challenge – `Twin Primes`  
+₂₎ [Node.js & Express Q&A](https://youtu.be/FwT3JdxhHjs)  
 ### Homework  
-₁₎ [Code Challenge – ]()  
-₂₎  
+₁₎ [Code Challenge – ](https://repl.it/student/submissions/1582440)  
 
 [↑](#0)
 ***
