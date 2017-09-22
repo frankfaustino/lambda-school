@@ -416,7 +416,7 @@
 ***
 ## <a name="day029" />Day 029 → Fri → 9/15
 ### Lectures  
-₁₎ Code Challenge – `Twin Primes`  
+₁₎ [Code Challenge – `Twin Primes`](https://youtu.be/up8034Zv3zQ)  
 ₂₎ [Node.js & Express Q&A](https://youtu.be/FwT3JdxhHjs)  
 ### Homework  
 ₁₎ [Code Challenge – ](https://repl.it/student/submissions/1582440)  
@@ -426,53 +426,47 @@
 ## <a name="week07" />Week 07  
 ## <a name="day030" />Day 030 → Mon → 9/18
 ### Lectures  
-₁₎ Code Challenge –  
-₂₎  
-₃₎  
-₄₎  
-₅₎  
+₁₎ [Code Challenge – `Money Format`](https://youtu.be/rYUsEjASj_I)  
+₂₎ [Node.js & Express Solution Lecture](https://youtu.be/ysdPOaZSpxA)  
+₃₎ [MongoDB Lecture](https://youtu.be/mc26S-0FeSA)  
+₄₎ [MongoDB Mini Sprint Q&A](https://www.youtube.com/watch?v=XZLcCfc3pb0)  
 ### Homework  
-₁₎ [Code Challenge – ]()  
-₂₎  
+₁₎ [Code Challenge – `Money Format`](https://repl.it/student/submissions/1597899)  
+₂₎ [MongoDB I Sprint](https://github.com/lefrenk/Mongo-I)  
 
 [↑](#0)
 ***
 ## <a name="day031" />Day 031 → Tue → 9/19
 ### Lectures  
-₁₎ Code Challenge –  
-₂₎ Brown Bag  
-₃₎  
-₄₎  
-₅₎  
+₁₎ [Code Challenge – `Merged Objects`](https://youtu.be/gKUhoib9_nM)  
+₂₎ Brown Bag – Fitness  
+₃₎ MongoDB Q&A  
 ### Homework  
-₁₎ [Code Challenge – ]()  
-₂₎  
+₁₎ [Code Challenge – `Merged Objects`](https://repl.it/student/submissions/1610163)  
+₂₎ [MongoDB I Sprint](https://github.com/lefrenk/Mongo-I)  
 
 [↑](#0)
 ***
 ## <a name="day032" />Day 032 → Wed → 9/20
 ### Lectures  
-₁₎ Code Challenge –  
-₂₎  
-₃₎  
-₄₎  
-₅₎  
+₁₎ [Code Challenge – `Expanded Numbers`](https://youtu.be/R42cbk_eU_8)  
+₂₎ [MongoDB I Solution Lecture](https://youtu.be/AV8qNwwzq4k)  
+₃₎ [MongoDB II Lecture](https://youtu.be/dXqBgRHw_y4)  
+₄₎ [MongoDB II Setup](https://youtu.be/JSzuL44eakA)  
 ### Homework  
-₁₎ [Code Challenge – ]()  
-₂₎  
+₁₎ [Code Challenge – `Expanded Numbers`](https://repl.it/student/submissions/1622224)  
+₂₎ [MongoDB II Sprint](https://github.com/lefrenk/Mongo-II)  
 
 [↑](#0)
 ***
 ## <a name="day033" />Day 033 → Thu → 9/21
 ### Lectures  
-₁₎ Code Challenge –  
-₂₎  
-₃₎ Brown Bag  
-₄₎  
-₅₎  
+₁₎ [Code Challenge – `Equal SIdes`](https://youtu.be/sOPhcXOXJKU)  
+₂₎ [Brown Bag – Producing Music](https://youtu.be/vbjSeW_1DR8)  
+₃₎ [MongoDB II Q&A](https://youtu.be/JzQjUs0B5nI)  
 ### Homework  
-₁₎ [Code Challenge – ]()  
-₂₎  
+₁₎ [Code Challenge – `Equal Sides`](https://repl.it/student/submissions/1633757)  
+₂₎ [MongoDB II Sprint](https://github.com/lefrenk/Mongo-II)  
 
 [↑](#0)
 ***
