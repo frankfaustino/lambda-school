@@ -472,14 +472,12 @@
 ***
 ## <a name="day034" />Day 034 → Fri → 9/22
 ### Lectures  
-₁₎ Code Challenge –  
-₂₎  
-₃₎ Brown Bag  
-₄₎  
-₅₎  
+₁₎ Code Challenge – `CSS Animations`  
+₂₎ [Brown Bag – Intermittent Fasting](https://youtu.be/bZHDtDNDmbM)  
+₃₎ MongoDB II Q&A  
 ### Homework  
-₁₎ [Code Challenge – ]()  
-₂₎ Node/Express  
+₁₎ [Code Challenge – `CSS Animations`](https://repl.it/student/submissions/1645937)  
+₂₎ [MongoDB II Sprint](https://github.com/lefrenk/Mongo-II)  
 
 [↑](#0)
 ***
