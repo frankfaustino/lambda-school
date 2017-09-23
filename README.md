@@ -461,7 +461,7 @@
 ***
 ## <a name="day033" />Day 033 → Thu → 9/21
 ### Lectures  
-₁₎ [Code Challenge – `Equal SIdes`](https://youtu.be/sOPhcXOXJKU)  
+₁₎ [Code Challenge – `Equal Sides`](https://youtu.be/sOPhcXOXJKU)  
 ₂₎ [Brown Bag – Producing Music](https://youtu.be/vbjSeW_1DR8)  
 ₃₎ [MongoDB II Q&A](https://youtu.be/JzQjUs0B5nI)  
 ### Homework  
