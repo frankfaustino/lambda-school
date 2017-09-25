@@ -7,12 +7,12 @@
 ┣━━[~~Week 01~~](#week01) → [Basic ⋰ Advanced JS](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project11)  
 ┣━━[~~Week 02~~](#week02) → [Data Structures I & II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project21)  
 ┣━━[~~Week 03~~](#week03) → [DOM](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project31) ⋰ [React I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project32)  
-┗━━[Week 04](#week04) → [React II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project41) ⋰ [Redux](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project42)  
+┗━━[~~Week 04~~](#week04) → [React II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project41) ⋰ [Redux](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project42)  
 
 ┏September  
-┣━━[Week 05](#week05) → [HTTP/AJAX](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project51) ⋰ [SPA/Routing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project52)  
-┣━━[Week 06](#week06) → [Client Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project61) ⋰ [Node/Express](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project62)  
-┣━━[Week 07](#week07) → [MongoDB I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project71) & [II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project72)  
+┣━━[~~Week 05~~](#week05) → [HTTP/AJAX](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project51) ⋰ [SPA/Routing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project52)  
+┣━━[~~Week 06~~](#week06) → [Client Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project61) ⋰ [Node/Express](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project62)  
+┣━━[~~Week 07~~](#week07) → [MongoDB I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project71) & [II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project72)  
 ┗━━[Week 08](#week08) → [MongoDB III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project81) ⋰ [Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project82)  
 
 ┏October  
