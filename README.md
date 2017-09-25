@@ -1,4 +1,4 @@
-# <a name="0"></a>λ Lambda School – Computer Science Academy 
+# <a name="0"></a>λ Lambda School — Computer Science Academy 
 ┏July  
 ┣━━Day 000 → [Resources](#resources) ⋰ [Notes](#resources)  
 ┗━━Day 000 → [Pre-Course Work](#pre-course)
@@ -50,7 +50,7 @@
 ┣━━[CLI Cheat Sheet](https://lefrenk.gitbooks.io/cli-git-cheatsheet/content/CLI.html)  
 ┗━━[JavaScript Notes](https://lefrenk.gitbooks.io/javascript/content/)  
 ***
-### <a name="pre-course"></a>Pre-Course Work – [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
+### <a name="pre-course"></a>Pre-Course Work — [Outline](https://docs.google.com/document/d/1YKYxzNt6QZxnPw8xOT-Qyf1BY0cHb-Us1ydzZTphxRI/edit)
 #### Completed:
 ₁₎ Lambda School – [JavaScript Minicamp](https://lambdaschool.com/mini-bootcamp/javascript)  
 &nbsp;&nbsp;┣━[HW 1](https://github.com/lefrenk/js-minicamp-homework-1) `(7/23/17)`  
@@ -86,9 +86,9 @@
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day001-basic-javascript.html#week-01-→-day-001-→-mon-→-august-7-2017)  
 ### Lectures  
 ₁₎ [ES6 ⋰ Scope ⋰ `const` & `let`⋰ Arrow Functions ⇒ ⋰ Semicolons ⋰ Template Literals](https://youtu.be/vJGIFw755_k)  
-₂₎ [Basic JavaScript Mini Review](https://youtu.be/h8ivtUEFIbw)  
+₂₎ [Basic JavaScript — Mini Sprint Solution](https://youtu.be/h8ivtUEFIbw)  
 ### Homework  
-₁₎ [Basic JavaScript Mini](https://github.com/lefrenk/Basic-JavaScript-Mini)  
+₁₎ [Basic JavaScript — Mini Sprint](https://github.com/lefrenk/Basic-JavaScript-Mini)  
 
 [↑](#0)
 ***
@@ -99,38 +99,38 @@
 ₂₎ [How to Solve a Problem ⋰ Basic JS Review ⋰ Advanced JS/arrays.js Overview ⋰ `reduce()`](https://www.youtube.com/watch?v=mgotovfUK_I&feature=youtu.be)   
 ₃₎ [Brown Bag — Slack Overview — Ryan Hamblin](https://www.youtube.com/watch?v=h1t8e-aEWcE&feature=youtu.be)
 ### Homework  
-₁₎ [Basic JavaScript](https://github.com/lefrenk/basic-javascript)  
+₁₎ [Basic JavaScript — Sprint](https://github.com/lefrenk/basic-javascript)  
 
 [↑](#0)
 ***
 ## <a name="day003" />Day 003 → Wed → 8/9 
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day003-advanced-javascript.html)  
 ### Lectures  
-₁₎ [Coding Challenge #1 `longestString` Review ⋰ `for` loop ⋰ `forEach()` ⋰ `sort()`](https://www.youtube.com/watch?v=TLAYnDw7PpM)  
-₂₎ [Basic JS Review ⋰ Course survey & feedback](https://youtu.be/ZMCXX1VfsgA)  
+₁₎ [Coding Challenge #1 — `longestString` (`for` loop ⋰ `forEach()` ⋰ `sort()`)](https://www.youtube.com/watch?v=TLAYnDw7PpM)  
+₂₎ [Basic JavaScript — Sprint Solution](https://youtu.be/ZMCXX1VfsgA)  
 ₃₎ [`this` ⋰ `new` ⋰ `call()` ⋰ `apply()` ⋰ Closures ⋰ `class` ⋰ `extends` ⋰ `getter` ⋰ Callbacks](https://www.youtube.com/watch?v=tkauGGGxK_0)
 ### Homework  
-₁₎ [Advanced JavaScript Mini](https://github.com/lefrenk/advanced-javascript-mini)
+₁₎ [Advanced JavaScript — Mini Sprint](https://github.com/lefrenk/advanced-javascript-mini)
 
 [↑](#0)
 ***
 ## <a name="day004" />Day 004 → Thu → 8/10 
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day004-advanced-javascript.html)  
 ### Lectures  
-₁₎ [Coding Challenge #2 `reverseCase.js` Review](https://youtu.be/oSaaI5GrLac)  
-₂₎ [Brown Bag — VS Code ⋰ Quokka — Ryan Hamblin]()  
-₃₎ [Advanced JS Review](https://youtu.be/4r6QcOyf4SI)
+₁₎ [Coding Challenge #2 — `reverseCase.js`](https://youtu.be/oSaaI5GrLac)  
+₂₎ Brown Bag — VS Code ⋰ Quokka — Ryan Hamblin  
+₃₎ [Advanced JS — Q&A](https://youtu.be/4r6QcOyf4SI)
 ### Homework  
-₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)  
+₁₎ [Advanced JavaScript — Sprint](https://github.com/lefrenk/advanced-javascript)  
 
 [↑](#0)
 ***
 ## <a name="day005" />Day 005 → Fri → 8/11
 ### [Notes](https://lefrenk.gitbooks.io/lambda-school-computer-science/content/week01day005-advanced-javascript.html)  
 ### Lectures  
-₁₎ [isUnique.js Review ⋰ Big O Notation ⋰ nested for loops ⋰ new Set()]()  
-₂₎ [Brown Bag — Machine Learning — Darren Ames]()  
-₃₎ [Advanced JS Review]()
+₁₎ Code Challenge #3 — isUnique.js  ⋰ Big O Notation ⋰ nested for loops ⋰ new Set()]()  
+₂₎ Brown Bag — Machine Learning — Darren Ames  
+₃₎ [Advanced JS — Q&A
 ### Homework  
 ₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)  
 
@@ -362,125 +362,183 @@
 ₂₎ Brown Bag – Coffee's Origins  
 ₃₎ React Router Sprint Q&A  
 ### Homework  
-₁₎ [Code Challenge – `Logic Gates`](https://repl.it/student/submissions/1521748)  
-₂₎ [React Router – Sprint](https://github.com/lefrenk/Routing)  
+₁₎ [Code Challenge — `Logic Gates`](https://repl.it/student/submissions/1521748)  
+₂₎ [React Router — Sprint](https://github.com/lefrenk/Routing)  
 
 [↑](#0)
 ***
 ## <a name="week06" />Week 06  
 ## <a name="day025" />Day 025 → Mon → 9/11
 ### Lectures  
-₁₎ [Code Challenge – `Reverse Linked List`](https://youtu.be/rFjwphUTR4c)  
-₂₎ [React Router – Solution Lecture](https://www.youtube.com/watch?v=CxGSAQmdBMM)  
+₁₎ [Code Challenge — `Reverse Linked List`](https://youtu.be/rFjwphUTR4c)  
+₂₎ [React Router — Solution Lecture](https://www.youtube.com/watch?v=CxGSAQmdBMM)  
 ₃₎ [Client Testing](https://www.youtube.com/watch?v=nTRxvncdyHY)  
-₄₎ [Client Testing – Mini Sprint Lecture](https://youtu.be/_iIVYKIIoos)  
-₅₎ Client Testing - Q&A  
+₄₎ [Client Testing — Mini Sprint Lecture](https://youtu.be/_iIVYKIIoos)  
+₅₎ Client Testing — Q&A  
 ### Homework  
-₁₎ [Code Challenge – `Reverse Linked List`](https://repl.it/student/submissions/1538364)  
-₂₎ [Client Testing – Mini Sprint](https://github.com/lefrenk/LS-Testing-Mini)  
+₁₎ [Code Challenge — `Reverse Linked List`](https://repl.it/student/submissions/1538364)  
+₂₎ [Client Testing — Mini Sprint](https://github.com/lefrenk/LS-Testing-Mini)  
 
 [↑](#0)
 ***
 ## <a name="day026" />Day 026 → Tue → 9/12
 ### Lectures  
-₁₎ [Code Challenge – `Breadth First Search`](https://youtu.be/PN__x49PwxY)  
-₂₎ Brown Bag – Reason (Jared Forsyth)  
+₁₎ [Code Challenge — `Breadth First Search`](https://youtu.be/PN__x49PwxY)  
+₂₎ Brown Bag — Reason (Jared Forsyth)  
 ₃₎ Client Testing - Q&A  
 ### Homework  
-₁₎ [Code Challenge – `Breadth First Search`](https://repl.it/student/submissions/1549541)  
-₂₎ [Client Testing – Sprint](https://github.com/lefrenk/Testing)  
+₁₎ [Code Challenge — `Breadth First Search`](https://repl.it/student/submissions/1549541)  
+₂₎ [Client Testing — Sprint](https://github.com/lefrenk/Testing)  
 
 [↑](#0)
 ***
 ## <a name="day027" />Day 027 → Wed → 9/13
 ### Lectures  
-₁₎ Code Challenge – `Deep Equals`  
-₂₎ [Node.js & Express – Lecture](https://youtu.be/K1RkG_irE9I)  
+₁₎ Code Challenge — `Deep Equals`  
+₂₎ [Node.js & Express — Lecture](https://youtu.be/K1RkG_irE9I)  
 ### Homework  
-₁₎ [Code Challenge – `Deep Equals`](https://repl.it/student/submissions/1559991)  
-₂₎ [Node.js & Express – Mini Sprint](https://github.com/lefrenk/node-express-mini)  
-₃₎ [Node.js & Express – Sprint](https://github.com/lefrenk/node-express-lab)  
+₁₎ [Code Challenge — `Deep Equals`](https://repl.it/student/submissions/1559991)  
+₂₎ [Node.js & Express — Mini Sprint](https://github.com/lefrenk/node-express-mini)  
+₃₎ [Node.js & Express — Sprint](https://github.com/lefrenk/node-express-lab)  
 
 [↑](#0)
 ***
 ## <a name="day028" />Day 028 → Thu → 9/14
 ### Lectures  
-₁₎ [Code Challenge – `Roman Numerals Encoder`](https://youtu.be/up8034Zv3zQ)  
-₂₎ Brown Bag – Startups ⋰ VC Funding ⋰ Lambda School Q&A  
-₃₎ Node.js & Express – Q&A  
+₁₎ [Code Challenge — `Roman Numerals Encoder`](https://youtu.be/up8034Zv3zQ)  
+₂₎ Brown Bag — Startups ⋰ VC Funding ⋰ Lambda School Q&A  
+₃₎ Node.js & Express — Q&A  
 ### Homework  
-₁₎ [Code Challenge – `Roman Numerals Encoder`](https://repl.it/student/submissions/1570954)  
-₂₎ [Node.js & Express – Sprint](https://github.com/lefrenk/node-express-lab)  
+₁₎ [Code Challenge — `Roman Numerals Encoder`](https://repl.it/student/submissions/1570954)  
+₂₎ [Node.js & Express — Sprint](https://github.com/lefrenk/node-express-lab)  
 
 [↑](#0)
 ***
 ## <a name="day029" />Day 029 → Fri → 9/15
 ### Lectures  
-₁₎ [Code Challenge – `Twin Primes`](https://youtu.be/up8034Zv3zQ)  
-₂₎ [Node.js & Express Q&A](https://youtu.be/FwT3JdxhHjs)  
+₁₎ [Code Challenge — `Twin Primes`](https://youtu.be/up8034Zv3zQ)  
+₂₎ [Node.js & Express — Q&A](https://youtu.be/FwT3JdxhHjs)  
 ### Homework  
-₁₎ [Code Challenge – ](https://repl.it/student/submissions/1582440)  
+₁₎ [Code Challenge — `Twin Primes`](https://repl.it/student/submissions/1582440)  
 
 [↑](#0)
 ***
 ## <a name="week07" />Week 07  
 ## <a name="day030" />Day 030 → Mon → 9/18
 ### Lectures  
-₁₎ [Code Challenge – `Money Format`](https://youtu.be/rYUsEjASj_I)  
-₂₎ [Node.js & Express Solution Lecture](https://youtu.be/ysdPOaZSpxA)  
-₃₎ [MongoDB Lecture](https://youtu.be/mc26S-0FeSA)  
-₄₎ [MongoDB Mini Sprint Q&A](https://www.youtube.com/watch?v=XZLcCfc3pb0)  
+₁₎ [Code Challenge — `Money Format`](https://youtu.be/rYUsEjASj_I)  
+₂₎ [Node.js & Express — Solution Lecture](https://youtu.be/ysdPOaZSpxA)  
+₃₎ [MongoDB — Lecture](https://youtu.be/mc26S-0FeSA)  
+₄₎ [MongoDB — Mini Sprint Q&A](https://www.youtube.com/watch?v=XZLcCfc3pb0)  
 ### Homework  
-₁₎ [Code Challenge – `Money Format`](https://repl.it/student/submissions/1597899)  
-₂₎ [MongoDB I Sprint](https://github.com/lefrenk/Mongo-I)  
+₁₎ [Code Challenge — `Money Format`](https://repl.it/student/submissions/1597899)  
+₂₎ [MongoDB — Sprint](https://github.com/lefrenk/Mongo-I)  
 
 [↑](#0)
 ***
 ## <a name="day031" />Day 031 → Tue → 9/19
 ### Lectures  
-₁₎ [Code Challenge – `Merged Objects`](https://youtu.be/gKUhoib9_nM)  
-₂₎ Brown Bag – Fitness  
-₃₎ MongoDB Q&A  
+₁₎ [Code Challenge — `Merged Objects`](https://youtu.be/gKUhoib9_nM)  
+₂₎ Brown Bag — Fitness  
+₃₎ MongoDB — Q&A  
 ### Homework  
-₁₎ [Code Challenge – `Merged Objects`](https://repl.it/student/submissions/1610163)  
-₂₎ [MongoDB I Sprint](https://github.com/lefrenk/Mongo-I)  
+₁₎ [Code Challenge — `Merged Objects`](https://repl.it/student/submissions/1610163)  
+₂₎ [MongoDB — Sprint](https://github.com/lefrenk/Mongo-I)  
 
 [↑](#0)
 ***
 ## <a name="day032" />Day 032 → Wed → 9/20
 ### Lectures  
-₁₎ [Code Challenge – `Expanded Numbers`](https://youtu.be/R42cbk_eU_8)  
-₂₎ [MongoDB I Solution Lecture](https://youtu.be/AV8qNwwzq4k)  
-₃₎ [MongoDB II Lecture](https://youtu.be/dXqBgRHw_y4)  
-₄₎ [MongoDB II Setup](https://youtu.be/JSzuL44eakA)  
+₁₎ [Code Challenge — `Expanded Numbers`](https://youtu.be/R42cbk_eU_8)  
+₂₎ [MongoDB — Solution Lecture](https://youtu.be/AV8qNwwzq4k)  
+₃₎ [MongoDB II — Lecture](https://youtu.be/dXqBgRHw_y4)  
+₄₎ [MongoDB II — Setup](https://youtu.be/JSzuL44eakA)  
 ### Homework  
-₁₎ [Code Challenge – `Expanded Numbers`](https://repl.it/student/submissions/1622224)  
-₂₎ [MongoDB II Sprint](https://github.com/lefrenk/Mongo-II)  
+₁₎ [Code Challenge — `Expanded Numbers`](https://repl.it/student/submissions/1622224)  
+₂₎ [MongoDB II — Sprint](https://github.com/lefrenk/Mongo-II)  
 
 [↑](#0)
 ***
 ## <a name="day033" />Day 033 → Thu → 9/21
 ### Lectures  
-₁₎ [Code Challenge – `Equal Sides`](https://youtu.be/sOPhcXOXJKU)  
-₂₎ [Brown Bag – Producing Music](https://youtu.be/vbjSeW_1DR8)  
-₃₎ [MongoDB II Q&A](https://youtu.be/JzQjUs0B5nI)  
+₁₎ [Code Challenge #32 — `Equal Sides`](https://youtu.be/sOPhcXOXJKU)  
+₂₎ [Brown Bag — Producing Music](https://youtu.be/vbjSeW_1DR8)  
+₃₎ [MongoDB II — Q&A](https://youtu.be/JzQjUs0B5nI)  
 ### Homework  
-₁₎ [Code Challenge – `Equal Sides`](https://repl.it/student/submissions/1633757)  
-₂₎ [MongoDB II Sprint](https://github.com/lefrenk/Mongo-II)  
+₁₎ [Code Challenge #32 — `Equal Sides`](https://repl.it/student/submissions/1633757)  
+₂₎ [MongoDB II — Sprint](https://github.com/lefrenk/Mongo-II)  
 
 [↑](#0)
 ***
 ## <a name="day034" />Day 034 → Fri → 9/22
 ### Lectures  
-₁₎ Code Challenge – `CSS Animations`  
-₂₎ [Brown Bag – Intermittent Fasting](https://youtu.be/bZHDtDNDmbM)  
+₁₎ Code Challenge #33 — `CSS Animations`  
+₂₎ [Brown Bag — Intermittent Fasting](https://youtu.be/bZHDtDNDmbM)  
 ₃₎ MongoDB II Q&A  
 ### Homework  
-₁₎ [Code Challenge – `CSS Animations`](https://repl.it/student/submissions/1645937)  
-₂₎ [MongoDB II Sprint](https://github.com/lefrenk/Mongo-II)  
+₁₎ [Code Challenge #33 — `CSS Animations`](https://repl.it/student/submissions/1645937)  
+₂₎ [MongoDB II — Sprint](https://github.com/lefrenk/Mongo-II)  
 
 [↑](#0)
 ***
+## <a name="week08" />Week 08  
+## <a name="day035" />Day 035 → Mon → 9/25
+### Lectures  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+
+[↑](#0)
+***
+## <a name="day036" />Day 036 → Tues → 9/26
+### Lectures  
+₁₎ [Code Challenge — `]()  
+₂₎  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge — `]()  
+₂₎  
+[↑](#0)
+***
+## <a name="day037" />Day 037 → Wed → 9/27
+### Lectures  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+
+[↑](#0)
+***
+## <a name="day038" />Day 038 → Thu → 9/28
+### Lectures  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+
+[↑](#0)
+***
+## <a name="day039" />Day 039 → Fri → 9/29
+### Lectures  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+
 # Month 3 ━ October 2017
 ***
 # Month 4 ━ November 2017
