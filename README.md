@@ -44,6 +44,7 @@
 ┗━━[Week 26](#week26) → [Interview & Job Search Strategies](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project261)
 ***
 ### <a name="resources"></a>Resources ⋰ Notes
+┣━━[CS2 Recorded Lectures Spreadsheet](https://docs.google.com/spreadsheets/d/1k87GF1O-5b0oF2mr0i7aaBs7aIkvExFxu12HcZdOoXY/edit#gid=505824829)  
 ┣━━[Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)  
 ┣━━[Git Commands Cheat Sheet](https://lefrenk.gitbooks.io/cli-git-cheatsheet/content/git-commands.html)  
 ┣━━[GitHub Cheat Sheet](https://github.com/lefrenk/Lambda-School/blob/master/Notes/github-git-cheat-sheet.pdf)  
