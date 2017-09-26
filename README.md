@@ -474,7 +474,7 @@
 ### Lectures  
 ₁₎ Code Challenge #33 — `CSS Animations`  
 ₂₎ [Brown Bag — Intermittent Fasting](https://youtu.be/bZHDtDNDmbM)  
-₃₎ MongoDB II Q&A  
+₃₎ MongoDB II — Q&A  
 ### Homework  
 ₁₎ [Code Challenge #33 — `CSS Animations`](https://repl.it/student/submissions/1645937)  
 ₂₎ [MongoDB II — Sprint](https://github.com/lefrenk/Mongo-II)  
@@ -484,13 +484,13 @@
 ## <a name="week08" />Week 08  
 ## <a name="day035" />Day 035 → Mon → 9/25
 ### Lectures  
-₁₎ [Code Challenge — ``]()  
-₂₎  
-₃₎  
-₄₎  
+₁₎ [Code Challenge — `Days Between`](https://youtu.be/zxvPC5fq5u8)  
+₂₎ MongoDB II — Solution  
+₃₎ [MongoDB III — Lecture](https://youtu.be/vfglHt94xds)  
+₄₎ MongoDB III — Q&A  
 ### Homework  
-₁₎ [Code Challenge — ``]()  
-₂₎  
+₁₎ [Code Challenge — `Days Between`](https://repl.it/student/submissions/1665279)  
+₂₎ [MongoDB III — Mini Sprint](https://github.com/lefrenk/Mongo-III-Mini)  
 
 [↑](#0)
 ***
