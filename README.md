@@ -496,41 +496,47 @@
 ***
 ## <a name="day036" />Day 036 → Tues → 9/26
 ### Lectures  
-₁₎ [Code Challenge — ``]()  
-₂₎  
-₃₎  
-₄₎  
+₁₎ [Code Challenge — `Chained Functions`](https://youtu.be/xP64B7EB3lc)  
+₂₎ [Brown Bag — Respect the Web Engineer](https://youtu.be/BQIoxKE4MqY)  
+₃₎ Mongo III — Q&A
 ### Homework  
-₁₎ [Code Challenge — ``]()  
-₂₎  
+₁₎ [Code Challenge — `Chained Functions`](https://repl.it/student/submissions/1674732)  
+₂₎ [Mongo III — Sprint](https://github.com/lefrenk/Mongo-III)  
 
 [↑](#0)
 ***
 ## <a name="day037" />Day 037 → Wed → 9/27
 ### Lectures  
-₁₎ [Code Challenge — ``]()  
-₂₎  
-₃₎  
-₄₎  
+₁₎ [Code Challenge — `String to Camel Case`](https://youtu.be/CLcJEiSG6_A)  
+₂₎ Mongo III Solution  
+₃₎ [Auth — Lecture](https://youtu.be/lcTNZXJVwd4)  
 ### Homework  
-₁₎ [Code Challenge — ``]()  
-₂₎  
+₁₎ [Code Challenge — `String to Camel Case`](https://repl.it/student/submissions/1684953)  
+₂₎ [Auth — Sprint](https://github.com/lefrenk/auth)  
 
 [↑](#0)
 ***
 ## <a name="day038" />Day 038 → Thu → 9/28
 ### Lectures  
-₁₎ [Code Challenge — ``]()  
-₂₎  
-₃₎  
-₄₎  
+₁₎ [Code Challenge — `Consecutive Strings`](https://youtu.be/WtqjvyUdBoI)  
+₂₎ [Brown Bag — Log all the Things](https://youtu.be/e1IgY2jQT9M)  
 ### Homework  
-₁₎ [Code Challenge — ``]()  
-₂₎  
+₁₎ [Code Challenge — `Consecutive Strings`](https://repl.it/student/submissions/1695114)  
+₂₎ [Auth — Sprint](https://github.com/lefrenk/auth)  
 
 [↑](#0)
 ***
 ## <a name="day039" />Day 039 → Fri → 9/29
+### Lectures  
+₁₎ [Code Challenge — `to Binary String`](https://youtu.be/PvKjrKW1tPA)  
+### Homework  
+₁₎ [Code Challenge — `to Binary String`](https://repl.it/student/submissions/1705089)  
+
+[↑](#0)
+***
+# Month 3 ━ October 2017
+## <a name="week09" />Week 09  
+## <a name="day040" />Day 040 → Mon → 10/2
 ### Lectures  
 ₁₎ [Code Challenge — ``]()  
 ₂₎  
@@ -542,7 +548,53 @@
 
 [↑](#0)
 ***
-# Month 3 ━ October 2017
+## <a name="day041" />Day 041 → Tues → 10/3
+### Lectures  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+
+[↑](#0)
+***
+## <a name="day042" />Day 042 → Wed → 10/4
+### Lectures  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+
+[↑](#0)
+***
+## <a name="day043" />Day 043 → Thu → 10/5
+### Lectures  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+
+[↑](#0)
+***
+## <a name="day044" />Day 044 → Fri → 10/6
+### Lectures  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge — ``]()  
+₂₎  
+
+[↑](#0)
 ***
 # Month 4 ━ November 2017
 ***
