@@ -550,7 +550,7 @@
 ## <a name="day041" />Day 041 → Tues → 10/3
 ### Lectures  
 ₁₎ [Code Challenge — `Largest Contiguous Sum`](https://youtu.be/cEtRJBwO4fg)  
-₂₎ Brown Bag — eSports 
+₂₎ Brown Bag — eSports  
 ₃₎ Client Authentication — Q&A  
 ### Homework  
 ₁₎ [Code Challenge — `Largest Contiguous Sum`](https://repl.it/student/submissions/1731418)  
