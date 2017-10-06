@@ -13,7 +13,7 @@
 ┣━━[~~Week 05~~](#week05) → [HTTP/AJAX](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project51) ⋰ [SPA/Routing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project52)  
 ┣━━[~~Week 06~~](#week06) → [Client Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project61) ⋰ [Node/Express](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project62)  
 ┣━━[~~Week 07~~](#week07) → [MongoDB I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project71) & [II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project72)  
-┗━━[Week 08](#week08) → [MongoDB III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project81) ⋰ [Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project82)  
+┗━━[~~Week 08~~](#week08) → [MongoDB III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project81) ⋰ [Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project82)  
 
 ┏October  
 ┣━━[Week 09](#week09) → [Client Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project91) ⋰ [Server Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project92)  
@@ -78,7 +78,7 @@
 #### Extras:   
 ₁₂₎ Node  
 ₁₃₎ ES6  
-₁₃₎ Mongo  
+₁₃₎ MongoDB  
 ₁₄₎ Khan Academy — [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)  
 ***
 # Month 1 ━ August 2017
@@ -498,17 +498,17 @@
 ### Lectures  
 ₁₎ [Code Challenge — `Chained Functions`](https://youtu.be/xP64B7EB3lc)  
 ₂₎ [Brown Bag — Respect the Web Engineer](https://youtu.be/BQIoxKE4MqY)  
-₃₎ Mongo III — Q&A
+₃₎ MongoDB III — Q&A
 ### Homework  
 ₁₎ [Code Challenge — `Chained Functions`](https://repl.it/student/submissions/1674732)  
-₂₎ [Mongo III — Sprint](https://github.com/lefrenk/Mongo-III)  
+₂₎ [MongoDB III — Sprint](https://github.com/lefrenk/Mongo-III)  
 
 [↑](#0)
 ***
 ## <a name="day037" />Day 037 → Wed → 9/27
 ### Lectures  
 ₁₎ [Code Challenge — `String to Camel Case`](https://youtu.be/CLcJEiSG6_A)  
-₂₎ Mongo III Solution  
+₂₎ MongoDB III Solution  
 ₃₎ [Auth — Lecture](https://youtu.be/lcTNZXJVwd4)  
 ### Homework  
 ₁₎ [Code Challenge — `String to Camel Case`](https://repl.it/student/submissions/1684953)  
@@ -538,60 +538,56 @@
 ## <a name="week09" />Week 09  
 ## <a name="day040" />Day 040 → Mon → 10/2
 ### Lectures  
-₁₎ [Code Challenge — ``]()  
-₂₎  
-₃₎  
-₄₎  
+₁₎ [Code Challenge — `Largest Difference`](https://youtu.be/lUlufsuUE34)  
+₂₎ [Auth — Solution Lecture](https://youtu.be/y2Kjlf_GjhA)  
+₃₎ [Client Authentication — Lecture](https://youtu.be/sqf1bh7kD3I)  
 ### Homework  
-₁₎ [Code Challenge — ``]()  
-₂₎  
+₁₎ [Code Challenge — `Largest Difference`](https://repl.it/student/submissions/1721726)  
+₂₎ [Client Authentication — Mini Sprint](https://github.com/lefrenk/Client-Auth-Mini)  
 
 [↑](#0)
 ***
 ## <a name="day041" />Day 041 → Tues → 10/3
 ### Lectures  
-₁₎ [Code Challenge — ``]()  
-₂₎  
-₃₎  
-₄₎  
+₁₎ [Code Challenge — `Largest Contiguous Sum`](https://youtu.be/cEtRJBwO4fg)  
+₂₎ Brown Bag — eSports 
+₃₎ Client Authentication — Q&A  
 ### Homework  
-₁₎ [Code Challenge — ``]()  
-₂₎  
+₁₎ [Code Challenge — `Largest Contiguous Sum`](https://repl.it/student/submissions/1731418)  
+₂₎ [Client Authentication — Sprint](https://github.com/lefrenk/Client-Auth)  
 
 [↑](#0)
 ***
 ## <a name="day042" />Day 042 → Wed → 10/4
 ### Lectures  
-₁₎ [Code Challenge — ``]()  
-₂₎  
-₃₎  
-₄₎  
+₁₎ [Code Challenge — `get All Product Except at Index`](https://youtu.be/UTLg8AmNUyY)  
+₂₎ [Client Authentication — Solution](https://youtu.be/wI-Xb1b_frs)  
+₃₎ [Server Testing & Documentation — Lecture](https://youtu.be/otSW2ZpBa2U)  
 ### Homework  
-₁₎ [Code Challenge — ``]()  
-₂₎  
+₁₎ [Code Challenge — `get All Product Except at Index`](https://repl.it/student/submissions/1739395)  
+₂₎ [Server Testing — Sprint](https://github.com/LambdaSchool/Server-Testing)  
 
 [↑](#0)
 ***
 ## <a name="day043" />Day 043 → Thu → 10/5
 ### Lectures  
-₁₎ [Code Challenge — ``]()  
-₂₎  
-₃₎  
-₄₎  
+₁₎ [Code Challenge — `Stack Machine`](https://youtu.be/8kFV9vHhJPs)  
+₂₎ [Brown Bag — Typescript](https://youtu.be/R1mHu42tPTc)  
+₃₎ Server Testing — Q&A  
 ### Homework  
-₁₎ [Code Challenge — ``]()  
-₂₎  
+₁₎ [Code Challenge — `Stack Machine`](https://repl.it/student/submissions/1747159)  
+₂₎ [Server Testing — Sprint](https://github.com/LambdaSchool/Server-Testing)  
 
 [↑](#0)
 ***
 ## <a name="day044" />Day 044 → Fri → 10/6
 ### Lectures  
-₁₎ [Code Challenge — ``]()  
+₁₎ [Code Challenge — `Balanced Bracket`]()  
 ₂₎  
 ₃₎  
 ₄₎  
 ### Homework  
-₁₎ [Code Challenge — ``]()  
+₁₎ [Code Challenge — `Balanced Bracket`](https://repl.it/student/submissions/1752861)  
 ₂₎  
 
 [↑](#0)
