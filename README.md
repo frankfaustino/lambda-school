@@ -582,13 +582,11 @@
 ***
 ## <a name="day044" />Day 044 → Fri → 10/6
 ### Lectures  
-₁₎ [Code Challenge — `Balanced Bracket`]()  
-₂₎  
-₃₎  
-₄₎  
+₁₎ [Code Challenge — `Balanced Brackets`](https://youtu.be/z-MgSb1WsyQ)  
+₂₎ [Brown Bag — Meditation & Learning](https://youtu.be/SSgpDTlsr1k)  
 ### Homework  
-₁₎ [Code Challenge — `Balanced Bracket`](https://repl.it/student/submissions/1752861)  
-₂₎  
+₁₎ [Code Challenge — `Balanced Brackets`](https://repl.it/student/submissions/1752861)  
+₂₎ [Server Testing — Sprint](https://github.com/LambdaSchool/Server-Testing)  
 
 [↑](#0)
 ***
