@@ -16,9 +16,9 @@
 ┗━━[~~Week 08~~](#week08) → [MongoDB III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project81) ⋰ [Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project82)  
 
 ┏October  
-┣━━[Week 09](#week09) → [Client Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project91) ⋰ [Server Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project92)  
-┣━━[Week 10](#week10) → [DevOps](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project101) ⋰ [React Native I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project102)  
-┣━━[Week 11](#week11) → [React Native II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project111) & [III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project112)  
+┣━━[~~Week 09~~](#week09) → [Client Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project91) ⋰ [Server Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project92)  
+┣━━[Week 10](#week10) → [React Native I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project102) ⋰ [React Native II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project111)  
+┣━━[Week 11](#week11) → [React Native III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project112) & [DevOps](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project101)  
 ┗━━[Week 12](#week12) → Break Week! Personal Project  
 
 ┏November  
@@ -587,6 +587,66 @@
 ### Homework  
 ₁₎ [Code Challenge — `Balanced Brackets`](https://repl.it/student/submissions/1752861)  
 ₂₎ [Server Testing — Sprint](https://github.com/LambdaSchool/Server-Testing)  
+
+[↑](#0)
+***
+## <a name="week10" />Week 10  
+## <a name="day045" />Day 045 → Mon → 10/9
+### Lectures  
+₁₎ [Code Challenge — `Bubble Sort`](https://youtu.be/RMRp0y-50qQ)  
+₂₎ [Server Testing — Solution](https://youtu.be/nmyT2Q9DQKE)  
+₃₎ [Mobile I — Lecture](https://youtu.be/xeUinxnjlgI)  
+### Homework  
+₁₎ [Code Challenge — `Bubble Sort`](https://repl.it/student/submissions/1764779)  
+₂₎ [Mobile I — Sprint](https://github.com/lefrenk/Mobile-I)  
+
+[↑](#0)
+***
+## <a name="day046" />Day 046 → Tue → 10/10
+### Lectures  
+₁₎ [Code Challenge — ``]()  
+₂₎ []()  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge — ``]()  
+₂₎ []()  
+
+[↑](#0)
+***
+## <a name="day047" />Day 047 → Wed → 10/11
+### Lectures  
+₁₎ [Code Challenge — ``]()  
+₂₎ []()  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge — ``]()  
+₂₎ []()  
+
+[↑](#0)
+***
+## <a name="day048" />Day 048 → Thu → 10/12
+### Lectures  
+₁₎ [Code Challenge — ``]()  
+₂₎ []()  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge — ``]()  
+₂₎ []()  
+
+[↑](#0)
+***
+## <a name="day049" />Day 049 → Fri → 10/13
+### Lectures  
+₁₎ [Code Challenge — ``]()  
+₂₎ []()  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge — ``]()  
+₂₎ []()  
 
 [↑](#0)
 ***
