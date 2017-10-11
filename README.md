@@ -604,13 +604,11 @@
 ***
 ## <a name="day046" />Day 046 → Tue → 10/10
 ### Lectures  
-₁₎ [Code Challenge — ``]()  
-₂₎ []()  
-₃₎  
-₄₎  
+₁₎ Code Challenge — `Operators`  
+₂₎ [Brown Bag — eMacs](https://youtu.be/PK2c_95bsdk)  
 ### Homework  
-₁₎ [Code Challenge — ``]()  
-₂₎ []()  
+₁₎ [Code Challenge — `Operators`](https://repl.it/student/submissions/1775016)  
+₂₎ [Mobile I — Sprint](https://github.com/lefrenk/Mobile-I)  
 
 [↑](#0)
 ***
