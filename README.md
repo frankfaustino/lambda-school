@@ -17,8 +17,8 @@
 
 ┏October  
 ┣━━[~~Week 09~~](#week09) → [Client Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project91) ⋰ [Server Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project92)  
-┣━━[Week 10](#week10) → [React Native I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project102) ⋰ [React Native II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project111)  
-┣━━[Week 11](#week11) → [React Native III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project112) & [DevOps](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project101)  
+┣━━[~~Week 10~~](#week10) → [React Native I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project102) ⋰ [React Native II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project111)  
+┣━━[Week 11](#week11) → [DevOps](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project101) & [???]()  
 ┗━━[Week 12](#week12) → Break Week! Personal Project  
 
 ┏November  
@@ -595,10 +595,10 @@
 ### Lectures  
 ₁₎ [Code Challenge — `Bubble Sort`](https://youtu.be/RMRp0y-50qQ)  
 ₂₎ [Server Testing — Solution](https://youtu.be/nmyT2Q9DQKE)  
-₃₎ [Mobile I — Lecture](https://youtu.be/xeUinxnjlgI)  
+₃₎ [React Native I — Lecture](https://youtu.be/xeUinxnjlgI)  
 ### Homework  
 ₁₎ [Code Challenge — `Bubble Sort`](https://repl.it/student/submissions/1764779)  
-₂₎ [Mobile I — Sprint](https://github.com/lefrenk/Mobile-I)  
+₂₎ [React Native I — Sprint](https://github.com/lefrenk/Mobile-I)  
 
 [↑](#0)
 ***
@@ -608,42 +608,100 @@
 ₂₎ [Brown Bag — eMacs](https://youtu.be/PK2c_95bsdk)  
 ### Homework  
 ₁₎ [Code Challenge — `Operators`](https://repl.it/student/submissions/1775016)  
-₂₎ [Mobile I — Sprint](https://github.com/lefrenk/Mobile-I)  
+₂₎ [React Native I — Sprint](https://github.com/lefrenk/Mobile-I)  
 
 [↑](#0)
 ***
 ## <a name="day047" />Day 047 → Wed → 10/11
 ### Lectures  
-₁₎ [Code Challenge — ``]()  
-₂₎ []()  
-₃₎  
-₄₎  
+₁₎ [Code Challenge — `Insertion Sort`](https://youtu.be/7eyPflg6cgU)  
+₂₎ React Native I — Solution  
+₃₎ React Native II  
 ### Homework  
-₁₎ [Code Challenge — ``]()  
-₂₎ []()  
+₁₎ [Code Challenge — `Insertion Sort`](https://repl.it/student/submissions/1781710)  
+₂₎ [React Native II — Sprint](https://github.com/lefrenk/Mobile-II)  
 
 [↑](#0)
 ***
 ## <a name="day048" />Day 048 → Thu → 10/12
 ### Lectures  
-₁₎ [Code Challenge — ``]()  
-₂₎ []()  
-₃₎  
-₄₎  
+₁₎ Code Challenge #47 — `Merge Sort`  
+₂₎ Brown Bag — Security  
+₃₎ React Native II — Q&A  
 ### Homework  
-₁₎ [Code Challenge — ``]()  
-₂₎ []()  
+₁₎ [Code Challenge #47 — `Merge Sort`](https://repl.it/student/submissions/1790925)  
+₂₎ [React Native II — Sprint](https://github.com/lefrenk/Mobile-II)  
 
 [↑](#0)
 ***
 ## <a name="day049" />Day 049 → Fri → 10/13
 ### Lectures  
-₁₎ [Code Challenge — ``]()  
+₁₎ [Code Challenge #48 — `Markdown Tables`](https://youtu.be/jJjNLXX1Lsc)  
+₂₎ [Brown Bag — A Tale of JS Debugging](https://youtu.be/B-tiv0tvdBI)  
+₃₎ React Native II — Q&A  
+### Homework  
+₁₎ [Code Challenge #48 — `Markdown Tables`]()  
+₂₎ [React Native II — Sprint](https://github.com/lefrenk/mobile-ii)  
+
+[↑](#0)
+***
+## <a name="week11" />Week 11  
+## <a name="day050" />Day 50 → Mon → 10/16
+### Lectures  
+₁₎ [Code Challenge #49 — `Binary Array Sort in O(n)`](https://youtu.be/Dagn38_SgTg)  
+₂₎ React Native II — Solution Lecture  
+₃₎ DevOps/Deployment — Lecture  
+₄₎ DevOps/Deployment — Q&A  
+### Homework  
+₁₎ [Code Challenge #49 — `Binary Array Sort in O(n)`](https://repl.it/student/submissions/1812126)  
+₂₎ [DevOps/Deployment — Mini Sprint](https://github.com/lefrenk/DevOps-Deployment-Mini)  
+
+[↑](#0)
+***
+## <a name="day051" />Day 051 → Tue → 10/17
+### Lectures  
+₁₎ [Code Challenge # — ``]()  
 ₂₎ []()  
 ₃₎  
 ₄₎  
 ### Homework  
-₁₎ [Code Challenge — ``]()  
+₁₎ [Code Challenge # — ``]()  
+₂₎ [DevOps/Deployment — Sprint]()  
+
+[↑](#0)
+***
+## <a name="day052" />Day 052 → Wed → 10/18
+### Lectures  
+₁₎ [Code Challenge # — ``]()  
+₂₎ []()  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge # — ``]()  
+₂₎ []()  
+
+[↑](#0)
+***
+## <a name="day053" />Day 053 → Thu → 10/19
+### Lectures  
+₁₎ [Code Challenge # — ``]()  
+₂₎ []()  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge # — ``]()  
+₂₎ []()  
+
+[↑](#0)
+***
+## <a name="day054" />Day 054 → Fri → 10/20
+### Lectures  
+₁₎ [Code Challenge # — ``]()  
+₂₎ [Brown Bag — Design]()  
+₃₎  
+₄₎  
+### Homework  
+₁₎ [Code Challenge # — ``]()  
 ₂₎ []()  
 
 [↑](#0)
