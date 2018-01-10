@@ -18,30 +18,22 @@
 ┏October  
 ┣━━[~~Week 09~~](#week09) → [Client Auth](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project91) ⋰ [Server Testing](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project92)  
 ┣━━[~~Week 10~~](#week10) → [React Native I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project102) ⋰ [React Native II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project111)  
-┣━━[Week 11](#week11) → [DevOps](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project101) & [???]()  
-┗━━[Week 12](#week12) → Break Week! Personal Project  
+┣━━[~~Week 11~~](#week11) → [DevOps](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project101) & Deployment  
+┗━━[~~Week 12~~](#week12) → Break Week — Personal Project  
 
 ┏November  
-┣━━[Week 13](#week13) → [Computer Architecture I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project131) & [II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project132)  
-┣━━[Week 14](#week14) → [Comp. Architecture III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project141) & [C++ I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project142)  
-┣━━[Week 15](#week15) → [C++ II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project151) & [III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project152)  
-┗━━[Week 16](#week16) → [Data Structures I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project161) & [II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project162)  
+┣━━[~~Week 13~~](#week13) → [Computer Architecture I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project131) & [II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project132)  
+┣━━[~~Week 14~~](#week14) → [Intro to C](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project141) ⋰ [Intro to Operating Systems](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project142)  
+┗━━[~~Week 15~~](#week15) → [OS: Processes](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project151) ⋰ [OS: Scheduler](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project152)  
 
 ┏December  
-┣━━[Week 17](#week17) → [Data Struct. III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project171) & [Algorithms I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project172)  
-┣━━[Week 18](#week18) → [Algorithms II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project181) & [OS I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project182)  
-┣━━[Week 19](#week19) → [Operating Systems II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project191) & [III](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project192)  
-┗━━[Week 20](#week20) → [V8 Engine](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project201)  
+┗━━Holiday Break  
 
 ┏January  
-┣━━[Week 21](#week21) → [Relational DBs I](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project211) & [II](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project212)  
-┣━━[Week 22](#week22) → [Capstone Project](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project221)  
-┣━━[Week 23](#week23) → Capstone Project   
-┗━━[Week 24](#week24) → Capstone Project
+┣━━[Week 16](#week16) → [Theory of Computation](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project161) ⋰ [Algorithms Refresher](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project162)  
+┣━━[Week 17](#week17) → [Graphs](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project171) ⋰ [Algorithms II](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project172)  
+┗━━[Week 18](#week18) → [Security](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project181) ⋰ [Cellular Automata](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project182)  
 
-┏February  
-┣━━[Week 25](#week25) → Capstone Project  
-┗━━[Week 26](#week26) → [Interview & Job Search Strategies](https://github.com/LambdaSchool/LambdaCSA-Syllabus/blob/master/README.md#project261)
 ***
 ### <a name="resources"></a>Resources ⋰ Notes
 ┣━━[CS2 Recorded Lectures Spreadsheet](https://docs.google.com/spreadsheets/d/1k87GF1O-5b0oF2mr0i7aaBs7aIkvExFxu12HcZdOoXY/edit#gid=505824829)  
@@ -88,7 +80,7 @@
 ### Lectures  
 ₁₎ [ES6 ⋰ Scope ⋰ `const` & `let`⋰ Arrow Functions ⇒ ⋰ Semicolons ⋰ Template Literals](https://youtu.be/vJGIFw755_k)  
 ₂₎ [Basic JavaScript — Mini Sprint Solution](https://youtu.be/h8ivtUEFIbw)  
-### Homework  
+### Assignments  
 ₁₎ [Basic JavaScript — Mini Sprint](https://github.com/lefrenk/Basic-JavaScript-Mini)  
 
 [↑](#0)
@@ -99,7 +91,7 @@
 ₁₎ [Anonymous & Callback Functions ⋰ `map()` ⋰ Iterating Over Arrays & Array of Objects](https://youtu.be/X_k4XLHyRQM)  
 ₂₎ [How to Solve a Problem ⋰ Basic JS Review ⋰ Advanced JS/arrays.js Overview ⋰ `reduce()`](https://www.youtube.com/watch?v=mgotovfUK_I&feature=youtu.be)   
 ₃₎ [Brown Bag — Slack Overview — Ryan Hamblin](https://www.youtube.com/watch?v=h1t8e-aEWcE&feature=youtu.be)
-### Homework  
+### Assignments  
 ₁₎ [Basic JavaScript — Sprint](https://github.com/lefrenk/basic-javascript)  
 
 [↑](#0)
@@ -110,7 +102,7 @@
 ₁₎ [Code Challenge #1 — `longestString` (`for` loop ⋰ `forEach()` ⋰ `sort()`)](https://www.youtube.com/watch?v=TLAYnDw7PpM)  
 ₂₎ [Basic JavaScript — Sprint Solution](https://youtu.be/ZMCXX1VfsgA)  
 ₃₎ [`this` ⋰ `new` ⋰ `call()` ⋰ `apply()` ⋰ Closures ⋰ `class` ⋰ `extends` ⋰ `getter` ⋰ Callbacks](https://www.youtube.com/watch?v=tkauGGGxK_0)
-### Homework  
+### Assignments  
 ₁₎ [Advanced JavaScript — Mini Sprint](https://github.com/lefrenk/advanced-javascript-mini)
 
 [↑](#0)
@@ -121,7 +113,7 @@
 ₁₎ [Code Challenge #2 — `reverseCase.js`](https://youtu.be/oSaaI5GrLac)  
 ₂₎ Brown Bag — VS Code ⋰ Quokka — Ryan Hamblin  
 ₃₎ [Advanced JS — Q&A](https://youtu.be/4r6QcOyf4SI)
-### Homework  
+### Assignments  
 ₁₎ [Advanced JavaScript — Sprint](https://github.com/lefrenk/advanced-javascript)  
 
 [↑](#0)
@@ -132,7 +124,7 @@
 ₁₎ Code Challenge #3 — isUnique.js  ⋰ Big O Notation ⋰ nested for loops ⋰ new Set()]()  
 ₂₎ Brown Bag — Machine Learning — Darren Ames  
 ₃₎ Advanced JS — Q&A
-### Homework  
+### Assignments  
 ₁₎ [Advanced JavaScript](https://github.com/lefrenk/advanced-javascript)  
 
 [↑](#0)
@@ -143,7 +135,7 @@
 ### Lectures  
 ₁₎ Code Challenge #4 — `callBackPractice.js`  
 ₂₎ [Data Structures I ⋰ Linear Time O(n) Complexity ⋰ Constant Time O(1) Complexity ⋰ Quadratic Time O(n²) Complextiy ⋰ Linked Lists ⋰ Stacks ⋰ Queues ⋰ Hash Tables ⋰ Hash Function Examples ⋰ Hash Table Insertion ⋰ Hash Table Collisions](https://www.youtube.com/watch?v=hCOJeCA8-MI)
-### Homework  
+### Assignments  
 ₁₎ [Data Structures I — Mini Sprint](https://github.com/lefrenk/Data-Structures-I-Mini-Sprint)  
 ₂₎ [Code Challenge #5 — `removeDuplicates.js`](https://github.com/lefrenk/CS2-Code-Challenges/tree/master/removeDuplicates)  
 
@@ -155,7 +147,7 @@
 ₁₎ [Code Challenge #5 — `removeDuplicates.js`](https://www.youtube.com/watch?v=2Ccp_r1zTOk&feature=youtu.be)  
 ₂₎ Brown Bag — Vim — Sean Chen  
 ₃₎ [Data Structures I — Q&A ⋰ getter & setter ⋰ limited Arrays ⋰ hash functions ⋰ Objects stored in memory ⋰ Linked Lists](https://www.youtube.com/watch?v=pddJrBdLyY4&feature=youtu.be)
-### Homework  
+### Assignments  
 ₁₎ [Data Structures I — Sprint](https://github.com/lefrenk/LS-Data-Structures-I)  
 ₂₎ [Code Challenge #6 — `waterJugs.md`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/brainTeasers/waterJugs.md)   
 
@@ -167,7 +159,7 @@
 ₁₎ [Code Challenge #6 - `waterJugs.js`](https://youtu.be/gs0JCjzgVmM)  
 ₂₎ [Data Structures I — Solutions](https://youtu.be/_VBQe1T7rrM)  
 ₃₎ [Data Structures II — Mini Sprint ⋰ Trees ⋰ Binary Search Trees ⋰ Graphs](https://youtu.be/FBlxViiYm9A)  
-### Homework  
+### Assignments  
 ₁₎ [Data Structures II — Sprint](https://github.com/lefrenk/LS-Data-Structures-II)  
 ₂₎ [Code Challenge #7 — `forLoopTimeout.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/forLoopTimeout/forLoopTimeout.js)  
  
@@ -179,7 +171,7 @@
 ₁₎ [Code Challenge #7 — `forLoopTimeout.js`](https://www.youtube.com/watch?v=7-PuNWglB8U&feature=youtu.be)  
 ₂₎ [Brown Bag - HTTP ⋰ IPC ⋰ Protocol ⋰ Node ⋰ Express - Thomas Comer](https://youtu.be/d2YYm0qEszo)  
 ₃₎ [Data Structures II — Breadth First Search using a Queue](https://www.youtube.com/watch?v=TiJFptZzLTk&feature=youtu.be)  
-### Homework  
+### Assignments  
 ₁₎ [Data Structures II — Sprint](https://github.com/lefrenk/LS-Data-Structures-II)  
 ₂₎ [Code Challenge #8 — `largestPrimePalindrome.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/largestPrimePalindrome/largestPrimePalindrome.js)  
  
@@ -191,7 +183,7 @@
 ₁₎ [Code Challenge #8 — `largestPrimePalindrome.js`](https://youtu.be/31XhwPSQb84)  
 ₂₎ [Brown Bag — Modern JS Tools — Kent C. Dodds](https://www.youtube.com/watch?v=M0v4Iizcw6c&index=1&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)  
 ₃₎ [Data Structures II — Q&A ⋰ Heaps](https://www.youtube.com/watch?v=Z8f8gLFDEXU&feature=youtu.be)
-### Homework  
+### Assignments  
 ₁₎ [Data Structures II — Sprint](https://github.com/lefrenk/LS-Data-Structures-II)  
 ₂₎ [Code Challenge #9 — constructors.js](https://github.com/LambdaSchool/CS2-Code-Challenges/blob/master/constructors/constructors.js)
 
@@ -205,7 +197,7 @@
 ₃₎ Data Structures II — Solution Lecture  
 ₄₎ [DOM ⋰ HTML & CSS](https://www.youtube.com/watch?v=BV83yPgDXBQ)  
 ₅₎ [DOM ⋰ HTML & CSS](https://youtu.be/oYlfSTzhZjg)
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #10 — `commonCharacters.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/commonCharacters/commonCharacters.js)  
 ₂₎ [DOM ⋰ HTML & CSS](https://github.com/lefrenk/LS-DOM)  
 
@@ -216,7 +208,7 @@
 ₁₎ [Code Challenge #10 — `commonCharacters.js`](https://youtu.be/scMNT8OIkzA)  
 ₂₎ [Brown Bag — Oh My ZSH!](https://www.youtube.com/watch?v=Yo9d6XyRVb8)   
 ₃₎ [DOM ⋰ HTML & CSS Q&A](https://www.youtube.com/watch?v=leewz5phD6Y&feature=youtu.be)
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #11 — `evenOccurrences.js`](https://github.com/lefrenk/CS2-Code-Challenges/blob/master/evenOccurences/evenOccurences.js)  
 ₂₎ [DOM ⋰ HTML & CSS](https://github.com/lefrenk/LS-DOM)  
 
@@ -228,7 +220,7 @@
 ₂₎ DOM — Solution Lecture  
 ₃₎ DOM — Q&A  
 ₄₎ [React I — Mini Sprint](https://www.youtube.com/watch?v=exFWxA8mGLo)
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #12 — `stringCompression.js`]()   
 ₂₎ [React I — Mini Sprint](https://github.com/LambdaSchool/React-I-Mini-Sprint)
 
@@ -239,7 +231,7 @@
 ₁₎ [Code Challenge #12 — `stringCompression.js`](https://youtu.be/ub26bySRo1k)  
 ₂₎ [Brown Bag — Binary](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/how-to-count-to-1000-on-two-hands)  
 ₃₎ React I Q&A
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #13 — `vowelCount.js`](https://github.com/lefrenk/CS2-Code-Challenges/tree/master/vowelCount)  
 ₂₎ [React I — Sprint](https://github.com/lefrenk/LS-React-1)
 
@@ -250,7 +242,7 @@
 ₁₎ [Code Challenge #13 — `vowelCount.js`](https://youtu.be/D1Tsa_44U1M)  
 ₂₎ [Brown Bag — Tech in Real Estate](https://www.youtube.com/watch?v=DupWGPOfazk)  
 ₃₎ React I — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #14 — `meanMedianMode.js`](https://www.youtube.com/watch?v=DupWGPOfazk)  
 
 [↑](#0)
@@ -263,7 +255,7 @@
 ₃₎ [React II — Mini Sprint](https://www.youtube.com/watch?v=0Jtr6SUtJUQ)  
 ₄₎ [React II — Mini Sprint Review](https://www.youtube.com/watch?v=phdGADfdSfc&feature=youtu.be)  
 ₅₎ [React II — Q&A](https://www.youtube.com/watch?v=joKeQKBXIDY&feature=youtu.be)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #15 — `sumDigits.js`](https://repl.it/student/submissions/1448135)  
 ₂₎ [React II — Mini Sprint](https://github.com/lefrenk/React-II-Mini-Sprint)  
 ₃₎ [React II — Sprint](https://github.com/lefrenk/LS-React-II)  
@@ -275,7 +267,7 @@
 ₁₎ Code Challenge #15 — `sumDigits`  
 ₂₎ [Brown Bag — Bullet Journaling](https://youtu.be/Kg3MN6XDh8U)  
 ₃₎ React II — Q&A 
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #16 — `armstrongNumbers`](https://repl.it/student/submissions/1454756)  
 ₂₎ [React II — Sprint](https://github.com/lefrenk/LS-React-II)  
 
@@ -288,7 +280,7 @@
 ₃₎ [Redux — Lecture](https://www.youtube.com/watch?v=Ozx4FH4iKWc)  
 ₄₎ [Redux — Mini Sprint](https://youtu.be/m2hLtAwhcc4)  
 ₅₎ [Redux — Mini Sprint Solution](https://youtu.be/PvQ8N5LK4fM)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #17 — `reverseNumber`](https://repl.it/student/submissions/1460825)  
 ₂₎ [Redux — Mini Sprint](https://github.com/lefrenk/Redux-Mini-Sprint)  
 
@@ -299,7 +291,7 @@
 ₁₎ [Code Challenge #17 — `reverseNumber`](https://youtu.be/XuCUwyMjqSk)  
 ₂₎ Brown Bag — Piazza  
 ₃₎ Redux — Q&A
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #18 — `sortString`](https://repl.it/student/submissions/1467199)  
 ₂₎ [Redux — Sprint](https://github.com/lefrenk/LS-Redux)  
 
@@ -311,7 +303,7 @@
 ₂₎ [Code Challenge #19 — `commonCharacters`](https://youtu.be/IoLB9VIwHLU)  
 ₃₎ [Brown Bag — What Comes After Coding Bootcamp?](https://www.youtube.com/watch?v=txbhRoCIPxs)  
 ₄₎ Redux — Q&A
-### Homework  
+### Assignments  
 ₁₎ [Redux — Sprint](https://github.com/lefrenk/LS-Redux)  
 
 [↑](#0)
@@ -325,7 +317,7 @@
 ₃₎ [HTTP/AJAX — Lecture](https://www.youtube.com/watch?v=ENNS0YeCLA0)  
 ₄₎ HTTP — Mini Sprint Review  
 ₅₎ HTTP/AJAX — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #20 — `nextPalindrome`](https://repl.it/student/submissions/1489542)  
 ₂₎ [HTTP/AJAX — Mini Sprint](https://github.com/lefrenk/HTTP-Mini-Sprint)  
 
@@ -336,7 +328,7 @@
 ₁₎ [Code Challenge #21 — `collatzSequence`](https://youtu.be/YALl_WirKgg)  
 ₂₎ Brown Bag — Combating Imposter Syndrome  
 ₃₎ HTTP/AJAX — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #21 — `collatzSequence`](https://repl.it/student/submissions/1498854)  
 ₂₎ [HTTP/AJAX — Sprint](https://github.com/lefrenk/HTTP-AJAX)  
 
@@ -349,7 +341,7 @@
 ₃₎ HTTP/AJAX — Feedback Session  
 ₄₎ [React Router — Lecture](https://youtu.be/5eGGI4diNrU)  
 ₅₎ React Router — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #22 — `sumAndProduct`](https://repl.it/student/submissions/1510379)  
 ₂₎ [React Router — Mini Sprint](https://github.com/lefrenk/LS-React-Router-Mini)  
 ₃₎ [React Router — Sprint](https://github.com/lefrenk/Routing)  
@@ -361,7 +353,7 @@
 ₁₎ Code Challenge #23 — `Logic Gates`  
 ₂₎ Brown Bag — Coffee's Origins  
 ₃₎ React Router — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #23 — `Logic Gates`](https://repl.it/student/submissions/1521748)  
 ₂₎ [React Router — Sprint](https://github.com/lefrenk/Routing)  
 
@@ -375,7 +367,7 @@
 ₃₎ [Client Testing](https://www.youtube.com/watch?v=nTRxvncdyHY)  
 ₄₎ [Client Testing — Mini Sprint Lecture](https://youtu.be/_iIVYKIIoos)  
 ₅₎ Client Testing — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #23 — `Reverse Linked List`](https://repl.it/student/submissions/1538364)  
 ₂₎ [Client Testing — Mini Sprint](https://github.com/lefrenk/LS-Testing-Mini)  
 
@@ -386,7 +378,7 @@
 ₁₎ [Code Challenge #25 — `Breadth First Search`](https://youtu.be/PN__x49PwxY)  
 ₂₎ Brown Bag — Reason (Jared Forsyth)  
 ₃₎ Client Testing - Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #25 — `Breadth First Search`](https://repl.it/student/submissions/1549541)  
 ₂₎ [Client Testing — Sprint](https://github.com/lefrenk/Testing)  
 
@@ -396,7 +388,7 @@
 ### Lectures  
 ₁₎ Code Challenge #26 — `Deep Equals`  
 ₂₎ [Node.js & Express — Lecture](https://youtu.be/K1RkG_irE9I)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #26 — `Deep Equals`](https://repl.it/student/submissions/1559991)  
 ₂₎ [Node.js & Express — Mini Sprint](https://github.com/lefrenk/node-express-mini)  
 ₃₎ [Node.js & Express — Sprint](https://github.com/lefrenk/node-express-lab)  
@@ -408,7 +400,7 @@
 ₁₎ [Code Challenge #27 — `Roman Numerals Encoder`](https://youtu.be/up8034Zv3zQ)  
 ₂₎ Brown Bag — Startups ⋰ VC Funding ⋰ Lambda School Q&A  
 ₃₎ Node.js & Express — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #27 — `Roman Numerals Encoder`](https://repl.it/student/submissions/1570954)  
 ₂₎ [Node.js & Express — Sprint](https://github.com/lefrenk/node-express-lab)  
 
@@ -418,7 +410,7 @@
 ### Lectures  
 ₁₎ [Code Challenge #28 — `Twin Primes`](https://youtu.be/up8034Zv3zQ)  
 ₂₎ [Node.js & Express — Q&A](https://youtu.be/FwT3JdxhHjs)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #28 — `Twin Primes`](https://repl.it/student/submissions/1582440)  
 
 [↑](#0)
@@ -430,7 +422,7 @@
 ₂₎ [Node.js & Express — Solution Lecture](https://youtu.be/ysdPOaZSpxA)  
 ₃₎ [MongoDB — Lecture](https://youtu.be/mc26S-0FeSA)  
 ₄₎ [MongoDB — Mini Sprint Q&A](https://www.youtube.com/watch?v=XZLcCfc3pb0)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #29 — `Money Format`](https://repl.it/student/submissions/1597899)  
 ₂₎ [MongoDB — Sprint](https://github.com/lefrenk/Mongo-I)  
 
@@ -441,7 +433,7 @@
 ₁₎ [Code Challenge #30 — `Merged Objects`](https://youtu.be/gKUhoib9_nM)  
 ₂₎ Brown Bag — Fitness  
 ₃₎ MongoDB — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #30 — `Merged Objects`](https://repl.it/student/submissions/1610163)  
 ₂₎ [MongoDB — Sprint](https://github.com/lefrenk/Mongo-I)  
 
@@ -453,7 +445,7 @@
 ₂₎ [MongoDB — Solution Lecture](https://youtu.be/AV8qNwwzq4k)  
 ₃₎ [MongoDB II — Lecture](https://youtu.be/dXqBgRHw_y4)  
 ₄₎ [MongoDB II — Setup](https://youtu.be/JSzuL44eakA)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #31 — `Expanded Numbers`](https://repl.it/student/submissions/1622224)  
 ₂₎ [MongoDB II — Sprint](https://github.com/lefrenk/Mongo-II)  
 
@@ -464,7 +456,7 @@
 ₁₎ [Code Challenge #32 — `Equal Sides`](https://youtu.be/sOPhcXOXJKU)  
 ₂₎ [Brown Bag — Producing Music](https://youtu.be/vbjSeW_1DR8)  
 ₃₎ [MongoDB II — Q&A](https://youtu.be/JzQjUs0B5nI)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #32 — `Equal Sides`](https://repl.it/student/submissions/1633757)  
 ₂₎ [MongoDB II — Sprint](https://github.com/lefrenk/Mongo-II)  
 
@@ -475,7 +467,7 @@
 ₁₎ Code Challenge #33 — `CSS Animations`  
 ₂₎ [Brown Bag — Intermittent Fasting](https://youtu.be/bZHDtDNDmbM)  
 ₃₎ MongoDB II — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #33 — `CSS Animations`](https://repl.it/student/submissions/1645937)  
 ₂₎ [MongoDB II — Sprint](https://github.com/lefrenk/Mongo-II)  
 
@@ -488,7 +480,7 @@
 ₂₎ MongoDB II — Solution  
 ₃₎ [MongoDB III — Lecture](https://youtu.be/vfglHt94xds)  
 ₄₎ MongoDB III — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge — `Days Between`](https://repl.it/student/submissions/1665279)  
 ₂₎ [MongoDB III — Mini Sprint](https://github.com/lefrenk/Mongo-III-Mini)  
 
@@ -499,7 +491,7 @@
 ₁₎ [Code Challenge — `Chained Functions`](https://youtu.be/xP64B7EB3lc)  
 ₂₎ [Brown Bag — Respect the Web Engineer](https://youtu.be/BQIoxKE4MqY)  
 ₃₎ MongoDB III — Q&A
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge — `Chained Functions`](https://repl.it/student/submissions/1674732)  
 ₂₎ [MongoDB III — Sprint](https://github.com/lefrenk/Mongo-III)  
 
@@ -510,7 +502,7 @@
 ₁₎ [Code Challenge — `String to Camel Case`](https://youtu.be/CLcJEiSG6_A)  
 ₂₎ MongoDB III Solution  
 ₃₎ [Auth — Lecture](https://youtu.be/lcTNZXJVwd4)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge — `String to Camel Case`](https://repl.it/student/submissions/1684953)  
 ₂₎ [Auth — Sprint](https://github.com/lefrenk/auth)  
 
@@ -520,7 +512,7 @@
 ### Lectures  
 ₁₎ [Code Challenge — `Consecutive Strings`](https://youtu.be/WtqjvyUdBoI)  
 ₂₎ [Brown Bag — Log all the Things](https://youtu.be/e1IgY2jQT9M)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge — `Consecutive Strings`](https://repl.it/student/submissions/1695114)  
 ₂₎ [Auth — Sprint](https://github.com/lefrenk/auth)  
 
@@ -529,7 +521,7 @@
 ## <a name="day039" />Day 039 → Fri → 9/29
 ### Lectures  
 ₁₎ [Code Challenge — `to Binary String`](https://youtu.be/PvKjrKW1tPA)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge — `to Binary String`](https://repl.it/student/submissions/1705089)  
 
 [↑](#0)
@@ -541,7 +533,7 @@
 ₁₎ [Code Challenge — `Largest Difference`](https://youtu.be/lUlufsuUE34)  
 ₂₎ [Auth — Solution Lecture](https://youtu.be/y2Kjlf_GjhA)  
 ₃₎ [Client Authentication — Lecture](https://youtu.be/sqf1bh7kD3I)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge — `Largest Difference`](https://repl.it/student/submissions/1721726)  
 ₂₎ [Client Authentication — Mini Sprint](https://github.com/lefrenk/Client-Auth-Mini)  
 
@@ -552,7 +544,7 @@
 ₁₎ [Code Challenge — `Largest Contiguous Sum`](https://youtu.be/cEtRJBwO4fg)  
 ₂₎ Brown Bag — eSports  
 ₃₎ Client Authentication — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge — `Largest Contiguous Sum`](https://repl.it/student/submissions/1731418)  
 ₂₎ [Client Authentication — Sprint](https://github.com/lefrenk/Client-Auth)  
 
@@ -563,7 +555,7 @@
 ₁₎ [Code Challenge — `get All Product Except at Index`](https://youtu.be/UTLg8AmNUyY)  
 ₂₎ [Client Authentication — Solution](https://youtu.be/wI-Xb1b_frs)  
 ₃₎ [Server Testing & Documentation — Lecture](https://youtu.be/otSW2ZpBa2U)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge — `get All Product Except at Index`](https://repl.it/student/submissions/1739395)  
 ₂₎ [Server Testing — Sprint](https://github.com/LambdaSchool/Server-Testing)  
 
@@ -574,7 +566,7 @@
 ₁₎ [Code Challenge — `Stack Machine`](https://youtu.be/8kFV9vHhJPs)  
 ₂₎ [Brown Bag — Typescript](https://youtu.be/R1mHu42tPTc)  
 ₃₎ Server Testing — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge — `Stack Machine`](https://repl.it/student/submissions/1747159)  
 ₂₎ [Server Testing — Sprint](https://github.com/LambdaSchool/Server-Testing)  
 
@@ -584,7 +576,7 @@
 ### Lectures  
 ₁₎ [Code Challenge — `Balanced Brackets`](https://youtu.be/z-MgSb1WsyQ)  
 ₂₎ [Brown Bag — Meditation & Learning](https://youtu.be/SSgpDTlsr1k)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge — `Balanced Brackets`](https://repl.it/student/submissions/1752861)  
 ₂₎ [Server Testing — Sprint](https://github.com/LambdaSchool/Server-Testing)  
 
@@ -596,7 +588,7 @@
 ₁₎ [Code Challenge — `Bubble Sort`](https://youtu.be/RMRp0y-50qQ)  
 ₂₎ [Server Testing — Solution](https://youtu.be/nmyT2Q9DQKE)  
 ₃₎ [React Native I — Lecture](https://youtu.be/xeUinxnjlgI)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge — `Bubble Sort`](https://repl.it/student/submissions/1764779)  
 ₂₎ [React Native I — Sprint](https://github.com/lefrenk/Mobile-I)  
 
@@ -606,7 +598,7 @@
 ### Lectures  
 ₁₎ Code Challenge — `Operators`  
 ₂₎ [Brown Bag — eMacs](https://youtu.be/PK2c_95bsdk)  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge — `Operators`](https://repl.it/student/submissions/1775016)  
 ₂₎ [React Native I — Sprint](https://github.com/lefrenk/Mobile-I)  
 
@@ -617,7 +609,7 @@
 ₁₎ [Code Challenge — `Insertion Sort`](https://youtu.be/7eyPflg6cgU)  
 ₂₎ React Native I — Solution  
 ₃₎ React Native II  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge — `Insertion Sort`](https://repl.it/student/submissions/1781710)  
 ₂₎ [React Native II — Sprint](https://github.com/lefrenk/Mobile-II)  
 
@@ -628,7 +620,7 @@
 ₁₎ Code Challenge #47 — `Merge Sort`  
 ₂₎ Brown Bag — Security  
 ₃₎ React Native II — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #47 — `Merge Sort`](https://repl.it/student/submissions/1790925)  
 ₂₎ [React Native II — Sprint](https://github.com/lefrenk/Mobile-II)  
 
@@ -639,7 +631,7 @@
 ₁₎ [Code Challenge #48 — `Markdown Tables`](https://youtu.be/jJjNLXX1Lsc)  
 ₂₎ [Brown Bag — A Tale of JS Debugging](https://youtu.be/B-tiv0tvdBI)  
 ₃₎ React Native II — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #48 — `Markdown Tables`]()  
 ₂₎ [React Native II — Sprint](https://github.com/lefrenk/mobile-ii)  
 
@@ -650,9 +642,9 @@
 ### Lectures  
 ₁₎ [Code Challenge #49 — `Binary Array Sort in O(n)`](https://youtu.be/Dagn38_SgTg)  
 ₂₎ React Native II — Solution Lecture  
-₃₎ DevOps/Deployment — Lecture  
+₃₎ [DevOps/Deployment](https://youtu.be/VRcPzTsB-cU) — Lecture  
 ₄₎ DevOps/Deployment — Q&A  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge #49 — `Binary Array Sort in O(n)`](https://repl.it/student/submissions/1812126)  
 ₂₎ [DevOps/Deployment — Mini Sprint](https://github.com/lefrenk/DevOps-Deployment-Mini)  
 
@@ -660,54 +652,272 @@
 ***
 ## <a name="day051" />Day 051 → Tue → 10/17
 ### Lectures  
-₁₎ [Code Challenge # — ``]()  
-₂₎ []()  
-₃₎  
-₄₎  
-### Homework  
-₁₎ [Code Challenge # — ``]()  
-₂₎ [DevOps/Deployment — Sprint]()  
+₁₎ [Brown Bag — Promises | Async/Await](https://youtu.be/ccHqd9j3ePk)  
+₂₎ DevOps/Deployment — Q&A  
+### Assignments  
+₁₎ [DevOps/Deployment — Sprint](https://github.com/lefrenk/DevOps-Deployment)  
 
 [↑](#0)
 ***
 ## <a name="day052" />Day 052 → Wed → 10/18
 ### Lectures  
-₁₎ [Code Challenge # — ``]()  
-₂₎ []()  
-₃₎  
-₄₎  
-### Homework  
-₁₎ [Code Challenge # — ``]()  
-₂₎ []()  
+₁₎ [Code Challenge #51 — `Prime Reduction`](https://youtu.be/u3p5kZtAAHY)  
+₂₎ DevOps/Deployment Solution  
+### Assignments  
+₁₎ [Code Challenge #51 — `Prime Reduction`](https://repl.it/student/submissions/1824592)  
 
 [↑](#0)
 ***
 ## <a name="day053" />Day 053 → Thu → 10/19
 ### Lectures  
-₁₎ [Code Challenge # — ``]()  
-₂₎ []()  
-₃₎  
-₄₎  
-### Homework  
-₁₎ [Code Challenge # — ``]()  
-₂₎ []()  
+₁₎ [Code Challenge #52 — `Digits Raised to Consecutive Powers (CS1)`](https://youtu.be/sG8YnMyKohA)  
+₂₎ [Brown Bag — Rubik's Cube](https://youtu.be/MuKLXbn-Seo)  
+### Assignments  
+₁₎ [Code Challenge #52 — `Digits Raised to Consecutive Powers`](https://repl.it/student/submissions/1831161)  
 
 [↑](#0)
 ***
 ## <a name="day054" />Day 054 → Fri → 10/20
 ### Lectures  
+₁₎ [Code Challenge #53 — `Robot Paths`](https://youtu.be/7fAYivr-NJs)  
+₂₎ [Brown Bag — State of Lambda School](https://youtu.be/XuQxXyndOZY)  
+### Assignments  
+₁₎ [Code Challenge #53 — `Robot Paths`](https://repl.it/student/submissions/1837540)  
+
+[↑](#0)
+***
+## Break Week  
+## Day XX → Tue → 10/24
+### Lectures  
+₁₎ [Brown Bag — Command Line](https://youtu.be/LcRbERkJ2ok)  
+
+[↑](#0)
+***
+## Day XX → Thu → 10/26
+### Lectures  
+₁₎ [Brown Bag — Product Management](https://youtu.be/8nM5lgD0u5g)  
+
+[↑](#0)
+***
+# Month 4 ━ November 2017
+## <a name="week13" />Week 13  
+## <a name="day055" />Day 55 → Mon → 10/30
+### Lectures  
+₁₎ [Code Challenge #54 — `Rotated Array Search`](https://youtu.be/PXlKyNFBaeg)  
+₂₎ [Computer Architecture I](https://youtu.be/QuPWki6vMMI)  
+₃₎ [Computer Architecture Addendum](https://youtu.be/kP29RbUD7bY)  
+### Assignments  
+₁₎ [Code Challenge #54 — `Rotated Array Search`](https://repl.it/student/submissions/1892510)  
+₂₎ [Computer Architecture I](https://github.com/lefrenk/Computer-Architecture-One)  
+
+[↑](#0)
+***
+## <a name="day056" />Day 056 → Tue → 10/31
+### Lectures  
+₁₎ [Code Challenge #55 — `Full (4-bit) Adder`](https://youtu.be/754d5TT7mjs)  
+₂₎ [Brown Bag — Making Music](https://youtu.be/NCrwYjEFEmg)  
+### Assignments  
+₁₎ [Code Challenge #55 — `Full (4-bit) Adder`](https://repl.it/student/submissions/1895241)  
+
+[↑](#0)
+***
+## <a name="day057" />Day 057 → Wed → 11/1
+### Lectures  
+₁₎ Computer Architecture I Solution  
+₂₎ [Computer Architecture II](https://youtu.be/_ivSbOPoJNk)  
+### Assignments  
+₁₎ [Computer Architecture II](https://github.com/lefrenk/Computer-Architecture-Two)  
+
+[↑](#0)
+***
+## <a name="day058" />Day 058 → Thu → 11/2
+### Lectures  
+₁₎ [Code Challenge #56 — `Telephone Words`](https://youtu.be/iI-h7_L7Lnc)  
+### Assignments  
+₁₎ [Code Challenge #56 — `Telephone Words`](https://repl.it/student/submissions/1910547)  
+
+[↑](#0)
+***
+## <a name="day059" />Day 059 → Fri → 11/3
+### Lectures  
+₁₎ [Code Challenge #57 — `String Compression`](https://youtu.be/XEpsGq09bos)  
+### Assignments  
+₁₎ [Code Challenge #57 — `String Compression`](https://repl.it/student/submissions/1922998)  
+
+[↑](#0)
+***
+## <a name="week14" />Week 14  
+## <a name="day060" />Day 60 → Mon → 11/6
+### Lectures  
+₁₎ [Code Challenge #58 — `Quick Sort`](https://youtu.be/krtTy-mRaNk)  
+₂₎ [Computer Architecture II — Solution](https://youtu.be/T0oZ9T0Squ0)  
+₃₎ [Intro to C](https://youtu.be/tadDAQpjAE4)  
+### Assignments  
+₁₎ [Code Challenge #58 — `Quick Sort`](https://repl.it/student/submissions/1930320)  
+₂₎ [The C Programming Language](https://github.com/lefrenk/The-C-Programming-Language)  
+
+[↑](#0)
+***
+## <a name="day061" />Day 061 → Tue → 11/7
+### Lectures  
+₁₎ [Code Challenge #59 — `Overlapping Rectangles`](https://youtu.be/PS732Ig7Uow)  
+₂₎ [Brown Bag — Front-End Interview Questions](https://youtu.be/VU8H-SelFnI)  
+₃₎ [C Programming Lang I](https://youtu.be/IbcUJJhsz5c)  
+₄₎ [C Programming Lang I — Q&A](https://youtu.be/DmVyAyixoqU)  
+₅₎ [C Programming Lang I — Pointers](https://youtu.be/rc7Ioom0SSU)  
+₆₎ [C Programming Lang I — Q&A](https://youtu.be/13w1_2M8JcM)  
+### Assignments  
+₁₎ [Code Challenge #59 — `Overlapping Rectangles`](https://repl.it/student/submissions/1937368)  
+₂₎ [The C Programming Language](https://github.com/lefrenk/The-C-Programming-Language)  
+
+[↑](#0)
+***
+## <a name="day062" />Day 062 → Wed → 11/8
+### Lectures  
+₁₎ [Code Challenge #60 — `Route Between Nodes`](https://youtu.be/LBq-BqqT_H8)  
+₂₎ C Programming Language I — Solution  
+₃₎ [Operating Systems: Processes](https://youtu.be/V6MaRvOikUE)  
+### Assignments  
+₁₎ [Code Challenge #60 — `Route Between Nodes`](https://repl.it/student/submissions/1948037)  
+₂₎ [Processes — Sprint](https://github.com/lefrenk/Processes)  
+
+[↑](#0)
+***
+## <a name="day063" />Day 063 → Thu → 11/9
+### Lectures  
+₁₎ Code Challenge #61 — `Implement Queue from 2 Stacks made with Obj`  
+₂₎ [Operating Systems: Scheduling](https://youtu.be/vd5rosQ_8zI)  
+₃₎ [Brown Bag — Open Source Software](https://youtu.be/6kHGtWTVb9k)  
+### Assignments  
+₁₎ [Code Challenge #61 — `Implement Queue from 2 Stacks made with Obj`](https://repl.it/student/submissions/1952335)  
+₂₎ [Scheduling — Sprint](https://github.com/lefrenk/Sprint-Challenge--Processes-and-Scheduling)  
+
+[↑](#0)
+***
+## <a name="day064" />Day 064 → Fri → 11/10
+### Lectures  
+₁₎ [Code Challenge #62 — `Rand7 to Rand5`](https://youtu.be/zRA4SxsAfDY)  
+₂₎ [Brown Bag — The Modlet Pattern](https://youtu.be/CgGdiGInSyA)  
+### Assignments  
+₁₎ [Code Challenge #62 — `Rand7 to Rand5`](https://repl.it/student/submissions/1958598)  
+
+[↑](#0)
+***
+## <a name="week15" />Week 15  
+## <a name="day065" />Day 65 → Mon → 11/13
+### Lectures  
+₁₎ [Code Challenge #63 — `[C] Calculate Total, Avg, Percentage`](https://youtu.be/GkCSyiSGFCA)  
+₂₎ OS: Scheduling — Solution  
+₃₎ [Applied C Programming — Intro](https://youtu.be/QcBjPpi43JI)  
+₄₎ [Applied C Programming — Mini Review](https://youtu.be/QcBjPpi43JI)  
+₅₎ [Applied C Programming — Q&A](https://youtu.be/GJMmUDR6reU)  
+### Assignments  
+₁₎ [Code Challenge #63 — `[C] Calculate Total, Avg, Percentage`](https://repl.it/student/submissions/1968676)  
+₂₎ [Applied C Programming](https://github.com/lefrenk/Applied-C-Programming)  
+
+[↑](#0)
+***
+## <a name="day066" />Day 066 → Tue → 11/14
+### Lectures  
+₁₎ [Code Challenge #64 — `Nth Fibonacci`](https://youtu.be/kmizuoKV1bY)  
+₂₎ [Applied C Programming — Q&A](https://youtu.be/D_L6PPGRgHo)  
+### Assignments  
+₁₎ [Code Challenge #64 — `Nth Fibonacci`](https://repl.it/student/submissions/1976909)  
+₂₎ [Applied C Programming](https://github.com/lefrenk/Applied-C-Programming)  
+
+[↑](#0)
+***
+## <a name="day067" />Day 067 → Wed → 11/15
+### Lectures  
+₁₎ [Code Challenge #65 — `[C] Highest Product of Three`](https://youtu.be/aSd9AaZORwE)  
+₂₎ [Applied C Programming — Q&A](https://youtu.be/Q8IaO8zbE60)  
+₃₎ [Applied C Programming — Q&A](https://youtu.be/BSpGll8jeLM)  
+₄₎  
+### Assignments  
+₁₎ [Code Challenge #65 — `[C] Highest Product of Three`](https://repl.it/student/submissions/1984981)  
+₂₎ [Applied C Programming](https://github.com/lefrenk/Applied-C-Programming)  
+
+[↑](#0)
+***
+## <a name="day068" />Day 068 → Thu → 11/16
+### Lectures  
+₁₎ [Code Challenge #66 — `[C] Stack`](https://youtu.be/tmLclR55stU)  
+₂₎ [Applied C Programming — Solution](https://youtu.be/D56pJzzCL3A)  
+₃₎ [Theory of Computation — Intro](https://youtu.be/qFCLbQhxNTw)  
+₄₎ [Theory of Computation — Pt. 2](https://youtu.be/6wOOqwY18e0)  
+### Assignments  
+₁₎ [Code Challenge #66 — `[C] Stack`](https://repl.it/student/submissions/1995036)  
+₂₎ [Theory of Computation — Sprint](https://github.com/lefrenk/Theory-Of-Computation)  
+
+[↑](#0)
+***
+## <a name="day069" />Day 069 → Fri → 11/17
+### Lectures  
+₁₎ [Code Challenge #67 — `[C] Linked List`](https://youtu.be/A2s0dBJMW00)  
+₂₎ Brown Bag — React Testing with Jest  
+₃₎ Theory of Computation — Q&A  
+### Assignments  
+₁₎ [Code Challenge #67 — `[C] Linked List`](https://repl.it/student/submissions/2001200)  
+₂₎ [Theory of Computation — Sprint](https://github.com/lefrenk/Theory-Of-Computation)  
+
+[↑](#0)
+# Month 5 ━ January 2018
+## <a name="week16" />Week 16  
+## <a name="day070" />Day 70 → Mon → 1/8
+### Lectures  
+₁₎ [Code Challenge #68 — `[C] Binary Search Tree`](https://youtu.be/Tce_Wh0E8bU)  
+₂₎ [Theory of Computation — RegEx | State Machines](https://youtu.be/ieD4fQFlub0)  
+₃₎ [Theory of Computation — Q&A](https://youtu.be/e0d2oDDzOjU)  
+### Assignments  
+₁₎ [Code Challenge #68 — `[C] Binary Search Tree`](https://repl.it/student/submissions/2225604)  
+₂₎ [Theory of Computation — Sprint](https://github.com/lefrenk/Theory-Of-Computation)  
+
+[↑](#0)
+***
+## <a name="day071" />Day 071 → Tue → 1/9
+### Lectures  
+₁₎ [Code Challenge #69 — `[C] Insertion Sort`](https://youtu.be/OEsgaSBcIjU)  
+₂₎ [Theory of Computation — Q&A](https://youtu.be/naoTUlbhXcA)  
+### Assignments  
+₁₎ [Code Challenge #69 — `[C] Insertion Sort`](https://repl.it/student/submissions/2238599)  
+₂₎ [Theory of Computation — Sprint](https://github.com/lefrenk/Theory-Of-Computation)  
+
+[↑](#0)
+***
+## <a name="day072" />Day 072 → Wed → 1/10
+### Lectures  
 ₁₎ [Code Challenge # — ``]()  
-₂₎ [Brown Bag — Design]()  
+₂₎ []()  
 ₃₎  
 ₄₎  
-### Homework  
+### Assignments  
 ₁₎ [Code Challenge # — ``]()  
 ₂₎ []()  
 
 [↑](#0)
 ***
-# Month 4 ━ November 2017
+## <a name="day073" />Day 073 → Thu → 1/11
+### Lectures  
+₁₎ [Code Challenge # — ``]()  
+₂₎ []()  
+₃₎  
+₄₎  
+### Assignments  
+₁₎ [Code Challenge # — ``]()  
+₂₎ []()  
+
+[↑](#0)
 ***
-# Month 5 ━ December 2017
+## <a name="day074" />Day 074 → Fri → 1/12
+### Lectures  
+₁₎ [Code Challenge # — ``]()  
+₂₎ [Brown Bag — ]()  
+₃₎  
+₄₎  
+### Assignments  
+₁₎ [Code Challenge # — ``]()  
+₂₎ []()  
+
+[↑](#0)
 ***
-# Month 6 ━ January 2018
+# Month 6 ━ February 2018
