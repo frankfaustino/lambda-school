@@ -885,13 +885,13 @@
 ***
 ## <a name="day072" />Day 072 → Wed → 1/10
 ### Lectures  
-₁₎ [Code Challenge # — ``]()  
-₂₎ []()  
-₃₎  
-₄₎  
+₁₎ [Code Challenge #70 — `[C] Queue Using Stack`](https://youtu.be/lavS_jfFRQc)  
+₂₎ [Algorithms Overview](https://youtu.be/-ONy8Rd9Mgg)  
+₃₎ [Algorithms Refresher](https://youtu.be/wDtolL_attI)  
+₄₎ [Knapsack Q&A](https://youtu.be/qY9pGnfIadA)  
 ### Assignments  
-₁₎ [Code Challenge # — ``]()  
-₂₎ []()  
+₁₎ [Code Challenge #70 — `[C] Queue Using Stack`](https://repl.it/student/submissions/2241834)  
+₂₎ [Knapsack Sprint](https://github.com/lefrenk/Knapsack)  
 
 [↑](#0)
 ***
