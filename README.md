@@ -832,7 +832,6 @@
 ₁₎ [Code Challenge #65 — `[C] Highest Product of Three`](https://youtu.be/aSd9AaZORwE)  
 ₂₎ [Applied C Programming — Q&A](https://youtu.be/Q8IaO8zbE60)  
 ₃₎ [Applied C Programming — Q&A](https://youtu.be/BSpGll8jeLM)  
-₄₎  
 ### Assignments  
 ₁₎ [Code Challenge #65 — `[C] Highest Product of Three`](https://repl.it/student/submissions/1984981)  
 ₂₎ [Applied C Programming](https://github.com/lefrenk/Applied-C-Programming)  
