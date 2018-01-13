@@ -897,25 +897,21 @@
 ***
 ## <a name="day073" />Day 073 → Thu → 1/11
 ### Lectures  
-₁₎ [Code Challenge # — ``]()  
-₂₎ []()  
-₃₎  
-₄₎  
+₁₎ [Code Challenge # — `[C] Quick Sort`](https://youtu.be/k8WEt5L-SWY)  
+₂₎ [Knapsack Solution](https://youtu.be/00R1k1sIgJs)  
+₃₎ [Algorithms Analysis](https://youtu.be/PraevRLitQw)  
 ### Assignments  
-₁₎ [Code Challenge # — ``]()  
-₂₎ []()  
+₁₎ [Code Challenge # — `[C] Quick Sort`](https://repl.it/student/submissions/2249563)  
+₂₎ [Quick Sort — Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms#quick-sort)  
 
 [↑](#0)
 ***
 ## <a name="day074" />Day 074 → Fri → 1/12
 ### Lectures  
-₁₎ [Code Challenge # — ``]()  
-₂₎ [Brown Bag — ]()  
-₃₎  
-₄₎  
+₁₎ [Brown Bag — CS1 Capstone Demo]()  
+₂₎ [Sprint Challenge Solution](https://youtu.be/3VZHM9lO6kU)  
 ### Assignments  
-₁₎ [Code Challenge # — ``]()  
-₂₎ []()  
+₁₎ [Theory of Computation/Algorithms — Sprint Challenge](https://github.com/LambdaSchool/Sprint-Challenge--Theory-Algorithms/)  
 
 [↑](#0)
 ***
