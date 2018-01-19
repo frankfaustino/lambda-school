@@ -897,11 +897,11 @@
 ***
 ## <a name="day073" />Day 073 → Thu → 1/11
 ### Lectures  
-₁₎ [Code Challenge # — `[C] Quick Sort`](https://youtu.be/k8WEt5L-SWY)  
+₁₎ [Code Challenge #71 — `[C] Quick Sort`](https://youtu.be/k8WEt5L-SWY)  
 ₂₎ [Knapsack Solution](https://youtu.be/00R1k1sIgJs)  
 ₃₎ [Algorithms Analysis](https://youtu.be/PraevRLitQw)  
 ### Assignments  
-₁₎ [Code Challenge # — `[C] Quick Sort`](https://repl.it/student/submissions/2249563)  
+₁₎ [Code Challenge #71 — `[C] Quick Sort`](https://repl.it/student/submissions/2249563)  
 ₂₎ [Quick Sort — Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms#quick-sort)  
 
 [↑](#0)
@@ -912,6 +912,55 @@
 ₂₎ [Sprint Challenge Solution](https://youtu.be/3VZHM9lO6kU)  
 ### Assignments  
 ₁₎ [Theory of Computation/Algorithms — Sprint Challenge](https://github.com/LambdaSchool/Sprint-Challenge--Theory-Algorithms/)  
+
+[↑](#0)
+***
+
+## <a name="week17" />Week 17  
+## <a name="day075" />Day 75 → Tues → 1/16
+### Lectures  
+₁₎ Code Challenge #72 — `[Py] Python Crash Course`  
+₂₎ [Graphs I — Intro](https://youtu.be/qJX6BTGDbgs)  
+₃₎ [Graphs I — Q&A](https://youtu.be/-f_VqY-YUEM)  
+### Assignments  
+₁₎ [Code Challenge #72 — `[Py] Python Crash Course`](https://repl.it/student/submissions/2274060)  
+₂₎ [Graph I — Sprint](https://github.com/lambdaschool/graphs)  
+
+[↑](#0)
+***
+
+## <a name="day076" />Day 76 → Wed → 1/17
+### Lectures  
+₁₎ [Code Challenge #73 — `[Py] Lists`](https://youtu.be/_82N_uU3eRI)  
+₂₎ [Graphs I — Q&A (Breadth-First Search)](https://youtu.be/AKm-X-CH7-k)  
+₃₎ [Graphs I — Q&A (Time Complexity)]()  
+### Assignments  
+₁₎ [Code Challenge #73 — `[Py] Lists`](https://repl.it/student/submissions/2281307)  
+₂₎ [Graph I — Sprint](https://github.com/lambdaschool/graphs)  
+
+[↑](#0)
+***
+
+## <a name="day077" />Day 77 → Thu → 1/18
+### Lectures  
+₁₎ [Code Challenge #74 — `[Py] Mean Median Mode`](https://youtu.be/ZZ4cxGHYnBI)  
+₂₎ [Graphs I — Q&A (BFS Solution, Connected Components, DFS)](https://youtu.be/QiKXfZQCOsE)  
+₃₎ [Graphs I — Q&A (Animating BFS Refactor)](https://youtu.be/Mb9TJ_tm4Pw)  
+### Assignments  
+₁₎ [Code Challenge #73 — `[Py] Mean Median Mode`](https://repl.it/student/submissions/2288788)  
+₂₎ [Graph I — Sprint](https://github.com/lambdaschool/graphs)  
+
+[↑](#0)
+***
+
+## <a name="day078" />Day 78 → Fri → 1/19
+### Lectures  
+₁₎ [Code Challenge #75 — `[Py] `]()  
+₂₎ [Sprint Challenge]()  
+₃₎ []()  
+### Assignments  
+₁₎ [Code Challenge #75 — `[Py] `]()  
+₂₎ []()  
 
 [↑](#0)
 ***
