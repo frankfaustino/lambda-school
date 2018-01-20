@@ -955,12 +955,12 @@
 
 ## <a name="day078" />Day 78 → Fri → 1/19
 ### Lectures  
-₁₎ [Code Challenge #75 — `[Py] `]()  
-₂₎ [Sprint Challenge]()  
-₃₎ []()  
+₁₎ [Code Challenge #75 — `[Py] Linked List`](https://youtu.be/K5gXT4XGHHc)  
+₂₎ [Graphs II — Connected Component Solution](https://youtu.be/vf2jtbLWgzo)  
+₃₎ [Sprint Challenge Solution](https://youtu.be/8Cp-uoKJEvU)  
 ### Assignments  
-₁₎ [Code Challenge #75 — `[Py] `]()  
-₂₎ []()  
+₁₎ [Code Challenge #75 — `[Py] Linked List`](https://repl.it/student/submissions/2296451)  
+₂₎ [Sprint Challenge — Graphs](github.com/lambdaschool/sprint-Challenge--Graphs/pulls)  
 
 [↑](#0)
 ***
