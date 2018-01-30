@@ -947,7 +947,7 @@
 ₂₎ [Graphs I — Q&A (BFS Solution, Connected Components, DFS)](https://youtu.be/QiKXfZQCOsE)  
 ₃₎ [Graphs I — Q&A (Animating BFS Refactor)](https://youtu.be/Mb9TJ_tm4Pw)  
 ### Assignments  
-₁₎ [Code Challenge #73 — `[Py] Mean Median Mode`](https://repl.it/student/submissions/2288788)  
+₁₎ [Code Challenge #74 — `[Py] Mean Median Mode`](https://repl.it/student/submissions/2288788)  
 ₂₎ [Graph I — Sprint](https://github.com/lambdaschool/graphs)  
 
 [↑](#0)
@@ -964,4 +964,121 @@
 
 [↑](#0)
 ***
+
+## <a name="week18" />Week 18  
+## <a name="day079" />Day 79 → Mon → 1/22
+### Lectures  
+₁₎ [Code Challenge #76 — `[Py] Doubly Linked Lists`](https://youtu.be/lZFwVe72vV0)  
+₂₎ [Security & Cryptography](https://youtu.be/aDmUnYjZV-Y)  
+₃₎ [Security & Cryptography — Q&A](https://youtu.be/SlFwDIAARyk)  
+### Assignments  
+₁₎ [Code Challenge #76 — `[Py] Doubly Linked Lists`](https://repl.it/student/submissions/2307397)  
+₂₎ [Secret Gists — Sprint](https://github.com/lefrenk/Secret-Gists)  
+
+[↑](#0)
+***
+
+## <a name="day080" />Day 80 → Tues → 1/23
+### Lectures  
+₁₎ [Code Challenge #77 — `[Py] Making Change](https://youtu.be/Ip-yo3TJHMc)  
+₂₎ [Secret Gists — Solution](https://youtu.be/sPXEom7LRns)  
+₃₎ [Blockchain](https://youtu.be/BfDQPYtFH50)  
+### Assignments  
+₁₎ [Code Challenge #77 — `[Py] Making Change](https://repl.it/student/submissions/2316263)  
+
+[↑](#0)
+***
+
+## <a name="day081" />Day 81 → Wed → 1/24
+### Lectures  
+₁₎ [Code Challenge #78 — `[Py] Find Rotation Point`](https://youtu.be/eQGeel_PNyM)  
+₂₎ [Cellular Automata](https://youtu.be/nbo1823LuI4)  
+₃₎ [Cyclic Cellular Automata Live-Coding](https://youtu.be/zSuZ1JpUowc)  
+### Assignments  
+₁₎ [Code Challenge #78 — `[Py] Find Rotation Point`](https://repl.it/student/submissions/2325589)  
+₂₎ [Conway's Game of Life — Sprint](https://github.com/LambdaSchool/Conways-Life)  
+
+[↑](#0)
+***
+
+## <a name="day082" />Day 82 → Thu → 1/25
+### Lectures  
+₁₎ [Code Challenge #79 — `[Py] LRU Cache`](https://youtu.be/Kwq53xuAkVs)  
+₂₎ [Conway's Game of Life — Solution](https://youtu.be/oNE6G-wtdA8)  
+₃₎ [Relational Databases — Intro](https://youtu.be/7zIk3MrlX1Y)  
+₄₎ [Relational Databases — Q&A](https://youtu.be/68ZT7lMAkKE)  
+### Assignments  
+₁₎ [Code Challenge #79 — `[Py] LRU Cache`](https://repl.it/student/submissions/2358738)  
+₂₎ [Relational Databases — Sprint](https://github.com/lefrenk/Relational-Databases/)  
+
+[↑](#0)
+***
+
+## <a name="day083" />Day 83 → Fri → 1/26
+### Lectures  
+₁₎ [Brown Bag](hhttps://youtu.be/Yk5NhhX2Jzs)  
+₂₎ [Sprint Challenge Solution](https://youtu.be/e5PXb6Q3x-Y)  
+₃₎ Capstone Project Idea Pitches
+### Assignments  
+₁₎ [Sprint Challenge — Security / Automata](https://github.com/lefrenk/Sprint-Challenge--Security-CA)  
+
+[↑](#0)
+***
+
+## <a name="week19" />Week 19  
+## <a name="day084" />Day 84 → Mon → 1/29
+### Lectures  
+₁₎ [Capstone Project — Overview of Agile & Kanban](https://youtu.be/6FTYtF3r-BA)  
+
+[↑](#0)
+***
+
+## <a name="day085" />Day 85 → Tue → 1/30
+### Lectures  
+₁₎  
+₂₎  
+₃₎  
+### Assignments  
+₁₎  
+₂₎  
+
+[↑](#0)
+***
+
+## <a name="day086" />Day 86 → Wed → 1/31
+### Lectures  
+₁₎  
+₂₎  
+₃₎  
+### Assignments  
+₁₎  
+₂₎  
+
+[↑](#0)
+***
+
 # Month 6 ━ February 2018
+
+## <a name="day087" />Day 87 → Thu → 2/01
+### Lectures  
+₁₎  
+₂₎  
+₃₎  
+### Assignments  
+₁₎  
+₂₎  
+
+[↑](#0)
+***
+
+## <a name="day088" />Day 88 → Fri → 2/02
+### Lectures  
+₁₎  
+₂₎  
+₃₎  
+### Assignments  
+₁₎  
+₂₎  
+
+[↑](#0)
+***
