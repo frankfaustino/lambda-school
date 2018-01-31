@@ -35,9 +35,7 @@
 ┗━━[~~Week 18~~](#week18) → [Security](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project181) ⋰ [Cellular Automata](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project182)  
 
 ┏February  
-┣━━Week 19 → Capstone Projects
-┣━━Week 20 → Capstone Projects
-┗━━Week 21 → Capstone Projects
+┗━━Week 01 → Started 14-Week Teaching Assistant/Web Developer Internship!  
 
 ***
 ### <a name="resources"></a>Resources ⋰ Notes
