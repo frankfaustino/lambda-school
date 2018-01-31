@@ -30,9 +30,14 @@
 ┗━━Holiday Break  
 
 ┏January  
-┣━━[Week 16](#week16) → [Theory of Computation](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project161) ⋰ [Algorithms Refresher](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project162)  
-┣━━[Week 17](#week17) → [Graphs](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project171) ⋰ [Algorithms II](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project172)  
-┗━━[Week 18](#week18) → [Security](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project181) ⋰ [Cellular Automata](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project182)  
+┣━━[~~Week 16~~](#week16) → [Theory of Computation](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project161) ⋰ [Algorithms Refresher](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project162)  
+┣━━[~~Week 17~~](#week17) → [Graphs](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project171) ⋰ [Algorithms II](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project172)  
+┗━━[~~Week 18~~](#week18) → [Security](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project181) ⋰ [Cellular Automata](https://github.com/LambdaSchool/LambdaCSA-Syllabus#project182)  
+
+┏February  
+┣━━Week 19 → Capstone Projects
+┣━━Week 20 → Capstone Projects
+┗━━Week 21 → Capstone Projects
 
 ***
 ### <a name="resources"></a>Resources ⋰ Notes
@@ -1018,67 +1023,16 @@
 ### Lectures  
 ₁₎ [Brown Bag](hhttps://youtu.be/Yk5NhhX2Jzs)  
 ₂₎ [Sprint Challenge Solution](https://youtu.be/e5PXb6Q3x-Y)  
-₃₎ Capstone Project Idea Pitches
+₃₎ [Capstone Project Idea Pitches](https://youtu.be/Yk5NhhX2Jzs)  
 ### Assignments  
 ₁₎ [Sprint Challenge — Security / Automata](https://github.com/lefrenk/Sprint-Challenge--Security-CA)  
 
 [↑](#0)
 ***
 
-## <a name="week19" />Week 19  
-## <a name="day084" />Day 84 → Mon → 1/29
-### Lectures  
-₁₎ [Capstone Project — Overview of Agile & Kanban](https://youtu.be/6FTYtF3r-BA)  
-
-[↑](#0)
-***
-
-## <a name="day085" />Day 85 → Tue → 1/30
-### Lectures  
-₁₎  
-₂₎  
-₃₎  
-### Assignments  
-₁₎  
-₂₎  
-
-[↑](#0)
-***
-
-## <a name="day086" />Day 86 → Wed → 1/31
-### Lectures  
-₁₎  
-₂₎  
-₃₎  
-### Assignments  
-₁₎  
-₂₎  
-
-[↑](#0)
-***
-
-# Month 6 ━ February 2018
-
-## <a name="day087" />Day 87 → Thu → 2/01
-### Lectures  
-₁₎  
-₂₎  
-₃₎  
-### Assignments  
-₁₎  
-₂₎  
-
-[↑](#0)
-***
-
-## <a name="day088" />Day 88 → Fri → 2/02
-### Lectures  
-₁₎  
-₂₎  
-₃₎  
-### Assignments  
-₁₎  
-₂₎  
+## <a name="week01" />Week 01  
+## <a name="day001" />Day 01 → Mon → 1/29
+# Started 14-Week Teaching Assistant/Web Developer Internship!
 
 [↑](#0)
 ***
